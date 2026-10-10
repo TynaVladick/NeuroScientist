@@ -1,0 +1,413 @@
+{
+  "format_version": 3,
+  "embedding_model": "nomic-embed-text",
+  "chunk_size": 1500,
+  "chunk_overlap": 200,
+  "min_chunk_chars": 40,
+  "files": {
+    "42851687_Malignancies in inborn errors of immunity a retrospective-prospective study on a_fulltext.md": [
+      38068,
+      1791612082
+    ],
+    "42851687_Malignancies in inborn errors of immunity a retrospective-prospective study on a_fulltext.xml": [
+      163160,
+      1791612082
+    ],
+    "42851710_Implementing a multi-centre hypoglycaemia management surveillance model through_fulltext.md": [
+      34506,
+      1791612082
+    ],
+    "42851710_Implementing a multi-centre hypoglycaemia management surveillance model through_fulltext.xml": [
+      155174,
+      1791612082
+    ],
+    "42851733_National prioritisation of zoonotic diseases in Rwanda a One Health modified Del_fulltext.md": [
+      28759,
+      1791612082
+    ],
+    "42851733_National prioritisation of zoonotic diseases in Rwanda a One Health modified Del_fulltext.xml": [
+      91731,
+      1791612082
+    ],
+    "42851737_When are large language models medical devices Navigating the MDR and AI Act for_fulltext.md": [
+      41303,
+      1791612082
+    ],
+    "42851737_When are large language models medical devices Navigating the MDR and AI Act for_fulltext.xml": [
+      91818,
+      1791612082
+    ],
+    "42851741_What urban–rural differences exist in cultural norms and maternity care preferen_fulltext.md": [
+      55952,
+      1791612082
+    ],
+    "42851741_What urban–rural differences exist in cultural norms and maternity care preferen_fulltext.xml": [
+      135324,
+      1791612082
+    ],
+    "42851755_Crisis management and relational work in Swiss nursing homes during COVID-19 a q_fulltext.md": [
+      44291,
+      1791612082
+    ],
+    "42851755_Crisis management and relational work in Swiss nursing homes during COVID-19 a q_fulltext.xml": [
+      129690,
+      1791612082
+    ],
+    "42851769_Advances in the application of gene methylation detection in cervical cancer scr_fulltext.md": [
+      112187,
+      1791612082
+    ],
+    "42851769_Advances in the application of gene methylation detection in cervical cancer scr_fulltext.xml": [
+      234921,
+      1791612082
+    ],
+    "42851816_Current status, challenges and future development of self-service appointment pl_fulltext.md": [
+      36041,
+      1791612082
+    ],
+    "42851816_Current status, challenges and future development of self-service appointment pl_fulltext.xml": [
+      136518,
+      1791612082
+    ],
+    "42851824_Iatrogenic coronary artery dissection detection, management, and prevention_fulltext.md": [
+      48376,
+      1791612082
+    ],
+    "42851824_Iatrogenic coronary artery dissection detection, management, and prevention_fulltext.xml": [
+      176396,
+      1791612082
+    ],
+    "42851843_Risk factors for HR-HPV persistence and residual or recurrent high-grade squamou_fulltext.md": [
+      41923,
+      1791612082
+    ],
+    "42851843_Risk factors for HR-HPV persistence and residual or recurrent high-grade squamou_fulltext.xml": [
+      157952,
+      1791612082
+    ],
+    "42851902_Beyond efficacy the treatment lifecycle of incretin and multi-receptor agonists_fulltext.md": [
+      84524,
+      1791612082
+    ],
+    "42851902_Beyond efficacy the treatment lifecycle of incretin and multi-receptor agonists_fulltext.xml": [
+      323017,
+      1791612082
+    ],
+    "42851913_Artificial intelligence in the biomechanics of knee osteoarthritis biomechanical_fulltext.md": [
+      81369,
+      1791612082
+    ],
+    "42851913_Artificial intelligence in the biomechanics of knee osteoarthritis biomechanical_fulltext.xml": [
+      251099,
+      1791612082
+    ],
+    "42851930_Artificial intelligence-driven therapeutics for disease modification in type 1 d_fulltext.md": [
+      104808,
+      1791612082
+    ],
+    "42851930_Artificial intelligence-driven therapeutics for disease modification in type 1 d_fulltext.xml": [
+      493697,
+      1791612082
+    ],
+    "42851954_Obstetric emergency readiness in rural emergency departments a cross-sectional s_fulltext.md": [
+      33918,
+      1791612082
+    ],
+    "42851954_Obstetric emergency readiness in rural emergency departments a cross-sectional s_fulltext.xml": [
+      90887,
+      1791612082
+    ],
+    "42851986_Spatial proteomics technical evolution and applications in cancer research_fulltext.md": [
+      48043,
+      1791612082
+    ],
+    "42851986_Spatial proteomics technical evolution and applications in cancer research_fulltext.xml": [
+      187119,
+      1791612082
+    ],
+    "42852026_Electrochemical Detection of Penicillin G Using a Nanomolecularly Imprinted Poly_fulltext.md": [
+      33287,
+      1791612082
+    ],
+    "42852026_Electrochemical Detection of Penicillin G Using a Nanomolecularly Imprinted Poly_fulltext.xml": [
+      86186,
+      1791612082
+    ],
+    "42852041_A review on monitoring orthodontic treatment from traditional approaches to inno_fulltext.md": [
+      34569,
+      1791612082
+    ],
+    "42852041_A review on monitoring orthodontic treatment from traditional approaches to inno_fulltext.xml": [
+      149388,
+      1791612082
+    ],
+    "42852055_Implementation of next-generation sequencing to guide care and public health act_fulltext.md": [
+      29705,
+      1791612082
+    ],
+    "42852055_Implementation of next-generation sequencing to guide care and public health act_fulltext.xml": [
+      103965,
+      1791612082
+    ],
+    "42852109_The unified front a multidisciplinary approach in the Era of uniportal thoracic_fulltext.md": [
+      72006,
+      1791612082
+    ],
+    "42852109_The unified front a multidisciplinary approach in the Era of uniportal thoracic_fulltext.xml": [
+      255547,
+      1791612082
+    ],
+    "42852129_Bridging bone and muscle ontology-driven prioritization of candidate genes at th_fulltext.md": [
+      43128,
+      1791612082
+    ],
+    "42852129_Bridging bone and muscle ontology-driven prioritization of candidate genes at th_fulltext.xml": [
+      128164,
+      1791612082
+    ],
+    "42852145_Analgesia Administration in Severely Injured Pediatric Trauma Patients A Compari_fulltext.md": [
+      19797,
+      1791612082
+    ],
+    "42852145_Analgesia Administration in Severely Injured Pediatric Trauma Patients A Compari_fulltext.xml": [
+      75341,
+      1791612082
+    ],
+    "42852158_Computational Anesthesiology A New Frontier at the Intersection of Data Science_fulltext.md": [
+      4146,
+      1791612082
+    ],
+    "42852158_Computational Anesthesiology A New Frontier at the Intersection of Data Science_fulltext.xml": [
+      27670,
+      1791612082
+    ],
+    "42852162_Facial Expression-based Pain Detection Development and Validation in the Post-an_fulltext.md": [
+      39381,
+      1791612082
+    ],
+    "42852162_Facial Expression-based Pain Detection Development and Validation in the Post-an_fulltext.xml": [
+      77989,
+      1791612082
+    ],
+    "42852178_AI-enabled fungal biomanufacturing from genome mining to the artificial intellig_fulltext.md": [
+      57062,
+      1791612082
+    ],
+    "42852178_AI-enabled fungal biomanufacturing from genome mining to the artificial intellig_fulltext.xml": [
+      203104,
+      1791612082
+    ],
+    "42852182_ChatGPT Versus DeepSeek in Resectability Categorization of Chronic Rhinosinusiti_fulltext.md": [
+      39801,
+      1791612082
+    ],
+    "42852182_ChatGPT Versus DeepSeek in Resectability Categorization of Chronic Rhinosinusiti_fulltext.xml": [
+      130393,
+      1791612082
+    ],
+    "42852184_Advancing Membrane Technologies for Cancer Therapy and Environmental Health Biom_fulltext.md": [
+      113264,
+      1791612082
+    ],
+    "42852184_Advancing Membrane Technologies for Cancer Therapy and Environmental Health Biom_fulltext.xml": [
+      403355,
+      1791612082
+    ],
+    "42852186_Microbial adaptation and biological effects in the spaceflight environment_fulltext.md": [
+      67063,
+      1791612082
+    ],
+    "42852186_Microbial adaptation and biological effects in the spaceflight environment_fulltext.xml": [
+      237873,
+      1791612082
+    ],
+    "42852204_AI-assisted systems pharmacology with experimental validation reveal multi-targe_fulltext.md": [
+      47000,
+      1791612082
+    ],
+    "42852204_AI-assisted systems pharmacology with experimental validation reveal multi-targe_fulltext.xml": [
+      175563,
+      1791612082
+    ],
+    "42852227_Effects of generative artificial intelligence on students' learning motivation e_fulltext.md": [
+      65405,
+      1791612082
+    ],
+    "42852227_Effects of generative artificial intelligence on students' learning motivation e_fulltext.xml": [
+      221531,
+      1791612082
+    ],
+    "42852234_Rapid Electrochemical Impedance Detection of the Mia Antigen on Red Blood Cells_fulltext.md": [
+      33949,
+      1791612082
+    ],
+    "42852234_Rapid Electrochemical Impedance Detection of the Mia Antigen on Red Blood Cells_fulltext.xml": [
+      86532,
+      1791612082
+    ],
+    "42852247_Neurorehabilitation for cognitive and motor recovery mechanisms, interventions,_fulltext.md": [
+      53772,
+      1791612082
+    ],
+    "42852247_Neurorehabilitation for cognitive and motor recovery mechanisms, interventions,_fulltext.xml": [
+      193546,
+      1791612082
+    ],
+    "42852253_Beyond GCP developing a differentiated competency framework for principal invest_fulltext.md": [
+      36499,
+      1791612082
+    ],
+    "42852253_Beyond GCP developing a differentiated competency framework for principal invest_fulltext.xml": [
+      120748,
+      1791612082
+    ],
+    "42852258_Culinary memories, perceived barriers, and motivations for home cooking among yo_fulltext.md": [
+      59536,
+      1791612082
+    ],
+    "42852258_Culinary memories, perceived barriers, and motivations for home cooking among yo_fulltext.xml": [
+      156810,
+      1791612082
+    ],
+    "42852267_Development and pilot testing of a risk assessment checklist for children of inc_fulltext.md": [
+      41135,
+      1791612082
+    ],
+    "42852267_Development and pilot testing of a risk assessment checklist for children of inc_fulltext.xml": [
+      115250,
+      1791612082
+    ],
+    "42852268_A Box–Behnken-Optimized Phytosomal Strategy for Diosgenin Enhancing Oral Deliver_fulltext.md": [
+      38458,
+      1791612082
+    ],
+    "42852268_A Box–Behnken-Optimized Phytosomal Strategy for Diosgenin Enhancing Oral Deliver_fulltext.xml": [
+      201824,
+      1791612082
+    ],
+    "42852279_Hydroxyethylcellulose- and Chitosan-Modified 3D-Printed Carbon Electrodes for In_fulltext.md": [
+      42318,
+      1791612082
+    ],
+    "42852279_Hydroxyethylcellulose- and Chitosan-Modified 3D-Printed Carbon Electrodes for In_fulltext.xml": [
+      134271,
+      1791612082
+    ],
+    "42852293_Chitosan-Coated Oleuropein Nanoliposomes Enable Dose-Sparing Suppression of Seru_fulltext.md": [
+      77000,
+      1791612082
+    ],
+    "42852293_Chitosan-Coated Oleuropein Nanoliposomes Enable Dose-Sparing Suppression of Seru_fulltext.xml": [
+      191443,
+      1791612082
+    ],
+    "42852302_Pediatric hearing loss in the universal newborn hearing screening era etiologies_fulltext.md": [
+      82915,
+      1791612082
+    ],
+    "42852302_Pediatric hearing loss in the universal newborn hearing screening era etiologies_fulltext.xml": [
+      258639,
+      1791612082
+    ],
+    "42852303_An Immersive Virtual Reality Simulation Program for Dementia Caregivers A Techni_fulltext.md": [
+      33847,
+      1791612082
+    ],
+    "42852303_An Immersive Virtual Reality Simulation Program for Dementia Caregivers A Techni_fulltext.xml": [
+      85548,
+      1791612082
+    ],
+    "42852356_Application of Artificial Intelligence in the Prediction and Management of Strok_fulltext.md": [
+      71349,
+      1791612082
+    ],
+    "42852356_Application of Artificial Intelligence in the Prediction and Management of Strok_fulltext.xml": [
+      219068,
+      1791612082
+    ],
+    "42852366_Casting wider than U-Nets evaluating the role of novel machine learning applicat_fulltext.md": [
+      31802,
+      1791612082
+    ],
+    "42852366_Casting wider than U-Nets evaluating the role of novel machine learning applicat_fulltext.xml": [
+      115513,
+      1791612082
+    ],
+    "42852368_Quantification of reaction time in an Arctic population_fulltext.md": [
+      23477,
+      1791612082
+    ],
+    "42852368_Quantification of reaction time in an Arctic population_fulltext.xml": [
+      96226,
+      1791612082
+    ],
+    "42852379_Clinical Feedback as a Relational and Organisational Process A Qualitative Study_fulltext.md": [
+      59349,
+      1791612082
+    ],
+    "42852379_Clinical Feedback as a Relational and Organisational Process A Qualitative Study_fulltext.xml": [
+      129689,
+      1791612082
+    ],
+    "42852383_Recommended guidelines concerning artificial intelligence and health equity a sc_fulltext.md": [
+      30304,
+      1791612082
+    ],
+    "42852383_Recommended guidelines concerning artificial intelligence and health equity a sc_fulltext.xml": [
+      105256,
+      1791612082
+    ],
+    "42852387_Single-center experience in combined video-assisted thoracic surgery with transb_fulltext.md": [
+      46091,
+      1791612082
+    ],
+    "42852387_Single-center experience in combined video-assisted thoracic surgery with transb_fulltext.xml": [
+      122327,
+      1791612082
+    ],
+    "42852403_Conservative orthodontic re-treatment management of severely proclined upper ant_fulltext.md": [
+      20992,
+      1791612082
+    ],
+    "42852403_Conservative orthodontic re-treatment management of severely proclined upper ant_fulltext.xml": [
+      58305,
+      1791612082
+    ],
+    "42852419_SEFCA-Net a semantic–edge–frequency cross-attention network for diabetic retinop_fulltext.md": [
+      36530,
+      1791612082
+    ],
+    "42852419_SEFCA-Net a semantic–edge–frequency cross-attention network for diabetic retinop_fulltext.xml": [
+      174980,
+      1791612082
+    ],
+    "42852442_N-terminal Pro-B-Type Natriuretic Peptide (NT-proBNP) Versus Artificial Intellig_fulltext.md": [
+      51422,
+      1791612082
+    ],
+    "42852442_N-terminal Pro-B-Type Natriuretic Peptide (NT-proBNP) Versus Artificial Intellig_fulltext.xml": [
+      120078,
+      1791612082
+    ],
+    "42852448_Force-regulated robotic diffuse reflectance spectroscopy scanning_fulltext.md": [
+      43707,
+      1791612082
+    ],
+    "42852448_Force-regulated robotic diffuse reflectance spectroscopy scanning_fulltext.xml": [
+      114385,
+      1791612082
+    ],
+    "42852453_“My Tears Have Been My Food, Both Day and Night” Integrating Theology and Psycho_fulltext.md": [
+      53165,
+      1791612082
+    ],
+    "42852453_“My Tears Have Been My Food, Both Day and Night” Integrating Theology and Psycho_fulltext.xml": [
+      118228,
+      1791612082
+    ],
+    "index.txt": [
+      23769,
+      1791612082
+    ]
+  }
+}

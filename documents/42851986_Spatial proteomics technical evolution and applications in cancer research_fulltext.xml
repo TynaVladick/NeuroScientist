@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:ns1="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Front Cell Dev Biol</journal-id><journal-id journal-id-type="iso-abbrev">Front Cell Dev Biol</journal-id><journal-id journal-id-type="pmc-domain-id">2593</journal-id><journal-id journal-id-type="pmc-domain">frontcdb</journal-id><journal-id journal-id-type="nlm-id">101630250</journal-id><journal-id journal-id-type="publisher-id">Front. Cell Dev. Biol.</journal-id><journal-title-group><journal-title>Frontiers in Cell and Developmental Biology</journal-title></journal-title-group><issn pub-type="epub">2296-634X</issn><publisher><publisher-name>Frontiers Media SA</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13646910</article-id><article-id pub-id-type="pmcid-ver">PMC13646910.1</article-id><article-id pub-id-type="pmcaid">13646910</article-id><article-id pub-id-type="pmcaiid">13646910</article-id><article-id pub-id-type="pmid">42851986</article-id><article-id pub-id-type="doi">10.3389/fcell.2026.1914317</article-id><article-id pub-id-type="publisher-id">1914317</article-id><article-version-alternatives><article-version article-version-type="pmc-version">1</article-version><article-version article-version-type="Version of Record" vocab="NISO-RP-8-2008" /></article-version-alternatives><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Spatial proteomics: technical evolution and applications in cancer research</article-title><alt-title alt-title-type="left-running-head">Tian et al.</alt-title><alt-title alt-title-type="right-running-head">
+<ext-link xlink:href="https://doi.org/10.3389/fcell.2026.1914317" ext-link-type="uri">10.3389/fcell.2026.1914317</ext-link>
+</alt-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Tian</surname><given-names initials="X">Xiaoxiao</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing - original draft</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Huang</surname><given-names initials="D">Di</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><uri xlink:href="https://loop.frontiersin.org/people/3520235" /><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing - original draft</role></contrib><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Hu</surname><given-names initials="J">Jiaxiang</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="c001" ref-type="corresp">*</xref><uri xlink:href="https://loop.frontiersin.org/people/3574052" /><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/Writing - review &amp; editing/">Writing - review and editing</role></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<institution>Department of Gastroenterology, The First Affiliated Hospital, College of Clinical Medicine, Henan University of Science and Technology</institution>, <city>Luoyang</city>, <state>Henan</state>, <country country="CN">China</country>
+</aff><aff id="aff2">
+<label>2</label>
+<institution>Department of Child Healthcare, The Third Affiliated Hospital of Zhengzhou University</institution>, <city>Zhengzhou</city>, <state>Henan</state>, <country country="CN">China</country>
+</aff><aff id="aff3">
+<label>3</label>
+<institution>Department of Scientific Research, The First Affiliated Hospital of Zhengzhou University</institution>, <city>Zhengzhou</city>, <state>Henan</state>, <country country="CN">China</country>
+</aff><author-notes><corresp id="c001">
+<label>*</label>Correspondence: Jiaxiang Hu, <email xlink:href="mailto:hujx0303@163.com">hujx0303@163.com</email>
+</corresp></author-notes><pub-date publication-format="electronic" date-type="pub" iso-8601-date="2026-09-24"><day>24</day><month>9</month><year>2026</year></pub-date><pub-date publication-format="electronic" date-type="collection"><year>2026</year></pub-date><volume>14</volume><issue-id pub-id-type="pmc-issue-id">506080</issue-id><elocation-id>1914317</elocation-id><history><date date-type="received"><day>20</day><month>6</month><year>2026</year></date><date date-type="rev-recd"><day>07</day><month>9</month><year>2026</year></date><date date-type="accepted"><day>14</day><month>9</month><year>2026</year></date></history><pub-history><event event-type="pmc-release"><date><day>24</day><month>09</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>09</day><month>10</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-10-09 12:30:10.983"><day>09</day><month>10</month><year>2026</year></date></event></pub-history><permissions><copyright-statement>Copyright © 2026 Tian, Huang and Hu.</copyright-statement><copyright-year>2026</copyright-year><copyright-holder>Tian, Huang and Hu</copyright-holder><license><ns1:license_ref specific-use="textmining" content-type="ccbylicense" start_date="2026-09-24">https://creativecommons.org/licenses/by/4.0/</ns1:license_ref><license-p>This is an open-access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License (CC BY)</ext-link>. The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p></license></permissions><self-uri content-type="pmc-pdf" xlink:href="fcell-14-1914317.pdf" /><abstract><p>Spatial proteomics is reshaping tissue-based cancer research by linking protein expression to cellular identity, tissue architecture and clinical behavior. Conventional proteomics has provided powerful tools for protein identification and quantification, but most bulk workflows erase the spatial relationships that define tumor ecology. In contrast, spatial proteomics combines multiplexed imaging, mass spectrometry-based tissue analysis, region-selected profiling and computational spatial statistics to measure proteins in their native tissue context. This review summarizes the development of proteomics from early separation and mass spectrometry technologies to current spatial platforms. It then focuses on cancer applications, including tumor heterogeneity, tumor microenvironment, antitumor immunity, immunotherapy response, spatial biomarkers and treatment resistance. Across these areas, spatial proteomics is most valuable when it converts descriptive tissue patterns into testable hypotheses about cell states, neighborhood interactions and therapeutic vulnerabilities. The field now needs standardized workflows, clinically anchored cohorts and functional validation to move from high-dimensional tissue maps to robust translational tools.</p></abstract><kwd-group><kwd>cancer</kwd><kwd>mass spectrometry imaging</kwd><kwd>spatial biomarkers</kwd><kwd>spatial proteomics</kwd><kwd>tumor microenvironment</kwd></kwd-group><funding-group><funding-statement>The author(s) declared that financial support was received for this work and/or its publication. This work was supported by the China National Natural Science Foundation (82606319), the Postdoctoral Fellowship Program of China Postdoctoral Science Foundation (GZC20261144), and the Henan Medical Science and Technology Joint Building Program (LHGJ20260313).</funding-statement></funding-group><counts><fig-count count="3" /><table-count count="2" /><equation-count count="0" /><ref-count count="94" /><page-count count="16" /></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>section-at-acceptance</meta-name><meta-value>Cancer Cell Biology</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="s1"><label>1</label><title>Introduction</title><p>Proteins are the principal executors of cellular function and remain among the most widely used biomarkers and therapeutic targets in oncology. Mass spectrometry-based proteomics has transformed biomedical research by enabling large-scale protein identification, quantification and pathway analysis across cells, tissues and biofluids. Conventional bulk proteomics, however, usually requires tissue homogenization. This workflow averages signals from malignant, stromal, vascular and immune compartments, and it removes the architectural context in which proteins act (<xref rid="B64" ref-type="bibr">Palla et al., 2022a</xref>). Multimodal spatial studies increasingly show that this context is biologically informative across tissues (<xref rid="B29" ref-type="bibr">Guilliams et al., 2022</xref>). This limitation is particularly important in cancer because invasion, immune escape and treatment resistance often emerge from local multicellular interactions rather than from uniform molecular programs (<xref rid="B33" ref-type="bibr">Hsieh et al., 2022</xref>).</p><p>Spatial proteomics addresses this problem by measuring protein abundance, localization and cellular context in intact or spatially registered tissue. The field builds on spatial molecular biology, multiplexed imaging and mass spectrometry imaging, but its emphasis is distinct. It asks not only whether a protein is expressed, but where it is expressed, which cell type carries the signal and which neighboring cells define its functional context (<xref rid="B57" ref-type="bibr">Mund et al., 2022a</xref>). Compared with spatial transcriptomics, spatial proteomics is closer to functional effector biology because proteins execute signaling, metabolism and cell-cell communication. Compared with conventional immunohistochemistry, it offers higher multiplexing and more quantitative spatial readouts from the same tissue section (<xref rid="B16" ref-type="bibr">Digre and Lindskog, 2021</xref>).</p><p>For oncology, this shift is more than a technical upgrade. Tumors are spatially organized ecosystems in which malignant clones, fibroblasts, endothelial cells, immune cells and extracellular matrix form local niches. Spatial protein measurements can show whether cytotoxic T cells enter tumor nests, whether macrophages accumulate near necrotic regions and whether fibroblasts form barriers that exclude immune cells (<xref rid="B37" ref-type="bibr">Keren et al., 2018</xref>). These tissue-level relationships are central to interpreting tumor heterogeneity, immunotherapy response and therapy-induced resistance (<xref rid="B15" ref-type="bibr">Di Mauro and Arbore, 2024</xref>). They cannot be reliably inferred from bulk proteomes or dissociated single-cell data alone.</p><p>This review summarizes how proteomics evolved from protein separation and peptide identification toward tissue-resolved protein mapping. Technical platforms and computational analysis are discussed briefly to provide methodological context. The major focus is the application of spatial proteomics in cancer research, including tumor heterogeneity, tumor microenvironment, immune response, spatial biomarkers and treatment resistance. The review also highlights a central tension in the field: spatial proteomics generates biologically rich tissue maps, but these maps must be standardized, validated and connected to clinical decisions before they can become routine translational tools (<xref rid="B48" ref-type="bibr">Liu et al., 2024</xref>).</p></sec><sec id="s2"><label>2</label><title>From proteomics to spatial proteomics: a brief developmental trajectory</title><p>The evolution from conventional proteomics to spatial proteomics reflects a gradual expansion in what proteomic analysis is expected to resolve: first protein separation, then protein identification, quantitative comparison, subcellular localization and, ultimately, tissue-resolved biological interpretation (<xref rid="F1" ref-type="fig">Figure 1</xref>). This trajectory shows that spatial proteomics did not replace earlier proteomic strategies, but emerged from their convergence with imaging, microdissection, mass spectrometry and computational analysis, enabling protein abundance to be interpreted in relation to cell identity, anatomical structure and local tissue context.</p><fig position="float" id="F1" orientation="portrait"><label>FIGURE 1</label><caption><p>Developmental trajectory from proteomics to spatial proteomics. Evolution of proteomics from bulk protein separation and mass spectrometry-based identification to quantitative, localization, tissue-level and single-cell spatial proteomics. The meaningful analytical unit has shifted from bulk lysates to subcellular regions, tissue compartments and single-cell niches.</p></caption><graphic position="float" orientation="portrait" xlink:href="fcell-14-1914317-g001.webp"><alt-text content-type="machine-generated">Infographic illustrating the evolution of proteomics from the 1970s to the 2020s, detailing seven stages: 2D gel electrophoresis, ESI-MS, protein identification, quantitative proteomics, localization proteomics, spatial tissue proteomics, and spatial single-cell proteomics, with sample types evolving from bulk lysate to single cell or niche.</alt-text></graphic></fig><p>In the mid-1970s, proteomics began with the problem of separating complex protein mixtures before proteins could be identified at scale. High-resolution two-dimensional gel electrophoresis, reported in 1975, combined isoelectric focusing with SDS-PAGE and provided an early proteome-wide view of protein expression (<xref rid="B60" ref-type="bibr">O'Farrell, 1975</xref>). This method allowed many proteins to be separated and compared across biological states. It also established the idea that a proteome could be mapped systematically, although it favored abundant soluble proteins and had limited reproducibility for difficult targets.</p><p>By the late 1980s and early 1990s, the center of protein analysis began to shift from gels to mass spectrometry. Electrospray ionization, introduced for large biomolecules in 1989, made it possible to transfer fragile peptides and proteins into the gas phase without extensive fragmentation (<xref rid="B20" ref-type="bibr">Fenn et al., 1989</xref>). This innovation improved sensitivity, increased liquid chromatography compatibility and moved protein analysis toward peptide-centered workflows.</p><p>During the 1990s and early 2000s, protein identification became scalable because peptide spectra could be linked to sequence databases. Database-search algorithms enabled tandem mass spectra to be matched with peptide sequences from protein databases (<xref rid="B68" ref-type="bibr">Perkins et al., 1999</xref>). Peptide mass fingerprinting provided another route for identifying proteins by matching measured peptide masses to sequence databases (<xref rid="B32" ref-type="bibr">Henzel et al., 1993</xref>). Together, these approaches turned mass spectrometry into a high-throughput discovery platform.</p><p>From the late 1990s to the mid-2000s, quantitative proteomics became a major turning point. ICAT enabled isotope-coded comparison of complex protein mixtures and made relative quantification more systematic (<xref rid="B31" ref-type="bibr">Gygi et al., 1999</xref>). SILAC, introduced in the early 2000s, used metabolic labeling in cell culture and became a robust strategy for comparing cellular proteomes (<xref rid="B61" ref-type="bibr">Ong et al., 2002</xref>). iTRAQ then extended multiplexed peptide quantification across several samples and improved throughput for comparative studies (<xref rid="B76" ref-type="bibr">Ross et al., 2004</xref>). These technologies made proteomics suitable for comparing biological states and treatment effects, but most workflows still required homogenized samples.</p><p>In the 2010s, subcellular and localization-focused proteomics began to recover the missing spatial dimension (<xref rid="B13" ref-type="bibr">Christopher et al., 2021</xref>). APEX2-based proximity labeling enabled spatially resolved proteomic mapping in living cells (<xref rid="B34" ref-type="bibr">Hung et al., 2016</xref>). Organelle and temporal proteomics showed that protein localization changes across infection, signaling or cellular state transitions (<xref rid="B35" ref-type="bibr">Jean Beltran et al., 2016</xref>). LOPIT combined with differential ultracentrifugation further improved high-resolution spatial proteomic mapping (<xref rid="B23" ref-type="bibr">Geladaki et al., 2019</xref>). The Human Protein Atlas provided a large-scale spatial map of protein localization across human cells and tissues (<xref rid="B86" ref-type="bibr">Thul and Lindskog, 2018</xref>). SubCellBarCode later extended this idea by mapping protein localization and relocalization across the proteome (<xref rid="B62" ref-type="bibr">Orre et al., 2019</xref>). These resources made protein position a core biological variable rather than an annotation added after quantification.</p><p>From the late 2010s onward, spatial proteomics emerged more clearly as tissue imaging, microdissection, mass spectrometry and computational analysis converged (<xref rid="B50" ref-type="bibr">Lobingier et al., 2017</xref>). Laser capture microdissection coupled with automated nanodroplet processing improved proteome measurement from histologically defined regions (<xref rid="B93" ref-type="bibr">Zhu et al., 2018</xref>). Automated mass spectrometry imaging mapped thousands of proteins from tissue sections at defined spatial resolution (<xref rid="B69" ref-type="bibr">Piehowski et al., 2020</xref>). Multiplexed ion beam imaging showed that high-dimensional protein imaging could define tumor-immune architecture at single-cell resolution. Spatial single-cell mass spectrometry further illustrated how tissue zonation can be measured directly at the proteome level (<xref rid="B75" ref-type="bibr">Rosenberger et al., 2023</xref>).</p><p>In the 2020s, the unit of proteomic analysis continued to change. Early proteomics treated cells, tissues or biofluids as bulk biochemical material. Quantitative proteomics made state comparisons more reliable, but still treated each sample as one molecular compartment. Spatial proteomics changes this sampling logic. Tissue expansion now offers another route for spatially resolved proteomic measurement (<xref rid="B42" ref-type="bibr">Li et al., 2022</xref>). The unit of analysis can now be a cell, a subcellular region, a histological compartment, a tumor border or a multicellular niche. This matters because proteins often exert different functions depending on local concentration, localization and interaction partners (<xref rid="B7" ref-type="bibr">Boisvert et al., 2012</xref>).</p><p>Viewed chronologically, the field has moved from separation, to identification, to quantification, to localization and finally to tissue-resolved interpretation. Shotgun proteomics and isotope labeling identify and quantify proteins with depth. Spatial platforms ask which molecular signal belongs to which cell and tissue structure. These approaches are complementary rather than competing. Bulk LC-MS/MS provides unbiased coverage, while spatial methods provide anatomical localization and cell-cell context. The most informative studies increasingly combine these strategies. Spatial and cell-type resolved atlases of healthy tissues show how such integration can define baseline tissue organization (<xref rid="B18" ref-type="bibr">Dyring-Andersen et al., 2020</xref>).</p></sec><sec id="s3"><label>3</label><title>Technologies and computational analysis</title><p>Current spatial proteomics platforms differ in molecular coverage, spatial resolution and clinical scalability, making technology choice central to the biological question being asked (<xref rid="F2" ref-type="fig">Figure 2</xref>) (<xref rid="T1" ref-type="table">Table 1</xref>).</p><fig position="float" id="F2" orientation="portrait"><label>FIGURE 2</label><caption><p>Major technologies and analysis workflow in spatial proteomics. Overview of antibody-based imaging, mass spectrometry-based imaging and region-selected profiling platforms, with their main strengths and limitations. The analytical workflow proceeds from image registration and cell segmentation to cell typing, neighborhood analysis and clinical modeling.</p></caption><graphic position="float" orientation="portrait" xlink:href="fcell-14-1914317-g002.webp"><alt-text content-type="machine-generated">Infographic comparing antibody-based imaging, MS-based imaging, and region-selected profiling technologies in spatial proteomics, highlighting their main platforms, strengths, and limitations, with a workflow from image to clinical level analysis, core analytics icons, and a key message emphasizing that technology choice shapes resolution and analysis determines biological claims.</alt-text></graphic></fig><table-wrap position="float" id="T1" orientation="portrait"><label>TABLE 1</label><caption><p>Decision-oriented comparison of spatial proteomics platforms.</p></caption><table frame="hsides" rules="groups"><thead valign="top"><tr><th align="left" rowspan="1" colspan="1">Platform</th><th align="left" rowspan="1" colspan="1">Typical multiplex/coverage</th><th align="left" rowspan="1" colspan="1">Spatial unit/resolution</th><th align="left" rowspan="1" colspan="1">FFPE, throughput and antibody dependence</th><th align="left" rowspan="1" colspan="1">Best-fit question</th><th align="left" rowspan="1" colspan="1">Main advantage, limitation and translational outlook</th></tr></thead><tbody valign="top"><tr><td align="left" rowspan="1" colspan="1">IMC</td><td align="left" rowspan="1" colspan="1">Usually 30–50 markers</td><td align="left" rowspan="1" colspan="1">∼1 μm pixels; single-cell/subcellular</td><td align="left" rowspan="1" colspan="1">FFPE compatible; moderate area throughput; metal-tagged antibodies</td><td align="left" rowspan="1" colspan="1">Which cell states and contacts occur in a defined tissue region?</td><td align="left" rowspan="1" colspan="1">Low autofluorescence and strong phenotyping; slow laser ablation, specialized instrumentation and panel validation. Moderate translational potential for locked targeted panels</td></tr><tr><td align="left" rowspan="1" colspan="1">MIBI-TOF</td><td align="left" rowspan="1" colspan="1">Usually ∼40–50 markers; higher capacity reported</td><td align="left" rowspan="1" colspan="1">∼0.3–1 μm; single-cell/subcellular</td><td align="left" rowspan="1" colspan="1">FFPE compatible; moderate-to-low area throughput; metal-tagged antibodies</td><td align="left" rowspan="1" colspan="1">How are rare cells and nanoscale-to-cellular neighborhoods organized?</td><td align="left" rowspan="1" colspan="1">High spatial resolution and dynamic range; costly specialized instrumentation and limited routine availability. Moderate translational potential</td></tr><tr><td align="left" rowspan="1" colspan="1">CODEX/PhenoCycler</td><td align="left" rowspan="1" colspan="1">Commonly 40–100+ markers</td><td align="left" rowspan="1" colspan="1">Optical, single-cell/subcellular</td><td align="left" rowspan="1" colspan="1">FFPE compatible with validated panels; moderate-to-high sample throughput; DNA-barcoded antibodies</td><td align="left" rowspan="1" colspan="1">How do immune and stromal neighborhoods vary across large cohorts?</td><td align="left" rowspan="1" colspan="1">High plex and broad tissue coverage; repeated cycles, registration and antibody validation add complexity. High potential for targeted translational studies</td></tr><tr><td align="left" rowspan="1" colspan="1">t-CyCIF</td><td align="left" rowspan="1" colspan="1">Up to ∼60 markers in published implementations</td><td align="left" rowspan="1" colspan="1">Optical, single-cell/subcellular; whole-slide capable</td><td align="left" rowspan="1" colspan="1">FFPE compatible; parallel slide processing but many cycles; conventional antibodies</td><td align="left" rowspan="1" colspan="1">Can whole-slide architecture and signaling states be screened accessibly?</td><td align="left" rowspan="1" colspan="1">Uses conventional microscopes and flexible panels; cycle time, tissue loss and order effects require controls. High potential after automation and panel locking</td></tr><tr><td align="left" rowspan="1" colspan="1">GeoMx DSP</td><td align="left" rowspan="1" colspan="1">Up to ∼570 antibodies (Immuno-Oncology Proteome Atlas); whole transcriptome (∼18,000 genes) in parallel; Discovery Proteome Atlas supports &gt;1,200 protein targets</td><td align="left" rowspan="1" colspan="1">Pathologist-selected ROIs, usually multicellular rather than intrinsically single-cell</td><td align="left" rowspan="1" colspan="1">Strong FFPE compatibility and cohort scalability; antibody/oligonucleotide affinity reagents</td><td align="left" rowspan="1" colspan="1">Which histological compartments carry outcome-associated signals? (high-plex protein and transcript co-profiling)</td><td align="left" rowspan="1" colspan="1">Clinical-sample friendly and pathology guided; ROI averaging and selection bias limit cellular inference. High-plex protein panels (IPA: ∼570 targets; DPA: &gt;1,200 targets) now available. Relatively high near-term translational potential</td></tr><tr><td align="left" rowspan="1" colspan="1">MALDI-MSI/spatial LC-MS</td><td align="left" rowspan="1" colspan="1">Untargeted hundreds-to-thousands of molecular features or proteins, workflow dependent</td><td align="left" rowspan="1" colspan="1">Typically ∼10–100 μm; cell-scale methods are emerging</td><td align="left" rowspan="1" colspan="1">Fresh-frozen is common; FFPE requires optimized preparation; moderate throughput; antibody independent for discovery</td><td align="left" rowspan="1" colspan="1">Which unexpected molecules or protein programs map to histology?</td><td align="left" rowspan="1" colspan="1">Unbiased discovery and molecular breadth; identification, quantification, sensitivity and spatial-resolution trade-offs. Moderate translational potential after assay simplification</td></tr><tr><td align="left" rowspan="1" colspan="1">SIMS/nanoSIMS/DESI-MSI</td><td align="left" rowspan="1" colspan="1">Chemical/isotopic features; protein specificity is limited unless targeted labels are used</td><td align="left" rowspan="1" colspan="1">Sub-micrometre to nanoscale for SIMS; tens-to-hundreds of micrometres for DESI</td><td align="left" rowspan="1" colspan="1">Tissue compatible but specialized workflows; generally antibody independent, except targeted immunolabeling</td><td align="left" rowspan="1" colspan="1">Where are subcellular chemical or isotope-tracer patterns, or ambient-surface molecular signals?</td><td align="left" rowspan="1" colspan="1">Distinct chemical resolution or minimal-preparation imaging; limited protein identification, destructive sampling or low throughput constrain routine clinical use</td></tr><tr><td align="left" rowspan="1" colspan="1">DBiT-seq/spatial-CITE-seq</td><td align="left" rowspan="1" colspan="1">∼20–273 antibody-derived protein targets plus transcriptome in published studies</td><td align="left" rowspan="1" colspan="1">∼10–25 μm spatial pixels</td><td align="left" rowspan="1" colspan="1">Fixed tissue; moderate throughput; DNA-tagged antibodies plus microfluidics and sequencing</td><td align="left" rowspan="1" colspan="1">Which protein and transcript programs co-occur in the same spatial grid?</td><td align="left" rowspan="1" colspan="1">Exceptional multi-omic plex; pixel mixing, sequencing burden and specialized handling remain barriers. Emerging translational potential</td></tr><tr><td align="left" rowspan="1" colspan="1">AI virtual spatial proteomics</td><td align="left" rowspan="1" colspan="1">Model-specific; HEX predicts 40 proteins</td><td align="left" rowspan="1" colspan="1">Computational patches or inferred cell/neighborhood maps</td><td align="left" rowspan="1" colspan="1">Scales to archived H&amp;E/FFPE slides; no antibody at inference, but measured labels are required for training</td><td align="left" rowspan="1" colspan="1">Can measured spatial biomarkers be screened or triaged at pathology scale?</td><td align="left" rowspan="1" colspan="1">Low incremental tissue use and high scalability; domain shift, calibration and non-equivalence to measured protein remain major risks. Promising as a complement, not a replacement</td></tr></tbody></table></table-wrap><p>Current spatial proteomics technologies can be grouped into antibody-based imaging, mass spectrometry-based imaging and region-selected molecular profiling. Antibody-based platforms such as multiplexed ion beam imaging, imaging mass cytometry and multiplexed immunofluorescence quantify many protein markers with single-cell spatial resolution. Multiplexed ion beam imaging revealed structured tumor-immune organization in triple-negative breast cancer (<xref rid="B2" ref-type="bibr">Angelo et al., 2014</xref>). Imaging mass cytometry enabled highly multiplexed subcellular protein imaging and was subsequently extended to simultaneous multiplexed imaging of mRNA and proteins in breast cancer tissue (<xref rid="B24" ref-type="bibr">Giesen et al., 2014</xref>; <xref rid="B81" ref-type="bibr">Schulz et al., 2018</xref>). The strength of these methods is cellular phenotyping in intact tissue, whereas their limitation is dependence on antibody quality and panel design. Sequential immunofluorescence workflows show how hyperplex imaging can expand antibody-based spatial proteomics (<xref rid="B74" ref-type="bibr">Rivest et al., 2023</xref>).</p><p>Cyclic antibody imaging is a major subclass within this group. CODEX, commercialized as PhenoCycler, uses DNA-barcoded antibodies and iterative fluorescent readout to generate high-plex single-cell maps, whereas tissue-based cyclic immunofluorescence (t-CyCIF) repeats staining, imaging and fluorophore inactivation on conventional optical microscopes (<xref rid="B25" ref-type="bibr">Goltsev et al., 2018</xref>; <xref rid="B44" ref-type="bibr">Lin et al., 2018</xref>). These modalities are directly relevant to the application literature summarized below: PhenoCycler-Fusion was used in the NSCLC and head-and-neck cohorts described by Aung et al. and Sadeghirad et al., and cyclic imaging supported the three-dimensional colorectal cancer atlas reported by Lin et al. Their principal strengths are broad tissue coverage and cellular phenotyping; registration error, cycle-dependent antigenicity, tissue loss and antibody-panel validation are the main constraints.</p><p>Mass spectrometry-based approaches offer a different balance of strengths. MALDI-MSI and spatially resolved LC-MS workflows are less dependent on predefined antibodies and can discover unexpected molecular species (<xref rid="B30" ref-type="bibr">Gustafsson et al., 2011</xref>). Deep visual proteomics links image-guided cell selection with high-depth mass spectrometry and thereby connects morphology with proteome states. MALDI-guided spatial proteomics can combine targeted histological information with untargeted molecular discovery (<xref rid="B14" ref-type="bibr">Claes et al., 2023</xref>). Recent bottom-up spatial proteomics protocols are moving toward single-cell resolution, although throughput and protein identification depth remain important constraints (<xref rid="B27" ref-type="bibr">Grgic et al., 2024</xref>). Single-cell mass spectrometry imaging with integrated microscopy further extends this direction (<xref rid="B71" ref-type="bibr">Potthoff et al., 2025</xref>).</p><p>Additional mass spectrometry imaging modalities occupy distinct analytical niches. Secondary ion mass spectrometry (SIMS) and nanoSIMS provide submicrometre or nanoscale chemical and isotope maps, with targeted protein visualization possible through isotope- or nanoparticle-labelled affinity reagents. Desorption electrospray ionization mass spectrometry imaging (DESI-MSI) samples tissue surfaces under ambient conditions with limited preparation (<xref rid="B67" ref-type="bibr">Passarelli and Winograd, 2011</xref>; <xref rid="B84" ref-type="bibr">Takáts et al., 2004</xref>). These approaches extend spatial molecular analysis beyond MALDI, but destructive sampling, restricted protein identification or lower throughput currently limit routine clinical use.</p><p>Region-selected spatial profiling occupies an intermediate position between imaging and global proteomics. Automated spatial multi-omics platforms increase throughput for region-linked molecular profiling. Digital spatial profiling and related approaches allow investigators to select regions of interest based on morphology, marker expression or pathology review (<xref rid="B54" ref-type="bibr">Merritt et al., 2020</xref>). These regions can then be linked to protein or transcript measurements. This design is useful for formalin-fixed paraffin-embedded clinical material because it connects molecular readouts to pathologist-defined compartments (<xref rid="B87" ref-type="bibr">Vickovic et al., 2022</xref>). Its limitation is that the spatial unit is often a selected region rather than a fully resolved single cell.</p><p>Sequencing-based deterministic barcoding adds a fourth branch to the taxonomy. DBiT-seq co-maps mRNAs and antibody-derived protein tags on spatial grids, while spatial-CITE-seq extends protein multiplexing to hundreds of epitopes together with the transcriptome (<xref rid="B47" ref-type="bibr">Liu et al., 2023</xref>; <xref rid="B46" ref-type="bibr">Liu et al., 2020</xref>). These methods provide exceptional multi-omic breadth but remain antibody dependent for protein measurement and trade direct subcellular imaging for barcoded pixels, microfluidic handling and sequencing.</p><p>Platform selection should therefore begin with the endpoint rather than the highest marker count. IMC or MIBI is well suited to high-resolution cell-state and contact questions in a limited tissue area; CODEX/PhenoCycler or t-CyCIF is preferable when whole-slide or large-cohort cellular architecture is central; GeoMx DSP is efficient for pathology-defined FFPE compartments and clinically annotated cohorts; and MALDI-MSI or spatial LC-MS is preferred for antibody-independent discovery. Deterministic barcoding is most useful when protein-transcript co-mapping is essential, whereas virtual spatial proteomics is a scalable inference layer for archived H&amp;E material. For GeoMx DSP, the platform has evolved substantially beyond its original design; it now supports up to approximately 570 antibodies through the Immuno-Oncology Proteome Atlas (IPA) and over 1,200 protein targets through the Discovery Proteome Atlas (DPA), both run in parallel with whole-transcriptome profiling (∼18,000 genes) (<xref rid="B51" ref-type="bibr">Lubo et al., 2024</xref>). For near-term clinical translation, targeted, FFPE-compatible and automatable platforms have the clearest path, but only after marker panels, acquisition settings and analysis pipelines are locked and externally validated.</p><p>Computational analysis determines whether spatial proteomic data become biological insight. Image registration, segmentation, cell typing, batch correction, neighborhood analysis and clinical modeling are required before spatial signals can be interpreted. Squidpy provides a scalable framework for spatial omics analysis and supports neighborhood and spatial graph analysis (<xref rid="B65" ref-type="bibr">Palla et al., 2022b</xref>). SPIAT and spaSim were developed to characterize and simulate tissue microenvironments from spatial data (<xref rid="B19" ref-type="bibr">Feng et al., 2023</xref>). Newer machine learning models improve cell annotation and segmentation, but algorithmic choices can still reshape biological conclusions (<xref rid="B82" ref-type="bibr">Shaban et al., 2024</xref>). Deep learning reviews of highly multiplexed tissue imaging emphasize similar issues for segmentation and feature extraction (<xref rid="B94" ref-type="bibr">Zidane et al., 2023</xref>).</p><p>Spatial proteomics requires analysis at several levels. At the image level, nuclei and cell boundaries must be segmented accurately. Segmentation errors propagate to cell-type proportions, distance metrics and apparent cell-cell contacts, so performance should be audited against expert annotations across representative tissues. At the cellular level, marker intensity must be normalized and translated into cell states. Autofluorescence, spillover, thresholding and batch correction can merge or split phenotypes and destabilize biomarker selection. At the tissue level, neighborhoods, gradients and compartment boundaries must be defined. ROI sampling, neighborhood scale and null-model choice can create spurious enrichment or obscure rare niches. At the clinical level, these spatial features must be linked to outcomes without overfitting. Small cohorts, center effects, data leakage and uncalibrated models can inflate apparent prognostic or stratification performance. This hierarchy explains why computational methods are not technical details. Reliable spatial proteomics also depends on data-analysis foundations that can control spatial and quantitative variability (<xref rid="B22" ref-type="bibr">Gatto et al., 2014</xref>). They determine which biological claims can be made from the data (<xref rid="B11" ref-type="bibr">Chen et al., 2024</xref>).</p><p>A computational pipeline is clinically fit for purpose when it is prespecified or locked before endpoint evaluation, versioned and reproducible from raw data, tested with positive and negative controls, robust to reasonable segmentation and neighborhood parameters, externally validated across centers or platforms, calibrated for the intended endpoint, and accompanied by uncertainty and failure analyses. Under these conditions, computation can convert images into stable cell-state and neighborhood features, control technical variation and support patient-level models that add information beyond established clinicopathological covariates. Without these safeguards, a spatial signature may encode scanner, batch or ROI-selection effects rather than tumor biology (<xref rid="B79" ref-type="bibr">Samorodnitsky and Wu, 2024</xref>; <xref rid="B80" ref-type="bibr">Schapiro et al., 2022</xref>).</p></sec><sec id="s4"><label>4</label><title>Advantages of spatial proteomics</title><p>The distinctive value of spatial proteomics is not simply higher multiplexing. It is the ability to interpret protein expression within preserved tissue architecture. Bulk proteomics can identify altered pathways, but it cannot distinguish whether a signal arises from malignant cells, immune infiltrates, fibroblasts, endothelial cells or rare cellular niches (<xref rid="F3" ref-type="fig">Figure 3</xref>). Early spatial tissue proteomics in hepatocellular carcinoma already showed that regional protein measurements could quantify intertumor and intratumor heterogeneity more directly than averaged tissue profiling (<xref rid="B9" ref-type="bibr">Buczak et al., 2018</xref>). Deep visual proteomics further extended this logic by linking cellular morphology, artificial intelligence-guided microdissection and ultrasensitive mass spectrometry to single-cell-resolved protein states (<xref rid="B58" ref-type="bibr">Mund et al., 2022b</xref>). More recent low-input spatial tissue proteomics workflows also show that protein-level analysis is becoming feasible in smaller and more precisely defined tissue regions (<xref rid="B52" ref-type="bibr">Makhmut et al., 2023</xref>).</p><fig position="float" id="F3" orientation="portrait"><label>FIGURE 3</label><caption><p>Advantages of spatial proteomics in cancer research. Spatial proteomics links protein abundance with tissue location, cellular identity and neighborhood structure. Its main value lies in interpreting tumor ecology, identifying clinically meaningful spatial biomarkers and generating hypotheses for perturbation or longitudinal validation.</p></caption><graphic position="float" orientation="portrait" xlink:href="fcell-14-1914317-g003.webp"><alt-text content-type="machine-generated">Infographic explaining why spatial proteomics matters in cancer, with four panels: (1) shows spatial proteomics linking protein abundance to cell location, unlike bulk proteomics; (2) illustrates tumor microenvironment context, identifying spatial features like immune-excluded regions and stromal barriers; (3) highlights translational advantage by preserving histological context for clinically interpretable biomarkers and survival analysis; (4) emphasizes that spatial association does not imply causality, suggesting spatial data are best for hypothesis generation and refinement. Icons at the bottom summarize key benefits: protein abundance with location, anatomical interpretability, and stronger insights with perturbation or longitudinal sampling.</alt-text></graphic></fig><p>This spatial context is particularly critical in cancer. Tumors are ecological systems composed of malignant clones, immune cells, fibroblasts, endothelial cells and extracellular matrix. Their behavior depends on adjacency, exclusion, invasion and reciprocal signaling. Similar single-cell spatial imaging of ductal carcinoma <italic toggle="yes">in situ</italic> and invasive breast cancer revealed progressive stromal remodeling during invasion (<xref rid="B73" ref-type="bibr">Risom et al., 2022</xref>). Spatially resolved multi-omics in glioblastoma further demonstrated bidirectional tumor-host dependencies that would be difficult to infer from dissociated or bulk profiles (<xref rid="B72" ref-type="bibr">Ravi et al., 2022</xref>). Integrative spatial analysis of glioblastoma and 3D mapping of colorectal cancer also showed that tissue architecture can reveal layered tumor organization and state transitions across local microenvironments (<xref rid="B26" ref-type="bibr">Greenwald et al., 2024</xref>; <xref rid="B45" ref-type="bibr">Lin et al., 2023</xref>).</p><p>Spatial proteomics also provides a practical advantage for translational studies because it can be applied to tissue sections that preserve histology. This allows molecular analysis to be aligned with tumor grade, invasive fronts, necrosis, immune infiltration, vascular structures and stromal compartments. The Human Protein Atlas illustrates the broader value of mapping proteins in tissue context at scale. In glioblastoma, spatial proteome analysis identified molecular signatures and survival-associated markers, showing how tissue-resolved protein measurements can be connected to clinical outcome (<xref rid="B17" ref-type="bibr">Duhamel et al., 2022</xref>). AI-enabled virtual spatial proteomics from histopathology also suggests that spatial protein information may eventually be scaled through computational links between morphology and molecular state (<xref rid="B43" ref-type="bibr">Li et al., 2026</xref>).</p><p>AI-based virtual spatial proteomics is a computational extension rather than a direct measurement platform. Models such as H&amp;E-to-protein expression (HEX) learn mappings from routine histology to matched high-plex protein images and generate virtual marker maps at scale; in six independent NSCLC cohorts, such maps supported prognostic and immunotherapy-response modeling (<xref rid="B43" ref-type="bibr">Li et al., 2026</xref>). More broadly, multiscale oncology AI can link radiology, whole-slide morphology and spatial molecular data across macroscopic and microscopic scales (<xref rid="B85" ref-type="bibr">Tarhini and El Naqa, 2025</xref>). Its translational appeal is low incremental tissue use and compatibility with archived H&amp;E slides. However, predicted expression is sensitive to staining and scanner shifts, cohort composition and training-label quality. Virtual maps therefore require protein-level calibration, external multi-institutional validation and prospective endpoint testing, and should be treated as inferred biomarkers rather than substitutes for measured spatial proteomics.</p><p>Another advantage is interpretability. A spatial protein feature can often be described in anatomical terms, such as CD8-positive cells excluded from tumor nests, macrophages enriched near invasive fronts or fibroblasts forming stromal barriers. These features are easier for clinicians and pathologists to interpret than abstract latent variables from bulk omics. Conserved spatial subtypes and cellular neighborhoods of cancer-associated fibroblasts provide a clear example of how protein and cell-state information can be translated into tissue-level biological concepts (<xref rid="B49" ref-type="bibr">Liu et al., 2025</xref>). This interpretability may improve clinical adoption, provided that spatial metrics are standardized and reproducible. Standardized workflows for histology-compatible spatial proteomics therefore represent an important step toward cross-cohort comparison and clinical translation (<xref rid="B59" ref-type="bibr">Nordmann et al., 2023</xref>).</p><p>The field should nonetheless avoid overclaiming. Spatial association is not causality. A cell neighborhood can nominate mechanisms, but mechanistic claims require orthogonal measurement and perturbation in models that preserve the relevant cell-cell context. Counterfactual learning from large-scale spatial proteomic profiles further illustrates how spatial maps can nominate perturbations, although such predictions still require experimental validation. In this sense, spatial proteomics is best viewed as a hypothesis-generating and hypothesis-refining approach rather than a standalone proof of mechanism.</p></sec><sec id="s5"><label>5</label><title>Applications in cancer research</title><p>In cancer research, spatial proteomics is most informative when it connects protein expression to the physical organization of tumor tissue. This section therefore focuses on studies that measured proteins, peptides or protein-defined cell states in spatially resolved tissue contexts, including multiplexed antibody imaging, digital spatial profiling, mass spectrometry imaging, imaging-guided microdissection and deep visual proteomics (<xref rid="T2" ref-type="table">Table 2</xref>). Evidence is compared below by platform, cohort design, cross-study convergence and proximity to a clinically testable endpoint rather than by novelty alone.</p><table-wrap position="float" id="T2" orientation="portrait"><label>TABLE 2</label><caption><p>Representative cancer studies using spatial proteomics technologies.</p></caption><table frame="hsides" rules="groups"><thead valign="top"><tr><th align="left" rowspan="1" colspan="1">Applications in cancer research</th><th align="left" rowspan="1" colspan="1">Tumor type</th><th align="left" rowspan="1" colspan="1">Sample type/cohort</th><th align="left" rowspan="1" colspan="1">Spatial proteomics platform</th><th align="left" rowspan="1" colspan="1">Main spatial-proteomic contribution</th><th align="left" rowspan="1" colspan="1">References</th></tr></thead><tbody valign="top"><tr><td rowspan="5" align="left" colspan="1">Tumor heterogeneity</td><td align="left" rowspan="1" colspan="1">Hepatocellular carcinoma</td><td align="left" rowspan="1" colspan="1">HCC tumor regions</td><td align="left" rowspan="1" colspan="1">Spatial tissue proteomics/regional LC-MS-based proteomics</td><td align="left" rowspan="1" colspan="1">Quantified intertumor and intratumor proteomic heterogeneity</td><td align="left" rowspan="1" colspan="1">(<xref rid="B9" ref-type="bibr">Buczak et al., 2018</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Pancreatic tumor</td><td align="left" rowspan="1" colspan="1">FFPE pancreatic tumor sections</td><td align="left" rowspan="1" colspan="1">SCPro: mIHC-guided LMD + iPAC LC-MS/MS</td><td align="left" rowspan="1" colspan="1">Resolved malignant and stromal protein states in local tissue regions</td><td align="left" rowspan="1" colspan="1">(<xref rid="B90" ref-type="bibr">Xu et al., 2024</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Colorectal adenoma</td><td align="left" rowspan="1" colspan="1">Human colorectal adenoma tissue</td><td align="left" rowspan="1" colspan="1">Deep visual proteomics</td><td align="left" rowspan="1" colspan="1">Stratified precursor lesions by spatial molecular features</td><td align="left" rowspan="1" colspan="1">(<xref rid="B36" ref-type="bibr">Kabatnik et al., 2024</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Colorectal cancer</td><td align="left" rowspan="1" colspan="1">Patient-derived CRC samples</td><td align="left" rowspan="1" colspan="1">Functional and spatial proteomics</td><td align="left" rowspan="1" colspan="1">Mapped regional intra- and intercellular signaling crosstalk</td><td align="left" rowspan="1" colspan="1">(<xref rid="B70" ref-type="bibr">Plattner et al., 2023</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Diffuse malignant mesothelioma</td><td align="left" rowspan="1" colspan="1">Mesothelioma tissue regions</td><td align="left" rowspan="1" colspan="1">FTIR imaging-guided LCM proteomics</td><td align="left" rowspan="1" colspan="1">Linked histological heterogeneity to regional molecular differences</td><td align="left" rowspan="1" colspan="1">(<xref rid="B28" ref-type="bibr">Großerueschkamp et al., 2017</xref>)</td></tr><tr><td rowspan="5" align="left" colspan="1">Tumor microenvironment</td><td align="left" rowspan="1" colspan="1">Hepatocellular carcinoma</td><td align="left" rowspan="1" colspan="1">HCC tissue sections</td><td align="left" rowspan="1" colspan="1">Pathology-guided spatial proteomics</td><td align="left" rowspan="1" colspan="1">Identified stromal architectures and CAF subpopulations with opposing outcome associations</td><td align="left" rowspan="1" colspan="1">(<xref rid="B12" ref-type="bibr">Cheng et al., 2025</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Pan-cancer CAF analysis</td><td align="left" rowspan="1" colspan="1">Multiple tumor and tissue contexts</td><td align="left" rowspan="1" colspan="1">Spatial transcriptomic and proteomic landscape analysis</td><td align="left" rowspan="1" colspan="1">Placed CAF superclusters in spatial proteomic and tissue-context maps</td><td align="left" rowspan="1" colspan="1">(<xref rid="B21" ref-type="bibr">Foster et al., 2022</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Chordoma</td><td align="left" rowspan="1" colspan="1">Chordoma tissue sections</td><td align="left" rowspan="1" colspan="1">GeoMx DSP, DIA proteomics and multiplexed quantitative immunofluorescence</td><td align="left" rowspan="1" colspan="1">Linked ER-stress CAFs to GMFG-ITGB1 signaling and immune remodeling</td><td align="left" rowspan="1" colspan="1">(<xref rid="B92" ref-type="bibr">Zhang et al., 2024b</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">High-grade serous ovarian cancer</td><td align="left" rowspan="1" colspan="1">BRCA1/2-mutated and non-mutated HGSOC tumors</td><td align="left" rowspan="1" colspan="1">Highly multiplexed immunofluorescence imaging</td><td align="left" rowspan="1" colspan="1">Defined single-cell tumor-immune microenvironment features associated with BRCA status</td><td align="left" rowspan="1" colspan="1">(<xref rid="B39" ref-type="bibr">Launonen et al., 2022</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Colorectal cancer</td><td align="left" rowspan="1" colspan="1">CRC tissue and CAF analyses</td><td align="left" rowspan="1" colspan="1">Spatial proteomics with single-cell analysis</td><td align="left" rowspan="1" colspan="1">Identified CAF-mediated effector T-cell inhibition through NECTIN2 signaling</td><td align="left" rowspan="1" colspan="1">(<xref rid="B1" ref-type="bibr">Agorku et al., 2024</xref>)</td></tr><tr><td rowspan="5" align="left" colspan="1">Immunity and immunotherapy</td><td align="left" rowspan="1" colspan="1">Primary melanoma</td><td align="left" rowspan="1" colspan="1">Primary melanoma tissue specimens</td><td align="left" rowspan="1" colspan="1">Single-cell multiplexed imaging</td><td align="left" rowspan="1" colspan="1">Showed functional heterogeneity of lymphocytic infiltration patterns</td><td align="left" rowspan="1" colspan="1">(<xref rid="B8" ref-type="bibr">Bosisio et al., 2020</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Metastatic melanoma treated with TIL-ACT</td><td align="left" rowspan="1" colspan="1">Longitudinal tumor samples from 13 patients</td><td align="left" rowspan="1" colspan="1">Spatial proteomic analysis</td><td align="left" rowspan="1" colspan="1">Associated response with pre-existing CD8 T-cell-myeloid networks</td><td align="left" rowspan="1" colspan="1">(<xref rid="B4" ref-type="bibr">Barras et al., 2024</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Advanced NSCLC</td><td align="left" rowspan="1" colspan="1">Patients treated with bispecific antibody</td><td align="left" rowspan="1" colspan="1">GeoMx DSP/spatial multi-omics</td><td align="left" rowspan="1" colspan="1">Linked tumor ecosystem heterogeneity to immunotherapy efficacy</td><td align="left" rowspan="1" colspan="1">(<xref rid="B83" ref-type="bibr">Song et al., 2023</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Advanced NSCLC</td><td align="left" rowspan="1" colspan="1">234 advanced NSCLC patients across cohorts</td><td align="left" rowspan="1" colspan="1">PhenoCycler-Fusion spatial proteomics plus GeoMx DSP WTA/CTA</td><td align="left" rowspan="1" colspan="1">Developed spatial signatures for predicting immunotherapy outcomes</td><td align="left" rowspan="1" colspan="1">(<xref rid="B3" ref-type="bibr">Aung et al., 2025</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Muscle-invasive bladder cancer</td><td align="left" rowspan="1" colspan="1">Neoadjuvant chemoimmunotherapy cohort</td><td align="left" rowspan="1" colspan="1">GeoMx DSP/spatial proteomic profiling</td><td align="left" rowspan="1" colspan="1">Associated spatial TME relationships with pathologic response</td><td align="left" rowspan="1" colspan="1">(<xref rid="B5" ref-type="bibr">Beckabir et al., 2024</xref>)</td></tr><tr><td rowspan="2" align="left" colspan="1">​</td><td align="left" rowspan="1" colspan="1">Head and neck cancer</td><td align="left" rowspan="1" colspan="1">Recurrent/metastatic HNSCC cohorts</td><td align="left" rowspan="1" colspan="1">GeoMx DSP and Akoya PhenoCycler-Fusion</td><td align="left" rowspan="1" colspan="1">Linked tertiary lymphoid aggregate dynamics to immunotherapy response</td><td align="left" rowspan="1" colspan="1">(<xref rid="B78" ref-type="bibr">Sadeghirad et al., 2024</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Hepatocellular carcinoma</td><td align="left" rowspan="1" colspan="1">Clinical trial tissue samples</td><td align="left" rowspan="1" colspan="1">Imaging mass cytometry spatial multiomics</td><td align="left" rowspan="1" colspan="1">Supported immunotherapy response prediction and biomarker discovery</td><td align="left" rowspan="1" colspan="1">(<xref rid="B91" ref-type="bibr">Zhang et al., 2024a</xref>)</td></tr><tr><td rowspan="7" align="left" colspan="1">Spatial biomarkers</td><td align="left" rowspan="1" colspan="1">Triple-negative breast cancer</td><td align="left" rowspan="1" colspan="1">TNBC TMA specimens</td><td align="left" rowspan="1" colspan="1">NanoString GeoMx DSP</td><td align="left" rowspan="1" colspan="1">Identified spatial prognostic features of adjuvant therapy response</td><td align="left" rowspan="1" colspan="1">(<xref rid="B38" ref-type="bibr">Kulasinghe et al., 2021</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Colorectal cancer metastasis</td><td align="left" rowspan="1" colspan="1">Colon tumor and metastasis tissue regions</td><td align="left" rowspan="1" colspan="1">NanoString GeoMx DSP</td><td align="left" rowspan="1" colspan="1">Identified spatial proteomic signatures of colon tumor metastasis</td><td align="left" rowspan="1" colspan="1">(<xref rid="B41" ref-type="bibr">Levy et al., 2023</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Head and neck squamous cell carcinoma</td><td align="left" rowspan="1" colspan="1">Primary and recurrent HPV-negative HNSCC tumors</td><td align="left" rowspan="1" colspan="1">Single-cell spatial proteomics</td><td align="left" rowspan="1" colspan="1">Associated tumor-immune spatial architecture with clinical outcome</td><td align="left" rowspan="1" colspan="1">(<xref rid="B6" ref-type="bibr">Blise et al., 2022</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Prostate cancer</td><td align="left" rowspan="1" colspan="1">MRI-visible and MRI-invisible clinically significant prostate cancer</td><td align="left" rowspan="1" colspan="1">Multiplex IF/IHC spatial proteomics</td><td align="left" rowspan="1" colspan="1">Connected mpMRI heterogeneity to spatial protein and cellular features</td><td align="left" rowspan="1" colspan="1">(<xref rid="B63" ref-type="bibr">Pachynski et al., 2021</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Clear cell renal cell carcinoma</td><td align="left" rowspan="1" colspan="1">ccRCC tissue specimens</td><td align="left" rowspan="1" colspan="1">MALDI imaging mass spectrometry</td><td align="left" rowspan="1" colspan="1">Mapped heterogeneous renal cancer proteome features</td><td align="left" rowspan="1" colspan="1">(<xref rid="B56" ref-type="bibr">Morgan et al., 2013</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Papillary thyroid carcinoma</td><td align="left" rowspan="1" colspan="1">Papillary thyroid carcinoma tissue sections</td><td align="left" rowspan="1" colspan="1">MALDI-TOF imaging mass spectrometry</td><td align="left" rowspan="1" colspan="1">Identified and validated candidate biomarker proteins</td><td align="left" rowspan="1" colspan="1">(<xref rid="B55" ref-type="bibr">Min et al., 2014</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Bladder cancer</td><td align="left" rowspan="1" colspan="1">Bladder carcinoma <italic toggle="yes">in situ</italic> and reactive atypia regions</td><td align="left" rowspan="1" colspan="1">FTIR imaging-guided proteomics</td><td align="left" rowspan="1" colspan="1">Identified a candidate histochemical biomarker for diagnostic discrimination</td><td align="left" rowspan="1" colspan="1">(<xref rid="B89" ref-type="bibr">Witzke et al., 2019</xref>)</td></tr><tr><td rowspan="3" align="left" colspan="1">Drug response and resistance</td><td align="left" rowspan="1" colspan="1">Head and neck oropharyngeal SCC</td><td align="left" rowspan="1" colspan="1">Deeply profiled OPSCC cases</td><td align="left" rowspan="1" colspan="1">Deep spatial-omics with spatial proteomic component</td><td align="left" rowspan="1" colspan="1">Provided alternative therapeutic targets and rationale for treatment failure</td><td align="left" rowspan="1" colspan="1">(<xref rid="B10" ref-type="bibr">Causer et al., 2023</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">HER2-positive breast cancer</td><td align="left" rowspan="1" colspan="1">Longitudinal neoadjuvant therapy samples</td><td align="left" rowspan="1" colspan="1">Multiplex spatial proteomics</td><td align="left" rowspan="1" colspan="1">Connected treatment-linked spatial protein features with pathological response</td><td align="left" rowspan="1" colspan="1">(<xref rid="B53" ref-type="bibr">McNamara et al., 2021</xref>)</td></tr><tr><td align="left" rowspan="1" colspan="1">Metastatic melanoma and colorectal cancer</td><td align="left" rowspan="1" colspan="1">Large-scale spatial proteomic profiles</td><td align="left" rowspan="1" colspan="1">40-plex imaging mass cytometry</td><td align="left" rowspan="1" colspan="1">Identified perturbations predicted to increase T-cell infiltration</td><td align="left" rowspan="1" colspan="1">(<xref rid="B88" ref-type="bibr">Wang et al., 2025</xref>)</td></tr></tbody></table></table-wrap><sec id="s5-1"><label>5.1</label><title>Intratumoral heterogeneity and regional tumor states</title><p>Intratumoral heterogeneity is a central application of spatial proteomics because protein programs are often localized to specific tumor regions rather than uniformly distributed across a lesion. Early spatial tissue proteomics in hepatocellular carcinoma showed that regional proteome measurements could quantify both intertumor and intratumor heterogeneity, supporting the need for spatially guided sampling in solid tumors (<xref rid="B9" ref-type="bibr">Buczak et al., 2018</xref>). In pancreatic cancer, multimodal single-cell-resolved spatial proteomics combined antibody-guided cell typing with mass spectrometry and revealed malignant and stromal protein programs that varied across local tissue regions (<xref rid="B90" ref-type="bibr">Xu et al., 2024</xref>). Deep visual proteomics in colorectal adenomas further showed that morphology-guided spatial proteome measurements can stratify precursor lesions by molecular features beyond routine histopathology (<xref rid="B36" ref-type="bibr">Kabatnik et al., 2024</xref>).</p><p>Spatial proteomics also helps distinguish regional signaling states from average tumor phenotypes. Functional and spatial proteomic profiling in colorectal cancer showed that intra- and intercellular signaling crosstalk can be organized regionally, indicating that pathway activity should be interpreted in its tissue context (<xref rid="B70" ref-type="bibr">Plattner et al., 2023</xref>). Label-free FTIR imaging integrated with laser capture microdissection and proteomics demonstrated a similar principle in diffuse malignant mesothelioma, where histological heterogeneity could be connected to region-specific molecular differences (<xref rid="B28" ref-type="bibr">Großerueschkamp et al., 2017</xref>). Together, these studies show that spatial heterogeneity is not simply molecular noise. It is a structured feature of tumor biology that can define malignant states, stromal interfaces and clinically relevant tissue regions.</p><p>Across these studies, regional heterogeneity is the most reproducible conclusion: it appears in antibody-guided single-cell imaging, histology-guided microdissection and label-free imaging-proteomics workflows. The exact protein programs are less consistently replicated because tumor types, sampled regions and analytical depth differ. Thus, spatially guided sampling is a robust methodological recommendation, whereas individual regional signatures remain candidates until tested in larger multi-region cohorts.</p></sec><sec id="s5-2"><label>5.2</label><title>Tumor microenvironment and stromal organization</title><p>The tumor microenvironment is inherently spatial, and spatial proteomics is well suited to study cell-cell proximity, stromal barriers and local paracrine circuits. Spatial proteomic analysis of hepatocellular carcinoma identified stromal architectures and fibroblast subpopulations with opposing associations with clinical outcome, emphasizing that cancer-associated fibroblasts should not be treated as a single uniform compartment (<xref rid="B12" ref-type="bibr">Cheng et al., 2025</xref>). Multiomic analysis of cancer-associated fibroblasts further placed CAF states within spatial transcriptomic and proteomic landscapes, supporting the view that fibroblast phenotypes depend on both intrinsic regulatory programs and tissue context (<xref rid="B21" ref-type="bibr">Foster et al., 2022</xref>). In chordoma, integration of GeoMx Digital Spatial Profiler, spatial transcriptomics, proteomics and multiplexed immunofluorescence linked hypoxia-induced ER-stress CAFs to paracrine GMFG-ITGB1 signaling and immune remodeling (<xref rid="B92" ref-type="bibr">Zhang T. L. et al., 2024</xref>).</p><p>Spatial proteomics also broadens microenvironment analysis beyond fibroblasts. Highly multiplexed imaging of high-grade serous ovarian cancer characterized tumor-immune composition at single-cell resolution and revealed immune microenvironment features associated with BRCA1/2 status (<xref rid="B39" ref-type="bibr">Launonen et al., 2022</xref>). In colorectal cancer, spatial proteomics combined with single-cell analysis implicated CAF-mediated inhibition of effector T cells through NECTIN2 signaling, providing a mechanistic example of stromal control over antitumor immunity (<xref rid="B1" ref-type="bibr">Agorku et al., 2024</xref>). Together, these studies show that spatial proteomics can place cell states, protein markers and signaling axes within local neighborhoods rather than treating the tumor microenvironment as a dissociated cell mixture.</p><p>The cross-study signal is strongest at the level of stromal organization: multiple platforms converge on the existence of spatially distinct CAF and immune states. By contrast, specific signaling axes such as NECTIN2 or GMFG-ITGB1 are supported mainly by individual tumor-type studies and require independent perturbational replication. This distinction separates a robust organizing principle from mechanism-specific claims.</p></sec><sec id="s5-3"><label>5.3</label><title>Tumor immunity and immunotherapy response</title><p>Spatial proteomics has become especially important in tumor immunology because immune response depends on cell location as much as cell abundance. Single-cell multiplexing of primary melanoma showed that lymphocytic patterns are functionally heterogeneous, challenging the assumption that immune infiltration can be interpreted only by density or morphology (<xref rid="B8" ref-type="bibr">Bosisio et al., 2020</xref>). In metastatic melanoma treated with tumor-infiltrating lymphocyte adoptive therapy, spatial proteomic analyses showed that response was associated with pre-existing CD8-positive T-cell and myeloid-cell networks, suggesting that baseline immune architecture can influence therapeutic efficacy (<xref rid="B4" ref-type="bibr">Barras et al., 2024</xref>).</p><p>Non-small-cell lung cancer provides a strong translational example. Spatial multi-omics in advanced NSCLC treated with a bispecific antibody showed that tumor ecosystem heterogeneity influenced immunotherapy efficacy (<xref rid="B83" ref-type="bibr">Song et al., 2023</xref>). A larger spatial multi-omics study in advanced NSCLC further developed spatial signatures for predicting immunotherapy outcomes, integrating spatial proteomic and transcriptomic information across clinically annotated cohorts (<xref rid="B3" ref-type="bibr">Aung et al., 2025</xref>). In muscle-invasive bladder cancer, spatial relationships in the tumor microenvironment were associated with pathologic response to neoadjuvant chemoimmunotherapy, indicating that treatment response may depend on spatial immune organization rather than marker expression alone (<xref rid="B5" ref-type="bibr">Beckabir et al., 2024</xref>). Spatial profiling of tertiary lymphoid aggregates in head and neck cancer similarly linked immune tissue structures to immunotherapy response (<xref rid="B78" ref-type="bibr">Sadeghirad et al., 2024</xref>).</p><p>The translational promise is clear but should be interpreted carefully. Spatial immune biomarkers are biologically plausible because checkpoint therapy depends on antigen presentation, cell-cell contact, local suppression and stromal exclusion. Clinical-trial spatial multiomics in hepatocellular carcinoma showed that imaging mass cytometry data can be integrated with virtual clinical trials for response prediction and biomarker discovery (<xref rid="B91" ref-type="bibr">Zhang S. et al., 2024</xref>). However, spatial immune signatures must still be validated across platforms, cohorts and treatment regimens before they can be used as routine clinical tests.</p><p>Among the application areas, treatment-anchored immune studies currently provide the clearest translational evidence because several cohorts link baseline or on-treatment architecture to response. Nevertheless, the reported signatures differ in platform, therapy, tissue sampling and endpoint, and most have not been prospectively locked. The robust conclusion is that spatial organization adds information beyond cell abundance; no universal immune spatial classifier is yet established.</p></sec><sec id="s5-4"><label>5.4</label><title>Diagnosis, prognosis and spatial biomarkers</title><p>Spatial proteomics changes biomarker discovery by adding location, cellular source and tissue neighborhood to protein abundance. In triple-negative breast cancer, digital spatial profiling identified prognostic features associated with response to adjuvant therapy, showing that compartment-aware protein measurements can refine risk interpretation (<xref rid="B38" ref-type="bibr">Kulasinghe et al., 2021</xref>). Digital spatial profiling of colon tumor metastasis identified spatial proteomic signatures associated with metastatic behavior, further supporting the value of tumor- and microenvironment-specific protein measurements (<xref rid="B41" ref-type="bibr">Levy et al., 2023</xref>). In head and neck squamous cell carcinoma, single-cell spatial proteomic analysis linked tumor-immune architecture to clinical outcome, suggesting that cellular arrangement can carry prognostic information beyond cell frequency (<xref rid="B6" ref-type="bibr">Blise et al., 2022</xref>).</p><p>Spatial biomarker discovery is not limited to antibody-based imaging. In prostate cancer, single-cell spatial proteomics helped explain why some clinically significant tumors are invisible on multiparametric MRI, connecting radiographic heterogeneity to molecular and cellular tissue organization (<xref rid="B63" ref-type="bibr">Pachynski et al., 2021</xref>). Imaging mass spectrometry mapped heterogeneous protein features in clear cell renal cell carcinoma and identified candidate biomarker proteins in papillary thyroid carcinoma (<xref rid="B55" ref-type="bibr">Min et al., 2014</xref>; <xref rid="B56" ref-type="bibr">Morgan et al., 2013</xref>). Integrated FTIR imaging and proteomics also identified a candidate histochemical biomarker in bladder cancer, illustrating how label-free imaging and proteomics can support diagnostic discrimination (<xref rid="B89" ref-type="bibr">Witzke et al., 2019</xref>). These examples show that spatial biomarkers are most useful when they improve interpretation beyond conventional stage, grade, mutation status or single-marker immunohistochemistry.</p><p>Cellular niches are candidate spatial biomarkers defined by the composition, state and geometry of neighboring cells. They can compress high-dimensional maps into interpretable measures of immune exclusion, stromal support or tumor-immune engagement and may stratify response when cell abundance alone does not. Their advantages are biological context, compatibility with serial tissue assessment and potential alignment with pathology. Their limitations are dependence on segmentation, cell-state definitions, neighborhood radius or graph construction, ROI sampling and cohort-specific cutoffs.</p><p>Direct head-to-head evidence does not yet support a universal ranking of cellular niches <italic toggle="yes">versus</italic> tertiary lymphoid structures or aggregates for treatment-response prediction. Tertiary lymphoid structures are discrete, pathologist-recognizable immune organizations and may be easier to standardize, whereas data-driven niches capture a broader range of myeloid, T-cell, tumor and stromal arrangements but carry a higher overfitting risk. Comparative studies should evaluate both feature classes in the same cohort using discrimination, calibration, decision-curve benefit and external validation, and should test whether either adds value beyond PD-L1, stage and other established covariates.</p></sec><sec id="s5-5"><label>5.5</label><title>Therapeutic targets, drug response and resistance</title><p>Therapeutic resistance often emerges in spatially protected niches rather than uniformly throughout a tumor. Spatial proteomics can therefore help identify where residual cells persist, which neighboring cells support them and which protein programs are enriched after therapy. Deep spatial-omics analysis of head and neck carcinomas provided alternative therapeutic targets and a tissue-level rationale for treatment failure, illustrating how spatially resolved profiling can generate clinically interpretable hypotheses (<xref rid="B10" ref-type="bibr">Causer et al., 2023</xref>). Longitudinal spatial proteomic characterization of HER2-positive breast tumors during neoadjuvant therapy showed that treatment-linked tissue sampling can connect spatial protein features to pathological response (<xref rid="B53" ref-type="bibr">McNamara et al., 2021</xref>).</p><p>Computational use of spatial proteomic data is also expanding. A counterfactual learning framework trained on large-scale spatial proteomic profiles identified perturbations predicted to boost T-cell infiltration into tumors, treating spatial proteomics as a design space for therapeutic intervention (<xref rid="B88" ref-type="bibr">Wang et al., 2025</xref>). This direction is conceptually powerful, but computationally nominated perturbations still require experimental validation.</p><p>The evidence for resistance mechanisms is therefore heterogeneous: longitudinal treatment-linked tissue studies are closer to clinical validation, whereas counterfactual predictions and single-cohort target nominations remain hypothesis generating. Priority should be given to signals that recur across time points, platforms or independent cohorts and can be functionally perturbed.</p></sec></sec><sec id="s6"><label>6</label><title>Challenges and future perspectives</title><p>Several challenges limit the clinical adoption of spatial proteomics. Antibody specificity, tissue processing, segmentation quality and batch effects can strongly influence results. Spatial omics reviews have emphasized that multimodal tissue biology requires careful control of experimental and computational variation. Single-cell and subcellular spatial technologies face additional trade-offs among resolution, molecular coverage and throughput (<xref rid="B66" ref-type="bibr">Park et al., 2022</xref>). These constraints mean that visually impressive maps are not automatically reproducible measurements. Practical adoption is also constrained by assay cost, long turnaround time, specialist instrumentation and bioinformatics staffing, limited tissue, reimbursement uncertainty, the scarcity of certified standardized kits and the absence of guideline-directed spatial-proteomic companion diagnostics for routine tumor treatment decisions.</p><p>Data interpretation is another challenge. Spatial proteomics can generate compelling tissue maps, but interpretation becomes descriptive if the study lacks a clear biological question. A robust spatial study should define tissue regions, cell types, marker panels and spatial metrics before analysis whenever possible. It should also distinguish exploratory findings from validated mechanisms. This distinction is especially important for small clinical cohorts, where high-dimensional spatial features can overfit outcomes.</p><p>Analytical rigor requires a null model matched to the biological question and tissue geometry rather than unrestricted randomization. Neighborhood analyses should preserve relevant cell-type abundance and boundaries, specify distance or graph scales <italic toggle="yes">a priori</italic>, correct for the number of spatial features tested and report sensitivity to alternative scales. Spatial autocorrelation must be modeled or tested because cells and pixels are not independent, and the patient, not each cell or ROI, should remain the unit of clinical inference. When multiple ROIs are sampled, patient-level aggregation or hierarchical models should account for within-patient dependence; performance should then be evaluated in held-out patients and, ideally, an external cohort (<xref rid="B79" ref-type="bibr">Samorodnitsky and Wu, 2024</xref>).</p><p>Standardization represents the most pressing need. To address this critical bottleneck in cross-study comparability, spatial proteomics studies should systematically report standardized information across at least seven core domains. This framework is explicitly aligned with the Minimum Information for Highly Multiplexed Tissue Images (MITI) guidelines (<xref rid="B80" ref-type="bibr">Schapiro et al., 2022</xref>) and the Human Tumor Atlas Network (HTAN) reporting conventions (<xref rid="B77" ref-type="bibr">Rozenblatt-Rosen et al., 2020</xref>), while extending them to include translational and clinical-modeling elements that are particularly relevant to cancer research. First, pre-analytic variables must be documented in detail, including tissue fixation, antigen retrieval, storage conditions, and section preparation methods. Second, platform and acquisition metadata should encompass instrument settings, scan parameters, batch information and records of any deviations during data collection. Third, antibody or probe identifiers and validation require provision of clone numbers, vendors, catalog numbers, working dilutions and validation status. Fourth, segmentation and phenotyping rules should be explicitly reported, detailing the algorithms used, input channels, parameter settings, manual correction workflows and logical gating strategies for cell-state assignment. Fifth, spatial-coordinate and neighborhood definitions must specify the graph construction method, neighborhood radius, distance metrics and the anatomical localization of regions of interest. Sixth, quality control thresholds and sensitivity analyses should cover signal intensity cutoffs, exclusion criteria for failed segmentation, and results of robustness tests against variations in key spatial parameters. Seventh, patient-level statistical models with prespecified endpoints must be clearly defined, ensuring that the patient remains the primary unit of clinical inference, with appropriate multiple-comparison correction strategies applied (<xref rid="B79" ref-type="bibr">Samorodnitsky and Wu, 2024</xref>). Adherence to the MITI and HTAN frameworks ensures interoperability with existing community resources such as the HTAN Data Portal and the Human Protein Atlas, while the additional translational elements address the specific needs of oncology studies seeking to move from tissue maps to clinically actionable biomarkers. SPIAT and related tools can help formalize certain aspects of these analyses, complete reporting in line with the framework above remains essential for meaningful cross-cohort comparison and eventual clinical translation.</p><p>A second challenge is biological validation. Spatial maps often nominate plausible interactions, but proximity does not prove signaling. A T cell near a tumor cell may be cytotoxic, exhausted, bystander or physically unable to engage. A fibroblast-rich region may be a barrier, a repair response or a marker of prior tissue damage. Spatial proteomics should therefore be paired with perturbation experiments, longitudinal sampling, orthogonal assays or clinical response data whenever possible. Treatment-linked breast cancer and melanoma immunotherapy studies illustrate why outcome-anchored designs are especially valuable.</p><p>A practical validation ladder begins with orthogonal confirmation of the nominated spatial feature by an independent assay on the same or adjacent tissue. Cell culture or co-culture experiments can then test directional signaling; patient-derived organoids or <italic toggle="yes">ex vivo</italic> tissue models can preserve multicellular context; genetically or pharmacologically perturbed animal models can test necessity, sufficiency and treatment response <italic toggle="yes">in vivo</italic>; and independent clinical cohorts with longitudinal sampling and therapeutic follow-up can establish prognostic or predictive relevance. Concordance across these levels is substantially stronger evidence than proximity alone.</p><p>The future of the field will likely depend on integration rather than platform competition. Spatial proteomics will be most powerful when combined with high-depth LC-MS/MS, spatial transcriptomics, single-cell sequencing, metabolomics and digital pathology. Spatial multi-omics reviews have framed this integration as a central route toward tissue-level systems biology. Clinical spatial omics guidelines also emphasize that integrated workflows must be standardized before broad clinical translation (<xref rid="B40" ref-type="bibr">Lee et al., 2025</xref>). AI-enabled virtual spatial proteomics may further increase scalability, but it requires rigorous external validation.</p></sec><sec sec-type="conclusion" id="s7"><label>7</label><title>Conclusion</title><p>Spatial proteomics has shifted proteomics from averaged molecular catalogues toward tissue-resolved maps of biological function. In oncology, this transition is particularly important because tumor behavior is shaped not only by malignant-cell-intrinsic programs, but also by regional architecture, cellular neighborhoods and microenvironmental interactions. Current studies have shown that spatially resolved protein measurements can refine our understanding of intratumoral heterogeneity, tumor-immune organization, biomarker distribution and treatment-associated tissue states. These advances position spatial proteomics as an important bridge between molecular profiling, pathology and precision oncology.</p><p>Despite this progress, several barriers still limit broader translation. Spatial proteomic studies often differ in platform design, antibody panels, image processing, segmentation strategies and statistical workflows, making cross-cohort comparison difficult. Many findings also remain descriptive and require mechanistic validation in experimental models or prospective clinical cohorts. Future work should therefore move beyond higher multiplexing alone and emphasize standardized reporting, interoperable data analysis, clinically annotated samples and functional validation of spatially nominated targets. As these challenges are addressed, spatial proteomics is likely to become a central approach for interpreting tumor ecosystems and for linking tissue organization with clinically actionable cancer biology.</p></sec></body><back><fn-group><fn fn-type="edited-by"><p>
+<bold>Edited by:</bold>
+<ext-link xlink:href="https://loop.frontiersin.org/people/702899/overview" ext-link-type="uri">Xianyu Li</ext-link>, China Academy of Chinese Medical Sciences, China</p></fn><fn fn-type="reviewed-by"><p>
+<bold>Reviewed by:</bold>
+<ext-link xlink:href="https://loop.frontiersin.org/people/1344328/overview" ext-link-type="uri">Lu Lin Ji</ext-link>, Central South University, China</p><p>
+<ext-link xlink:href="https://loop.frontiersin.org/people/3110315/overview" ext-link-type="uri">Alyssa Rosenbloom</ext-link>, Nomic Bio, Canada</p></fn></fn-group><sec sec-type="author-contributions" id="s8"><title>Author contributions</title><p>XT: Investigation, Visualization, Writing – original draft. DH: Investigation, Visualization, Writing – original draft. JH: Conceptualization, Supervision, Writing – review and editing.</p></sec><sec sec-type="COI-statement" id="s10"><title>Conflict of interest</title><p>The author(s) declared that this work was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p></sec><sec sec-type="ai-statement" id="s11"><title>Generative AI statement</title><p>The author(s) declared that generative AI was not used in the creation of this manuscript.</p><p>Any alternative text (alt text) provided alongside figures in this article has been generated by Frontiers with the support of artificial intelligence and reasonable efforts have been made to ensure accuracy, including review by the authors wherever possible. If you identify any issues, please contact us.</p></sec><sec sec-type="disclaimer" id="s12"><title>Publisher’s note</title><p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p></sec><ref-list><title>References</title><ref id="B1"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Agorku</surname><given-names>D. J.</given-names></name>
+<name name-style="western"><surname>Bosio</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Alves</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Ströbel</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Hardt</surname><given-names>O.</given-names></name>
+</person-group> (<year>2024</year>). <article-title>Colorectal cancer-associated fibroblasts inhibit effector T cells <italic toggle="yes">via</italic> NECTIN2 signaling</article-title>. <source>Cancer Lett.</source>
+<volume>595</volume>, <fpage>216985</fpage>. <pub-id pub-id-type="doi">10.1016/j.canlet.2024.216985</pub-id>
+<pub-id pub-id-type="pmid">38821255</pub-id></mixed-citation></ref><ref id="B2"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Angelo</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Bendall</surname><given-names>S. C.</given-names></name>
+<name name-style="western"><surname>Finck</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Hale</surname><given-names>M. B.</given-names></name>
+<name name-style="western"><surname>Hitzman</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Borowsky</surname><given-names>A. D.</given-names></name>
+<etal />
+</person-group> (<year>2014</year>). <article-title>Multiplexed ion beam imaging of human breast tumors</article-title>. <source>Nat. Med.</source>
+<volume>20</volume> (<issue>4</issue>), <fpage>436</fpage>–<lpage>442</lpage>. <pub-id pub-id-type="doi">10.1038/nm.3488</pub-id>
+<pub-id pub-id-type="pmid">24584119</pub-id>
+<pub-id pub-id-type="pmcid">PMC4110905</pub-id></mixed-citation></ref><ref id="B3"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Aung</surname><given-names>T. N.</given-names></name>
+<name name-style="western"><surname>Monkman</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Warrell</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Vathiotis</surname><given-names>I.</given-names></name>
+<name name-style="western"><surname>Bates</surname><given-names>K. M.</given-names></name>
+<name name-style="western"><surname>Gavrielatou</surname><given-names>N.</given-names></name>
+<etal />
+</person-group> (<year>2025</year>). <article-title>Spatial signatures for predicting immunotherapy outcomes using multi-omics in non-small cell lung cancer</article-title>. <source>Nat. Genet.</source>
+<volume>57</volume> (<issue>10</issue>), <fpage>2482</fpage>–<lpage>2493</lpage>. <pub-id pub-id-type="doi">10.1038/s41588-025-02351-7</pub-id>
+<pub-id pub-id-type="pmcid">PMC12513832</pub-id><pub-id pub-id-type="pmid">41073787</pub-id></mixed-citation></ref><ref id="B4"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Barras</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Ghisoni</surname><given-names>E.</given-names></name>
+<name name-style="western"><surname>Chiffelle</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Orcurto</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Dagher</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Fahr</surname><given-names>N.</given-names></name>
+<etal />
+</person-group> (<year>2024</year>). <article-title>Response to tumor-infiltrating lymphocyte adoptive therapy is associated with preexisting CD8(+) T-myeloid cell networks in melanoma</article-title>. <source>Sci. Immunol.</source>
+<volume>9</volume> (<issue>92</issue>), <fpage>eadg7995</fpage>. <pub-id pub-id-type="doi">10.1126/sciimmunol.adg7995</pub-id>
+<pub-id pub-id-type="pmid">38306416</pub-id></mixed-citation></ref><ref id="B5"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Beckabir</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Wobker</surname><given-names>S. E.</given-names></name>
+<name name-style="western"><surname>Damrauer</surname><given-names>J. S.</given-names></name>
+<name name-style="western"><surname>Midkiff</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>De la Cruz</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Makarov</surname><given-names>V.</given-names></name>
+<etal />
+</person-group> (<year>2024</year>). <article-title>Spatial relationships in the tumor microenvironment demonstrate association with pathologic response to neoadjuvant chemoimmunotherapy in muscle-invasive bladder cancer</article-title>. <source>Eur. Urol.</source>
+<volume>85</volume> (<issue>3</issue>), <fpage>242</fpage>–<lpage>253</lpage>. <pub-id pub-id-type="doi">10.1016/j.eururo.2023.11.008</pub-id>
+<pub-id pub-id-type="pmid">38092611</pub-id>
+<pub-id pub-id-type="pmcid">PMC11022933</pub-id></mixed-citation></ref><ref id="B6"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Blise</surname><given-names>K. E.</given-names></name>
+<name name-style="western"><surname>Sivagnanam</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Banik</surname><given-names>G. L.</given-names></name>
+<name name-style="western"><surname>Coussens</surname><given-names>L. M.</given-names></name>
+<name name-style="western"><surname>Goecks</surname><given-names>J.</given-names></name>
+</person-group> (<year>2022</year>). <article-title>Single-cell spatial architectures associated with clinical outcome in head and neck squamous cell carcinoma</article-title>. <source>NPJ Precis. Oncol.</source>
+<volume>6</volume> (<issue>1</issue>), <fpage>10</fpage>. <pub-id pub-id-type="doi">10.1038/s41698-022-00253-z</pub-id>
+<pub-id pub-id-type="pmcid">PMC8881577</pub-id><pub-id pub-id-type="pmid">35217711</pub-id></mixed-citation></ref><ref id="B7"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Boisvert</surname><given-names>F. M.</given-names></name>
+<name name-style="western"><surname>Ahmad</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Gierliński</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Charrière</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Lamont</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Scott</surname><given-names>M.</given-names></name>
+<etal />
+</person-group> (<year>2012</year>). <article-title>A quantitative spatial proteomics analysis of proteome turnover in human cells</article-title>. <source>Mol. Cell Proteomics</source>
+<volume>11</volume> (<issue>3</issue>), <fpage>M111.011429</fpage>. <pub-id pub-id-type="doi">10.1074/mcp.M111.011429</pub-id>
+<pub-id pub-id-type="pmid">21937730</pub-id>
+<pub-id pub-id-type="pmcid">PMC3316722</pub-id></mixed-citation></ref><ref id="B8"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Bosisio</surname><given-names>F. M.</given-names></name>
+<name name-style="western"><surname>Antoranz</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>van Herck</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Bolognesi</surname><given-names>M. M.</given-names></name>
+<name name-style="western"><surname>Marcelis</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Chinello</surname><given-names>C.</given-names></name>
+<etal />
+</person-group> (<year>2020</year>). <article-title>Functional heterogeneity of lymphocytic patterns in primary melanoma dissected through single-cell multiplexing</article-title>. <source>Elife</source>
+<volume>9</volume>, <fpage>e53008</fpage>. <pub-id pub-id-type="doi">10.7554/eLife.53008</pub-id>
+<pub-id pub-id-type="pmid">32057296</pub-id>
+<pub-id pub-id-type="pmcid">PMC7053517</pub-id></mixed-citation></ref><ref id="B9"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Buczak</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Ori</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Kirkpatrick</surname><given-names>J. M.</given-names></name>
+<name name-style="western"><surname>Holzer</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Dauch</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Roessler</surname><given-names>S.</given-names></name>
+<etal />
+</person-group> (<year>2018</year>). <article-title>Spatial tissue proteomics quantifies Inter- and intratumor heterogeneity in hepatocellular carcinoma (HCC)</article-title>. <source>Mol. Cell Proteomics</source>
+<volume>17</volume> (<issue>4</issue>), <fpage>810</fpage>–<lpage>825</lpage>. <pub-id pub-id-type="doi">10.1074/mcp.RA117.000189</pub-id>
+<pub-id pub-id-type="pmid">29363612</pub-id>
+<pub-id pub-id-type="pmcid">PMC5880102</pub-id></mixed-citation></ref><ref id="B10"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Causer</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Tan</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Lu</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Moseley</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Teoh</surname><given-names>S. M.</given-names></name>
+<name name-style="western"><surname>Molotkov</surname><given-names>N.</given-names></name>
+<etal />
+</person-group> (<year>2023</year>). <article-title>Deep spatial-omics analysis of head and neck carcinomas provides alternative therapeutic targets and rationale for treatment failure</article-title>. <source>NPJ Precis. Oncol.</source>
+<volume>7</volume> (<issue>1</issue>), <fpage>89</fpage>. <pub-id pub-id-type="doi">10.1038/s41698-023-00444-2</pub-id>
+<pub-id pub-id-type="pmcid">PMC10499928</pub-id><pub-id pub-id-type="pmid">37704757</pub-id></mixed-citation></ref><ref id="B11"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Ding</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Abdulla</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>Y.</given-names></name>
+<etal />
+</person-group> (<year>2024</year>). <article-title>SpiDe-Sr: blind super-resolution network for precise cell segmentation and clustering in spatial proteomics imaging</article-title>. <source>Nat. Commun.</source>
+<volume>15</volume> (<issue>1</issue>), <fpage>2708</fpage>. <pub-id pub-id-type="doi">10.1038/s41467-024-46989-z</pub-id>
+<pub-id pub-id-type="pmcid">PMC10978886</pub-id><pub-id pub-id-type="pmid">38548720</pub-id></mixed-citation></ref><ref id="B12"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Cheng</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Feng</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Xiao</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Xiang</surname><given-names>B.</given-names></name>
+<etal />
+</person-group> (<year>2025</year>). <article-title>Stromal architecture and fibroblast subpopulations with opposing effects on outcomes in hepatocellular carcinoma</article-title>. <source>Cell Discov.</source>
+<volume>11</volume> (<issue>1</issue>), <fpage>1</fpage>. <pub-id pub-id-type="doi">10.1038/s41421-024-00747-z</pub-id>
+<pub-id pub-id-type="pmcid">PMC11772884</pub-id><pub-id pub-id-type="pmid">39870619</pub-id></mixed-citation></ref><ref id="B13"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Christopher</surname><given-names>J. A.</given-names></name>
+<name name-style="western"><surname>Stadler</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Martin</surname><given-names>C. E.</given-names></name>
+<name name-style="western"><surname>Morgenstern</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Pan</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Betsinger</surname><given-names>C. N.</given-names></name>
+<etal />
+</person-group> (<year>2021</year>). <article-title>Subcellular proteomics</article-title>. <source>Nat. Rev. Methods Prim.</source>
+<volume>1</volume>, <fpage>32</fpage>. <pub-id pub-id-type="doi">10.1038/s43586-021-00029-y</pub-id>
+<pub-id pub-id-type="pmcid">PMC8451152</pub-id><pub-id pub-id-type="pmid">34549195</pub-id></mixed-citation></ref><ref id="B14"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Claes</surname><given-names>B. S. R.</given-names></name>
+<name name-style="western"><surname>Krestensen</surname><given-names>K. K.</given-names></name>
+<name name-style="western"><surname>Yagnik</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Grgic</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Kuik</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Lim</surname><given-names>M. J.</given-names></name>
+<etal />
+</person-group> (<year>2023</year>). <article-title>MALDI-IHC-Guided In-Depth spatial proteomics: targeted and untargeted MSI combined</article-title>. <source>Anal. Chem.</source>
+<volume>95</volume> (<issue>4</issue>), <fpage>2329</fpage>–<lpage>2338</lpage>. <pub-id pub-id-type="doi">10.1021/acs.analchem.2c04220</pub-id>
+<pub-id pub-id-type="pmid">36638208</pub-id>
+<pub-id pub-id-type="pmcid">PMC9893213</pub-id></mixed-citation></ref><ref id="B15"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Di Mauro</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Arbore</surname><given-names>G.</given-names></name>
+</person-group> (<year>2024</year>). <article-title>Spatial dissection of the immune landscape of solid tumors to advance precision medicine</article-title>. <source>Cancer Immunol. Res.</source>
+<volume>12</volume> (<issue>7</issue>), <fpage>800</fpage>–<lpage>813</lpage>. <pub-id pub-id-type="doi">10.1158/2326-6066.Cir-23-0699</pub-id>
+<pub-id pub-id-type="pmid">38657223</pub-id>
+<pub-id pub-id-type="pmcid">PMC11217735</pub-id></mixed-citation></ref><ref id="B16"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Digre</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Lindskog</surname><given-names>C.</given-names></name>
+</person-group> (<year>2021</year>). <article-title>The human protein atlas-spatial localization of the human proteome in health and disease</article-title>. <source>Protein Sci.</source>
+<volume>30</volume> (<issue>1</issue>), <fpage>218</fpage>–<lpage>233</lpage>. <pub-id pub-id-type="doi">10.1002/pro.3987</pub-id>
+<pub-id pub-id-type="pmid">33146890</pub-id>
+<pub-id pub-id-type="pmcid">PMC7737765</pub-id></mixed-citation></ref><ref id="B17"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Duhamel</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Drelich</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Wisztorski</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Aboulouard</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Gimeno</surname><given-names>J. P.</given-names></name>
+<name name-style="western"><surname>Ogrinc</surname><given-names>N.</given-names></name>
+<etal />
+</person-group> (<year>2022</year>). <article-title>Spatial analysis of the glioblastoma proteome reveals specific molecular signatures and markers of survival</article-title>. <source>Nat. Commun.</source>
+<volume>13</volume> (<issue>1</issue>), <fpage>6665</fpage>. <pub-id pub-id-type="doi">10.1038/s41467-022-34208-6</pub-id>
+<pub-id pub-id-type="pmid">36333286</pub-id>
+<pub-id pub-id-type="pmcid">PMC9636229</pub-id></mixed-citation></ref><ref id="B18"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Dyring-Andersen</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Løvendorf</surname><given-names>M. B.</given-names></name>
+<name name-style="western"><surname>Coscia</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Santos</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Møller</surname><given-names>L. B. P.</given-names></name>
+<name name-style="western"><surname>Colaço</surname><given-names>A. R.</given-names></name>
+<etal />
+</person-group> (<year>2020</year>). <article-title>Spatially and cell-type resolved quantitative proteomic atlas of healthy human skin</article-title>. <source>Nat. Commun.</source>
+<volume>11</volume> (<issue>1</issue>), <fpage>5587</fpage>. <pub-id pub-id-type="doi">10.1038/s41467-020-19383-8</pub-id>
+<pub-id pub-id-type="pmid">33154365</pub-id>
+<pub-id pub-id-type="pmcid">PMC7645789</pub-id></mixed-citation></ref><ref id="B19"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Feng</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Zhu</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Doyle</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Ozcoban</surname><given-names>V.</given-names></name>
+<etal />
+</person-group> (<year>2023</year>). <article-title>Spatial analysis with SPIAT and spaSim to characterize and simulate tissue microenvironments</article-title>. <source>Nat. Commun.</source>
+<volume>14</volume> (<issue>1</issue>), <fpage>2697</fpage>. <pub-id pub-id-type="doi">10.1038/s41467-023-37822-0</pub-id>
+<pub-id pub-id-type="pmid">37188662</pub-id>
+<pub-id pub-id-type="pmcid">PMC10185501</pub-id></mixed-citation></ref><ref id="B20"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Fenn</surname><given-names>J. B.</given-names></name>
+<name name-style="western"><surname>Mann</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Meng</surname><given-names>C. K.</given-names></name>
+<name name-style="western"><surname>Wong</surname><given-names>S. F.</given-names></name>
+<name name-style="western"><surname>Whitehouse</surname><given-names>C. M.</given-names></name>
+</person-group> (<year>1989</year>). <article-title>Electrospray ionization for mass spectrometry of large biomolecules</article-title>. <source>Science</source>
+<volume>246</volume> (<issue>4926</issue>), <fpage>64</fpage>–<lpage>71</lpage>. <pub-id pub-id-type="doi">10.1126/science.2675315</pub-id>
+<pub-id pub-id-type="pmid">2675315</pub-id>
+</mixed-citation></ref><ref id="B21"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Foster</surname><given-names>D. S.</given-names></name>
+<name name-style="western"><surname>Januszyk</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Delitto</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Yost</surname><given-names>K. E.</given-names></name>
+<name name-style="western"><surname>Griffin</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Guo</surname><given-names>J.</given-names></name>
+<etal />
+</person-group> (<year>2022</year>). <article-title>Multiomic analysis reveals conservation of cancer-associated fibroblast phenotypes across species and tissue of origin</article-title>. <source>Cancer Cell</source>
+<volume>40</volume> (<issue>11</issue>), <fpage>1392</fpage>–<lpage>1406.e1397</lpage>. <pub-id pub-id-type="doi">10.1016/j.ccell.2022.09.015</pub-id>
+<pub-id pub-id-type="pmcid">PMC9669239</pub-id><pub-id pub-id-type="pmid">36270275</pub-id></mixed-citation></ref><ref id="B22"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Gatto</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Breckels</surname><given-names>L. M.</given-names></name>
+<name name-style="western"><surname>Burger</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Nightingale</surname><given-names>D. J.</given-names></name>
+<name name-style="western"><surname>Groen</surname><given-names>A. J.</given-names></name>
+<name name-style="western"><surname>Campbell</surname><given-names>C.</given-names></name>
+<etal />
+</person-group> (<year>2014</year>). <article-title>A foundation for reliable spatial proteomics data analysis</article-title>. <source>Mol. Cell Proteomics</source>
+<volume>13</volume> (<issue>8</issue>), <fpage>1937</fpage>–<lpage>1952</lpage>. <pub-id pub-id-type="doi">10.1074/mcp.M113.036350</pub-id>
+<pub-id pub-id-type="pmid">24846987</pub-id>
+<pub-id pub-id-type="pmcid">PMC4125728</pub-id></mixed-citation></ref><ref id="B23"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Geladaki</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Kočevar Britovšek</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Breckels</surname><given-names>L. M.</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>T. S.</given-names></name>
+<name name-style="western"><surname>Vennard</surname><given-names>O. L.</given-names></name>
+<name name-style="western"><surname>Mulvey</surname><given-names>C. M.</given-names></name>
+<etal />
+</person-group> (<year>2019</year>). <article-title>Combining LOPIT with differential ultracentrifugation for high-resolution spatial proteomics</article-title>. <source>Nat. Commun.</source>
+<volume>10</volume> (<issue>1</issue>), <fpage>331</fpage>. <pub-id pub-id-type="doi">10.1038/s41467-018-08191-w</pub-id>
+<pub-id pub-id-type="pmid">30659192</pub-id>
+<pub-id pub-id-type="pmcid">PMC6338729</pub-id></mixed-citation></ref><ref id="B24"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Giesen</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>H. A.</given-names></name>
+<name name-style="western"><surname>Schapiro</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Zivanovic</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Jacobs</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Hattendorf</surname><given-names>B.</given-names></name>
+<etal />
+</person-group> (<year>2014</year>). <article-title>Highly multiplexed imaging of tumor tissues with subcellular resolution by mass cytometry</article-title>. <source>Nat. Methods</source>
+<volume>11</volume> (<issue>4</issue>), <fpage>417</fpage>–<lpage>422</lpage>. <pub-id pub-id-type="doi">10.1038/nmeth.2869</pub-id>
+<pub-id pub-id-type="pmid">24584193</pub-id>
+</mixed-citation></ref><ref id="B25"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Goltsev</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Samusik</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Kennedy-Darling</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Bhate</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Hale</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Vazquez</surname><given-names>G.</given-names></name>
+<etal />
+</person-group> (<year>2018</year>). <article-title>Deep profiling of mouse splenic architecture with CODEX multiplexed imaging</article-title>. <source>Cell</source>
+<volume>174</volume> (<issue>4</issue>), <fpage>968</fpage>–<lpage>981.e915</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2018.07.010</pub-id>
+<pub-id pub-id-type="pmid">30078711</pub-id>
+<pub-id pub-id-type="pmcid">PMC6086938</pub-id></mixed-citation></ref><ref id="B26"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Greenwald</surname><given-names>A. C.</given-names></name>
+<name name-style="western"><surname>Darnell</surname><given-names>N. G.</given-names></name>
+<name name-style="western"><surname>Hoefflin</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Simkin</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Mount</surname><given-names>C. W.</given-names></name>
+<name name-style="western"><surname>Gonzalez Castro</surname><given-names>L. N.</given-names></name>
+<etal />
+</person-group> (<year>2024</year>). <article-title>Integrative spatial analysis reveals a multi-layered organization of glioblastoma</article-title>. <source>Cell</source>
+<volume>187</volume> (<issue>10</issue>), <fpage>2485</fpage>–<lpage>2501.e2426</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2024.03.029</pub-id>
+<pub-id pub-id-type="pmid">38653236</pub-id>
+<pub-id pub-id-type="pmcid">PMC11088502</pub-id></mixed-citation></ref><ref id="B27"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Grgic</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Cuypers</surname><given-names>E.</given-names></name>
+<name name-style="western"><surname>Dubois</surname><given-names>L. J.</given-names></name>
+<name name-style="western"><surname>Ellis</surname><given-names>S. R.</given-names></name>
+<name name-style="western"><surname>Heeren</surname><given-names>R. M. A.</given-names></name>
+</person-group> (<year>2024</year>). <article-title>MALDI MSI protocol for spatial Bottom-Up proteomics at single-cell resolution</article-title>. <source>J. Proteome Res.</source>
+<volume>23</volume> (<issue>12</issue>), <fpage>5372</fpage>–<lpage>5379</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jproteome.4c00528</pub-id>
+<pub-id pub-id-type="pmid">39447324</pub-id>
+<pub-id pub-id-type="pmcid">PMC11629377</pub-id></mixed-citation></ref><ref id="B28"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Großerueschkamp</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Bracht</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Diehl</surname><given-names>H. C.</given-names></name>
+<name name-style="western"><surname>Kuepper</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Ahrens</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Kallenbach-Thieltges</surname><given-names>A.</given-names></name>
+<etal />
+</person-group> (<year>2017</year>). <article-title>Spatial and molecular resolution of diffuse malignant mesothelioma heterogeneity by integrating label-free FTIR imaging, laser capture microdissection and proteomics</article-title>. <source>Sci. Rep.</source>
+<volume>7</volume>, <fpage>44829</fpage>. <pub-id pub-id-type="doi">10.1038/srep44829</pub-id>
+<pub-id pub-id-type="pmid">28358042</pub-id>
+<pub-id pub-id-type="pmcid">PMC5372163</pub-id></mixed-citation></ref><ref id="B29"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Guilliams</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Bonnardel</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Haest</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Vanderborght</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Wagner</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Remmerie</surname><given-names>A.</given-names></name>
+<etal />
+</person-group> (<year>2022</year>). <article-title>Spatial proteogenomics reveals distinct and evolutionarily conserved hepatic macrophage niches</article-title>. <source>Cell</source>
+<volume>185</volume> (<issue>2</issue>), <fpage>379</fpage>–<lpage>396.e338</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2021.12.018</pub-id>
+<pub-id pub-id-type="pmid">35021063</pub-id>
+<pub-id pub-id-type="pmcid">PMC8809252</pub-id></mixed-citation></ref><ref id="B30"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Gustafsson</surname><given-names>J. O.</given-names></name>
+<name name-style="western"><surname>Oehler</surname><given-names>M. K.</given-names></name>
+<name name-style="western"><surname>Ruszkiewicz</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>McColl</surname><given-names>S. R.</given-names></name>
+<name name-style="western"><surname>Hoffmann</surname><given-names>P.</given-names></name>
+</person-group> (<year>2011</year>). <article-title>MALDI imaging mass spectrometry (MALDI-IMS)-application of spatial proteomics for ovarian cancer classification and diagnosis</article-title>. <source>Int. J. Mol. Sci.</source>
+<volume>12</volume> (<issue>1</issue>), <fpage>773</fpage>–<lpage>794</lpage>. <pub-id pub-id-type="doi">10.3390/ijms12010773</pub-id>
+<pub-id pub-id-type="pmid">21340013</pub-id>
+<pub-id pub-id-type="pmcid">PMC3039979</pub-id></mixed-citation></ref><ref id="B31"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Gygi</surname><given-names>S. P.</given-names></name>
+<name name-style="western"><surname>Rist</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Gerber</surname><given-names>S. A.</given-names></name>
+<name name-style="western"><surname>Turecek</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Gelb</surname><given-names>M. H.</given-names></name>
+<name name-style="western"><surname>Aebersold</surname><given-names>R.</given-names></name>
+</person-group> (<year>1999</year>). <article-title>Quantitative analysis of complex protein mixtures using isotope-coded affinity tags</article-title>. <source>Nat. Biotechnol.</source>
+<volume>17</volume> (<issue>10</issue>), <fpage>994</fpage>–<lpage>999</lpage>. <pub-id pub-id-type="doi">10.1038/13690</pub-id>
+<pub-id pub-id-type="pmid">10504701</pub-id>
+</mixed-citation></ref><ref id="B32"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Henzel</surname><given-names>W. J.</given-names></name>
+<name name-style="western"><surname>Billeci</surname><given-names>T. M.</given-names></name>
+<name name-style="western"><surname>Stults</surname><given-names>J. T.</given-names></name>
+<name name-style="western"><surname>Wong</surname><given-names>S. C.</given-names></name>
+<name name-style="western"><surname>Grimley</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Watanabe</surname><given-names>C.</given-names></name>
+</person-group> (<year>1993</year>). <article-title>Identifying proteins from two-dimensional gels by molecular mass searching of peptide fragments in protein sequence databases</article-title>. <source>Proc. Natl. Acad. Sci. U. S. A.</source>
+<volume>90</volume> (<issue>11</issue>), <fpage>5011</fpage>–<lpage>5015</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.90.11.5011</pub-id>
+<pub-id pub-id-type="pmid">8506346</pub-id>
+<pub-id pub-id-type="pmcid">PMC46643</pub-id></mixed-citation></ref><ref id="B33"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Hsieh</surname><given-names>W. C.</given-names></name>
+<name name-style="western"><surname>Budiarto</surname><given-names>B. R.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>Y. F.</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>C. Y.</given-names></name>
+<name name-style="western"><surname>Gwo</surname><given-names>M. C.</given-names></name>
+<name name-style="western"><surname>So</surname><given-names>D. K.</given-names></name>
+<etal />
+</person-group> (<year>2022</year>). <article-title>Spatial multi-omics analyses of the tumor immune microenvironment</article-title>. <source>J. Biomed. Sci.</source>
+<volume>29</volume> (<issue>1</issue>), <fpage>96</fpage>. <pub-id pub-id-type="doi">10.1186/s12929-022-00879-y</pub-id>
+<pub-id pub-id-type="pmcid">PMC9661775</pub-id><pub-id pub-id-type="pmid">36376874</pub-id></mixed-citation></ref><ref id="B34"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Hung</surname><given-names>V.</given-names></name>
+<name name-style="western"><surname>Udeshi</surname><given-names>N. D.</given-names></name>
+<name name-style="western"><surname>Lam</surname><given-names>S. S.</given-names></name>
+<name name-style="western"><surname>Loh</surname><given-names>K. H.</given-names></name>
+<name name-style="western"><surname>Cox</surname><given-names>K. J.</given-names></name>
+<name name-style="western"><surname>Pedram</surname><given-names>K.</given-names></name>
+<etal />
+</person-group> (<year>2016</year>). <article-title>Spatially resolved proteomic mapping in living cells with the engineered peroxidase APEX2</article-title>. <source>Nat. Protoc.</source>
+<volume>11</volume> (<issue>3</issue>), <fpage>456</fpage>–<lpage>475</lpage>. <pub-id pub-id-type="doi">10.1038/nprot.2016.018</pub-id>
+<pub-id pub-id-type="pmid">26866790</pub-id>
+<pub-id pub-id-type="pmcid">PMC4863649</pub-id></mixed-citation></ref><ref id="B35"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Jean Beltran</surname><given-names>P. M.</given-names></name>
+<name name-style="western"><surname>Mathias</surname><given-names>R. A.</given-names></name>
+<name name-style="western"><surname>Cristea</surname><given-names>I. M.</given-names></name>
+</person-group> (<year>2016</year>). <article-title>A portrait of the human organelle proteome in space and time during cytomegalovirus infection</article-title>. <source>Cell Syst.</source>
+<volume>3</volume> (<issue>4</issue>), <fpage>361</fpage>–<lpage>373.e366</lpage>. <pub-id pub-id-type="doi">10.1016/j.cels.2016.08.012</pub-id>
+<pub-id pub-id-type="pmid">27641956</pub-id>
+<pub-id pub-id-type="pmcid">PMC5083158</pub-id></mixed-citation></ref><ref id="B36"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Kabatnik</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Post</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Drici</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Bartels</surname><given-names>A. S.</given-names></name>
+<name name-style="western"><surname>Strauss</surname><given-names>M. T.</given-names></name>
+<name name-style="western"><surname>Zheng</surname><given-names>X.</given-names></name>
+<etal />
+</person-group> (<year>2024</year>). <article-title>Spatial characterization and stratification of colorectal adenomas by deep visual proteomics</article-title>. <source>iScience</source>
+<volume>27</volume> (<issue>9</issue>), <fpage>110620</fpage>. <pub-id pub-id-type="doi">10.1016/j.isci.2024.110620</pub-id>
+<pub-id pub-id-type="pmid">39252972</pub-id>
+<pub-id pub-id-type="pmcid">PMC11381895</pub-id></mixed-citation></ref><ref id="B37"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Keren</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Bosse</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Marquez</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Angoshtari</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Jain</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Varma</surname><given-names>S.</given-names></name>
+<etal />
+</person-group> (<year>2018</year>). <article-title>A structured tumor-immune microenvironment in triple negative breast cancer revealed by multiplexed ion beam imaging</article-title>. <source>Cell</source>
+<volume>174</volume> (<issue>6</issue>), <fpage>1373</fpage>–<lpage>1387.e1319</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2018.08.039</pub-id>
+<pub-id pub-id-type="pmid">30193111</pub-id>
+<pub-id pub-id-type="pmcid">PMC6132072</pub-id></mixed-citation></ref><ref id="B38"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Kulasinghe</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Monkman</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Shah</surname><given-names>E. T.</given-names></name>
+<name name-style="western"><surname>Matigian</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Adams</surname><given-names>M. N.</given-names></name>
+<name name-style="western"><surname>O'Byrne</surname><given-names>K.</given-names></name>
+</person-group> (<year>2021</year>). <article-title>Spatial profiling identifies prognostic features of response to adjuvant therapy in triple negative breast cancer (TNBC)</article-title>. <source>Front. Oncol.</source>
+<volume>11</volume>, <fpage>798296</fpage>. <pub-id pub-id-type="doi">10.3389/fonc.2021.798296</pub-id>
+<pub-id pub-id-type="pmid">35083152</pub-id>
+<pub-id pub-id-type="pmcid">PMC8784863</pub-id></mixed-citation></ref><ref id="B39"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Launonen</surname><given-names>I. M.</given-names></name>
+<name name-style="western"><surname>Lyytikäinen</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Casado</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Anttila</surname><given-names>E. A.</given-names></name>
+<name name-style="western"><surname>Szabó</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Haltia</surname><given-names>U. M.</given-names></name>
+<etal />
+</person-group> (<year>2022</year>). <article-title>Single-cell tumor-immune microenvironment of BRCA1/2 mutated high-grade serous ovarian cancer</article-title>. <source>Nat. Commun.</source>
+<volume>13</volume> (<issue>1</issue>), <fpage>835</fpage>. <pub-id pub-id-type="doi">10.1038/s41467-022-28389-3</pub-id>
+<pub-id pub-id-type="pmid">35149709</pub-id>
+<pub-id pub-id-type="pmcid">PMC8837628</pub-id></mixed-citation></ref><ref id="B40"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Shin</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>T.</given-names></name>
+</person-group> (<year>2025</year>). <article-title>Spatial omics in clinical research: a comprehensive review of technologies and guidelines for applications</article-title>. <source>Int. J. Mol. Sci.</source>
+<volume>26</volume> (<issue>9</issue>), <fpage>3949</fpage>. <pub-id pub-id-type="doi">10.3390/ijms26093949</pub-id>
+<pub-id pub-id-type="pmid">40362187</pub-id>
+<pub-id pub-id-type="pmcid">PMC12071594</pub-id></mixed-citation></ref><ref id="B41"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Levy</surname><given-names>J. J.</given-names></name>
+<name name-style="western"><surname>Zavras</surname><given-names>J. P.</given-names></name>
+<name name-style="western"><surname>Veziroglu</surname><given-names>E. M.</given-names></name>
+<name name-style="western"><surname>Nasir-Moin</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Kolling</surname><given-names>F. W.</given-names></name>
+<name name-style="western"><surname>Christensen</surname><given-names>B. C.</given-names></name>
+<etal />
+</person-group> (<year>2023</year>). <article-title>Identification of spatial proteomic signatures of Colon tumor metastasis: a digital spatial profiling approach</article-title>. <source>Am. J. Pathol.</source>
+<volume>193</volume> (<issue>6</issue>), <fpage>778</fpage>–<lpage>795</lpage>. <pub-id pub-id-type="doi">10.1016/j.ajpath.2023.02.020</pub-id>
+<pub-id pub-id-type="pmid">37037284</pub-id>
+<pub-id pub-id-type="pmcid">PMC10284031</pub-id></mixed-citation></ref><ref id="B42"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Dong</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>X.</given-names></name>
+<etal />
+</person-group> (<year>2022</year>). <article-title>Spatially resolved proteomics via tissue expansion</article-title>. <source>Nat. Commun.</source>
+<volume>13</volume> (<issue>1</issue>), <fpage>7242</fpage>. <pub-id pub-id-type="doi">10.1038/s41467-022-34824-2</pub-id>
+<pub-id pub-id-type="pmid">36450705</pub-id>
+<pub-id pub-id-type="pmcid">PMC9712279</pub-id></mixed-citation></ref><ref id="B43"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Xiang</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>X.</given-names></name>
+<etal />
+</person-group> (<year>2026</year>). <article-title>AI-enabled virtual spatial proteomics from histopathology for interpretable biomarker discovery in lung cancer</article-title>. <source>Nat. Med.</source>
+<volume>32</volume> (<issue>1</issue>), <fpage>231</fpage>–<lpage>244</lpage>. <pub-id pub-id-type="doi">10.1038/s41591-025-04060-4</pub-id>
+<pub-id pub-id-type="pmid">41491099</pub-id>
+<pub-id pub-id-type="pmcid">PMC12823406</pub-id></mixed-citation></ref><ref id="B44"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lin</surname><given-names>J. R.</given-names></name>
+<name name-style="western"><surname>Izar</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Yapp</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Mei</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Shah</surname><given-names>P. M.</given-names></name>
+<etal />
+</person-group> (<year>2018</year>). <article-title>Highly multiplexed immunofluorescence imaging of human tissues and tumors using t-CyCIF and conventional optical microscopes</article-title>. <source>Elife</source>
+<volume>7</volume>, <fpage>e31657</fpage>. <pub-id pub-id-type="doi">10.7554/eLife.31657</pub-id>
+<pub-id pub-id-type="pmid">29993362</pub-id>
+<pub-id pub-id-type="pmcid">PMC6075866</pub-id></mixed-citation></ref><ref id="B45"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lin</surname><given-names>J. R.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Coy</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>Y. A.</given-names></name>
+<name name-style="western"><surname>Yapp</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Tyler</surname><given-names>M.</given-names></name>
+<etal />
+</person-group> (<year>2023</year>). <article-title>Multiplexed 3D atlas of state transitions and immune interaction in colorectal cancer</article-title>. <source>Cell</source>
+<volume>186</volume> (<issue>2</issue>), <fpage>363</fpage>–<lpage>381.e319</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2022.12.028</pub-id>
+<pub-id pub-id-type="pmid">36669472</pub-id>
+<pub-id pub-id-type="pmcid">PMC10019067</pub-id></mixed-citation></ref><ref id="B46"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Deng</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Su</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Enninful</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Guo</surname><given-names>C. C.</given-names></name>
+<etal />
+</person-group> (<year>2020</year>). <article-title>High-spatial-resolution multi-omics sequencing via deterministic barcoding in tissue</article-title>. <source>Cell</source>
+<volume>183</volume> (<issue>6</issue>), <fpage>1665</fpage>–<lpage>1681.e1618</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2020.10.026</pub-id>
+<pub-id pub-id-type="pmid">33188776</pub-id>
+<pub-id pub-id-type="pmcid">PMC7736559</pub-id></mixed-citation></ref><ref id="B47"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>DiStasio</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Su</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Asashima</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Enninful</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Qin</surname><given-names>X.</given-names></name>
+<etal />
+</person-group> (<year>2023</year>). <article-title>High-plex protein and whole transcriptome co-mapping at cellular resolution with spatial CITE-Seq</article-title>. <source>Nat. Biotechnol.</source>
+<volume>41</volume> (<issue>10</issue>), <fpage>1405</fpage>–<lpage>1409</lpage>. <pub-id pub-id-type="doi">10.1038/s41587-023-01676-0</pub-id>
+<pub-id pub-id-type="pmcid">PMC10567548</pub-id><pub-id pub-id-type="pmid">36823353</pub-id></mixed-citation></ref><ref id="B48"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Peng</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Chu</surname><given-names>T.</given-names></name>
+<etal />
+</person-group> (<year>2024</year>). <article-title>Spatial multi-omics: deciphering technological landscape of integration of multi-omics and its applications</article-title>. <source>J. Hematol. Oncol.</source>
+<volume>17</volume> (<issue>1</issue>), <fpage>72</fpage>. <pub-id pub-id-type="doi">10.1186/s13045-024-01596-9</pub-id>
+<pub-id pub-id-type="pmid">39182134</pub-id>
+<pub-id pub-id-type="pmcid">PMC11344930</pub-id></mixed-citation></ref><ref id="B49"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Sinjab</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Min</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Han</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Paradiso</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>Y.</given-names></name>
+<etal />
+</person-group> (<year>2025</year>). <article-title>Conserved spatial subtypes and cellular neighborhoods of cancer-associated fibroblasts revealed by single-cell spatial multi-omics</article-title>. <source>Cancer Cell</source>
+<volume>43</volume> (<issue>5</issue>), <fpage>905</fpage>–<lpage>924.e906</lpage>. <pub-id pub-id-type="doi">10.1016/j.ccell.2025.03.004</pub-id>
+<pub-id pub-id-type="pmid">40154487</pub-id>
+<pub-id pub-id-type="pmcid">PMC12074878</pub-id></mixed-citation></ref><ref id="B50"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lobingier</surname><given-names>B. T.</given-names></name>
+<name name-style="western"><surname>Hüttenhain</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Eichel</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Miller</surname><given-names>K. B.</given-names></name>
+<name name-style="western"><surname>Ting</surname><given-names>A. Y.</given-names></name>
+<name name-style="western"><surname>von Zastrow</surname><given-names>M.</given-names></name>
+<etal />
+</person-group> (<year>2017</year>). <article-title>An approach to spatiotemporally resolve protein interaction networks in living cells</article-title>. <source>Cell</source>
+<volume>169</volume> (<issue>2</issue>), <fpage>350</fpage>–<lpage>360.e312</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2017.03.022</pub-id>
+<pub-id pub-id-type="pmid">28388416</pub-id>
+<pub-id pub-id-type="pmcid">PMC5616215</pub-id></mixed-citation></ref><ref id="B51"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lubo</surname><given-names>I.</given-names></name>
+<name name-style="western"><surname>Hernandez</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Wistuba</surname><given-names>I. I.</given-names></name>
+<name name-style="western"><surname>Solis Soto</surname><given-names>L. M.</given-names></name>
+</person-group> (<year>2024</year>). <article-title>Novel spatial approaches to dissect the lung cancer immune microenvironment</article-title>. <source>Cancers</source>
+<volume>16</volume> (<issue>24</issue>), <fpage>4145</fpage>. <pub-id pub-id-type="doi">10.3390/cancers16244145</pub-id>
+<pub-id pub-id-type="pmid">39766047</pub-id>
+<pub-id pub-id-type="pmcid">PMC11674389</pub-id></mixed-citation></ref><ref id="B52"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Makhmut</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Qin</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Fritzsche</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Nimo</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>König</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Coscia</surname><given-names>F.</given-names></name>
+</person-group> (<year>2023</year>). <article-title>A framework for ultra-low-input spatial tissue proteomics</article-title>. <source>Cell Syst.</source>
+<volume>14</volume> (<issue>11</issue>), <fpage>1002</fpage>–<lpage>1014.e1005</lpage>. <pub-id pub-id-type="doi">10.1016/j.cels.2023.10.003</pub-id>
+<pub-id pub-id-type="pmid">37909047</pub-id></mixed-citation></ref><ref id="B53"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>McNamara</surname><given-names>K. L.</given-names></name>
+<name name-style="western"><surname>Caswell-Jin</surname><given-names>J. L.</given-names></name>
+<name name-style="western"><surname>Joshi</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Ma</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Kotler</surname><given-names>E.</given-names></name>
+<name name-style="western"><surname>Bean</surname><given-names>G. R.</given-names></name>
+<etal />
+</person-group> (<year>2021</year>). <article-title>Spatial proteomic characterization of HER2-positive breast tumors through neoadjuvant therapy predicts response</article-title>. <source>Nat. Cancer</source>
+<volume>2</volume> (<issue>4</issue>), <fpage>400</fpage>–<lpage>413</lpage>. <pub-id pub-id-type="doi">10.1038/s43018-021-00190-z</pub-id>
+<pub-id pub-id-type="pmid">34966897</pub-id>
+<pub-id pub-id-type="pmcid">PMC8713949</pub-id></mixed-citation></ref><ref id="B54"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Merritt</surname><given-names>C. R.</given-names></name>
+<name name-style="western"><surname>Ong</surname><given-names>G. T.</given-names></name>
+<name name-style="western"><surname>Church</surname><given-names>S. E.</given-names></name>
+<name name-style="western"><surname>Barker</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Danaher</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Geiss</surname><given-names>G.</given-names></name>
+<etal />
+</person-group> (<year>2020</year>). <article-title>Multiplex digital spatial profiling of proteins and RNA in fixed tissue</article-title>. <source>Nat. Biotechnol.</source>
+<volume>38</volume> (<issue>5</issue>), <fpage>586</fpage>–<lpage>599</lpage>. <pub-id pub-id-type="doi">10.1038/s41587-020-0472-9</pub-id>
+<pub-id pub-id-type="pmid">32393914</pub-id>
+</mixed-citation></ref><ref id="B55"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Min</surname><given-names>K. W.</given-names></name>
+<name name-style="western"><surname>Bang</surname><given-names>J. Y.</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>K. P.</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>W. S.</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>S. H.</given-names></name>
+<name name-style="western"><surname>Shanta</surname><given-names>S. R.</given-names></name>
+<etal />
+</person-group> (<year>2014</year>). <article-title>Imaging mass spectrometry in papillary thyroid carcinoma for the identification and validation of biomarker proteins</article-title>. <source>J. Korean Med. Sci.</source>
+<volume>29</volume> (<issue>7</issue>), <fpage>934</fpage>–<lpage>940</lpage>. <pub-id pub-id-type="doi">10.3346/jkms.2014.29.7.934</pub-id>
+<pub-id pub-id-type="pmid">25045225</pub-id>
+<pub-id pub-id-type="pmcid">PMC4101781</pub-id></mixed-citation></ref><ref id="B56"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Morgan</surname><given-names>T. M.</given-names></name>
+<name name-style="western"><surname>Seeley</surname><given-names>E. H.</given-names></name>
+<name name-style="western"><surname>Fadare</surname><given-names>O.</given-names></name>
+<name name-style="western"><surname>Caprioli</surname><given-names>R. M.</given-names></name>
+<name name-style="western"><surname>Clark</surname><given-names>P. E.</given-names></name>
+</person-group> (<year>2013</year>). <article-title>Imaging the clear cell renal cell carcinoma proteome</article-title>. <source>J. Urol.</source>
+<volume>189</volume> (<issue>3</issue>), <fpage>1097</fpage>–<lpage>1103</lpage>. <pub-id pub-id-type="doi">10.1016/j.juro.2012.09.074</pub-id>
+<pub-id pub-id-type="pmid">23009866</pub-id>
+<pub-id pub-id-type="pmcid">PMC3570618</pub-id></mixed-citation></ref><ref id="B57"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Mund</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Brunner</surname><given-names>A. D.</given-names></name>
+<name name-style="western"><surname>Mann</surname><given-names>M.</given-names></name>
+</person-group> (<year>2022a</year>). <article-title>Unbiased spatial proteomics with single-cell resolution in tissues</article-title>. <source>Mol. Cell</source>
+<volume>82</volume> (<issue>12</issue>), <fpage>2335</fpage>–<lpage>2349</lpage>. <pub-id pub-id-type="doi">10.1016/j.molcel.2022.05.022</pub-id>
+<pub-id pub-id-type="pmid">35714588</pub-id></mixed-citation></ref><ref id="B58"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Mund</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Coscia</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Kriston</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Hollandi</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Kovács</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Brunner</surname><given-names>A. D.</given-names></name>
+<etal />
+</person-group> (<year>2022b</year>). <article-title>Deep visual proteomics defines single-cell identity and heterogeneity</article-title>. <source>Nat. Biotechnol.</source>
+<volume>40</volume> (<issue>8</issue>), <fpage>1231</fpage>–<lpage>1240</lpage>. <pub-id pub-id-type="doi">10.1038/s41587-022-01302-5</pub-id>
+<pub-id pub-id-type="pmcid">PMC9371970</pub-id><pub-id pub-id-type="pmid">35590073</pub-id></mixed-citation></ref><ref id="B59"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Nordmann</surname><given-names>T. M.</given-names></name>
+<name name-style="western"><surname>Schweizer</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Metousis</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Thielert</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Rodriguez</surname><given-names>E.</given-names></name>
+<name name-style="western"><surname>Rahbek-Gjerdrum</surname><given-names>L. M.</given-names></name>
+<etal />
+</person-group> (<year>2023</year>). <article-title>A standardized and reproducible workflow for membrane glass slides in routine histology and spatial proteomics</article-title>. <source>Mol. Cell Proteomics</source>
+<volume>22</volume> (<issue>10</issue>), <fpage>100643</fpage>. <pub-id pub-id-type="doi">10.1016/j.mcpro.2023.100643</pub-id>
+<pub-id pub-id-type="pmid">37683827</pub-id>
+<pub-id pub-id-type="pmcid">PMC10565769</pub-id></mixed-citation></ref><ref id="B60"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>O'Farrell</surname><given-names>P. H.</given-names></name>
+</person-group> (<year>1975</year>). <article-title>High resolution two-dimensional electrophoresis of proteins</article-title>. <source>J. Biol. Chem.</source>
+<volume>250</volume> (<issue>10</issue>), <fpage>4007</fpage>–<lpage>4021</lpage>. <pub-id pub-id-type="doi">10.1016/S0021-9258(19)41496-8</pub-id>
+<pub-id pub-id-type="pmid">236308</pub-id>
+<pub-id pub-id-type="pmcid">PMC2874754</pub-id></mixed-citation></ref><ref id="B61"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ong</surname><given-names>S. E.</given-names></name>
+<name name-style="western"><surname>Blagoev</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Kratchmarova</surname><given-names>I.</given-names></name>
+<name name-style="western"><surname>Kristensen</surname><given-names>D. B.</given-names></name>
+<name name-style="western"><surname>Steen</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Pandey</surname><given-names>A.</given-names></name>
+<etal />
+</person-group> (<year>2002</year>). <article-title>Stable isotope labeling by amino acids in cell culture, SILAC, as a simple and accurate approach to expression proteomics</article-title>. <source>Mol. Cell Proteomics</source>
+<volume>1</volume> (<issue>5</issue>), <fpage>376</fpage>–<lpage>386</lpage>. <pub-id pub-id-type="doi">10.1074/mcp.m200025-mcp200</pub-id>
+<pub-id pub-id-type="pmid">12118079</pub-id>
+</mixed-citation></ref><ref id="B62"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Orre</surname><given-names>L. M.</given-names></name>
+<name name-style="western"><surname>Vesterlund</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Pan</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Arslan</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Zhu</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Fernandez Woodbridge</surname><given-names>A.</given-names></name>
+<etal />
+</person-group> (<year>2019</year>). <article-title>SubCellBarCode: proteome-Wide mapping of protein localization and relocalization</article-title>. <source>Mol. Cell</source>
+<volume>73</volume> (<issue>1</issue>), <fpage>166</fpage>–<lpage>182.e167</lpage>. <pub-id pub-id-type="doi">10.1016/j.molcel.2018.11.035</pub-id>
+<pub-id pub-id-type="pmid">30609389</pub-id>
+</mixed-citation></ref><ref id="B63"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Pachynski</surname><given-names>R. K.</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>E. H.</given-names></name>
+<name name-style="western"><surname>Miheecheva</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Kotlov</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Ramachandran</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Postovalova</surname><given-names>E.</given-names></name>
+<etal />
+</person-group> (<year>2021</year>). <article-title>Single-cell spatial proteomic revelations on the multiparametric MRI heterogeneity of clinically significant prostate cancer</article-title>. <source>Clin. Cancer Res.</source>
+<volume>27</volume> (<issue>12</issue>), <fpage>3478</fpage>–<lpage>3490</lpage>. <pub-id pub-id-type="doi">10.1158/1078-0432.Ccr-20-4217</pub-id>
+<pub-id pub-id-type="pmid">33771855</pub-id></mixed-citation></ref><ref id="B64"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Palla</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Fischer</surname><given-names>D. S.</given-names></name>
+<name name-style="western"><surname>Regev</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Theis</surname><given-names>F. J.</given-names></name>
+</person-group> (<year>2022a</year>). <article-title>Spatial components of molecular tissue biology</article-title>. <source>Nat. Biotechnol.</source>
+<volume>40</volume> (<issue>3</issue>), <fpage>308</fpage>–<lpage>318</lpage>. <pub-id pub-id-type="doi">10.1038/s41587-021-01182-1</pub-id>
+<pub-id pub-id-type="pmid">35132261</pub-id></mixed-citation></ref><ref id="B65"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Palla</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Spitzer</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Klein</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Fischer</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Schaar</surname><given-names>A. C.</given-names></name>
+<name name-style="western"><surname>Kuemmerle</surname><given-names>L. B.</given-names></name>
+<etal />
+</person-group> (<year>2022b</year>). <article-title>Squidpy: a scalable framework for spatial omics analysis</article-title>. <source>Nat. Methods</source>
+<volume>19</volume> (<issue>2</issue>), <fpage>171</fpage>–<lpage>178</lpage>. <pub-id pub-id-type="doi">10.1038/s41592-021-01358-2</pub-id>
+<pub-id pub-id-type="pmid">35102346</pub-id>
+<pub-id pub-id-type="pmcid">PMC8828470</pub-id></mixed-citation></ref><ref id="B66"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Park</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Lewy</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Rice</surname><given-names>C. M.</given-names></name>
+<name name-style="western"><surname>Elemento</surname><given-names>O.</given-names></name>
+<name name-style="western"><surname>Rendeiro</surname><given-names>A. F.</given-names></name>
+<etal />
+</person-group> (<year>2022</year>). <article-title>Spatial omics technologies at multimodal and single cell/subcellular level</article-title>. <source>Genome Biol.</source>
+<volume>23</volume> (<issue>1</issue>), <fpage>256</fpage>. <pub-id pub-id-type="doi">10.1186/s13059-022-02824-6</pub-id>
+<pub-id pub-id-type="pmid">36514162</pub-id>
+<pub-id pub-id-type="pmcid">PMC9746133</pub-id></mixed-citation></ref><ref id="B67"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Passarelli</surname><given-names>M. K.</given-names></name>
+<name name-style="western"><surname>Winograd</surname><given-names>N.</given-names></name>
+</person-group> (<year>2011</year>). <article-title>Lipid imaging with time-of-flight secondary ion mass spectrometry (ToF-SIMS)</article-title>. <source>Biochim. Biophys. Acta</source>
+<volume>1811</volume> (<issue>11</issue>), <fpage>976</fpage>–<lpage>990</lpage>. <pub-id pub-id-type="doi">10.1016/j.bbalip.2011.05.007</pub-id>
+<pub-id pub-id-type="pmid">21664291</pub-id>
+<pub-id pub-id-type="pmcid">PMC3199347</pub-id></mixed-citation></ref><ref id="B68"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Perkins</surname><given-names>D. N.</given-names></name>
+<name name-style="western"><surname>Pappin</surname><given-names>D. J.</given-names></name>
+<name name-style="western"><surname>Creasy</surname><given-names>D. M.</given-names></name>
+<name name-style="western"><surname>Cottrell</surname><given-names>J. S.</given-names></name>
+</person-group> (<year>1999</year>). <article-title>Probability-based protein identification by searching sequence databases using mass spectrometry data</article-title>. <source>Electrophoresis</source>
+<volume>20</volume> (<issue>18</issue>), <fpage>3551</fpage>–<lpage>3567</lpage>. <pub-id pub-id-type="doi">10.1002/(sici)1522-2683(19991201)20:18&lt;3551::Aid-elps3551&gt;3.0.Co;2-2</pub-id>
+<pub-id pub-id-type="pmid">10612281</pub-id>
+</mixed-citation></ref><ref id="B69"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Piehowski</surname><given-names>P. D.</given-names></name>
+<name name-style="western"><surname>Zhu</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Bramer</surname><given-names>L. M.</given-names></name>
+<name name-style="western"><surname>Stratton</surname><given-names>K. G.</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Orton</surname><given-names>D. J.</given-names></name>
+<etal />
+</person-group> (<year>2020</year>). <article-title>Automated mass spectrometry imaging of over 2000 proteins from tissue sections at 100-μm spatial resolution</article-title>. <source>Nat. Commun.</source>
+<volume>11</volume> (<issue>1</issue>), <fpage>8</fpage>. <pub-id pub-id-type="doi">10.1038/s41467-019-13858-z</pub-id>
+<pub-id pub-id-type="pmid">31911630</pub-id>
+<pub-id pub-id-type="pmcid">PMC6946663</pub-id></mixed-citation></ref><ref id="B70"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Plattner</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Lamberti</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Blattmann</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Kirchmair</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Rieder</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Loncova</surname><given-names>Z.</given-names></name>
+<etal />
+</person-group> (<year>2023</year>). <article-title>Functional and spatial proteomics profiling reveals intra- and intercellular signaling crosstalk in colorectal cancer</article-title>. <source>iScience</source>
+<volume>26</volume> (<issue>12</issue>), <fpage>108399</fpage>. <pub-id pub-id-type="doi">10.1016/j.isci.2023.108399</pub-id>
+<pub-id pub-id-type="pmid">38047086</pub-id>
+<pub-id pub-id-type="pmcid">PMC10692669</pub-id></mixed-citation></ref><ref id="B71"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Potthoff</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Schwenzfeier</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Niehaus</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Bessler</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Hoffmann</surname><given-names>E.</given-names></name>
+<name name-style="western"><surname>Soehnlein</surname><given-names>O.</given-names></name>
+<etal />
+</person-group> (<year>2025</year>). <article-title>Spatial biology using single-cell mass spectrometry imaging and integrated microscopy</article-title>. <source>Nat. Commun.</source>
+<volume>16</volume> (<issue>1</issue>), <fpage>9129</fpage>. <pub-id pub-id-type="doi">10.1038/s41467-025-64603-8</pub-id>
+<pub-id pub-id-type="pmid">41093848</pub-id>
+<pub-id pub-id-type="pmcid">PMC12528677</pub-id></mixed-citation></ref><ref id="B72"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ravi</surname><given-names>V. M.</given-names></name>
+<name name-style="western"><surname>Will</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Kueckelhaus</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Joseph</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Salié</surname><given-names>H.</given-names></name>
+<etal />
+</person-group> (<year>2022</year>). <article-title>Spatially resolved multi-omics deciphers bidirectional tumor-host interdependence in glioblastoma</article-title>. <source>Cancer Cell</source>
+<volume>40</volume> (<issue>6</issue>), <fpage>639</fpage>–<lpage>655.e613</lpage>. <pub-id pub-id-type="doi">10.1016/j.ccell.2022.05.009</pub-id>
+<pub-id pub-id-type="pmid">35700707</pub-id>
+</mixed-citation></ref><ref id="B73"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Risom</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Glass</surname><given-names>D. R.</given-names></name>
+<name name-style="western"><surname>Averbukh</surname><given-names>I.</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>C. C.</given-names></name>
+<name name-style="western"><surname>Baranski</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Kagel</surname><given-names>A.</given-names></name>
+<etal />
+</person-group> (<year>2022</year>). <article-title>Transition to invasive breast cancer is associated with progressive changes in the structure and composition of tumor stroma</article-title>. <source>Cell</source>
+<volume>185</volume> (<issue>2</issue>), <fpage>299</fpage>–<lpage>310.e218</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2021.12.023</pub-id>
+<pub-id pub-id-type="pmid">35063072</pub-id>
+<pub-id pub-id-type="pmcid">PMC8792442</pub-id></mixed-citation></ref><ref id="B74"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Rivest</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Eroglu</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Pelz</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Kowal</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Kehren</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Navikas</surname><given-names>V.</given-names></name>
+<etal />
+</person-group> (<year>2023</year>). <article-title>Fully automated sequential immunofluorescence (seqIF) for hyperplex spatial proteomics</article-title>. <source>Sci. Rep.</source>
+<volume>13</volume> (<issue>1</issue>), <fpage>16994</fpage>. <pub-id pub-id-type="doi">10.1038/s41598-023-43435-w</pub-id>
+<pub-id pub-id-type="pmid">37813886</pub-id>
+<pub-id pub-id-type="pmcid">PMC10562446</pub-id></mixed-citation></ref><ref id="B75"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Rosenberger</surname><given-names>F. A.</given-names></name>
+<name name-style="western"><surname>Thielert</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Strauss</surname><given-names>M. T.</given-names></name>
+<name name-style="western"><surname>Schweizer</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Ammar</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Mädler</surname><given-names>S. C.</given-names></name>
+<etal />
+</person-group> (<year>2023</year>). <article-title>Spatial single-cell mass spectrometry defines zonation of the hepatocyte proteome</article-title>. <source>Nat. Methods</source>
+<volume>20</volume> (<issue>10</issue>), <fpage>1530</fpage>–<lpage>1536</lpage>. <pub-id pub-id-type="doi">10.1038/s41592-023-02007-6</pub-id>
+<pub-id pub-id-type="pmcid">PMC10555842</pub-id><pub-id pub-id-type="pmid">37783884</pub-id></mixed-citation></ref><ref id="B76"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ross</surname><given-names>P. L.</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>Y. N.</given-names></name>
+<name name-style="western"><surname>Marchese</surname><given-names>J. N.</given-names></name>
+<name name-style="western"><surname>Williamson</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Parker</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Hattan</surname><given-names>S.</given-names></name>
+<etal />
+</person-group> (<year>2004</year>). <article-title>Multiplexed protein quantitation in <italic toggle="yes">Saccharomyces cerevisiae</italic> using amine-reactive isobaric tagging reagents</article-title>. <source>Mol. Cell Proteomics</source>
+<volume>3</volume> (<issue>12</issue>), <fpage>1154</fpage>–<lpage>1169</lpage>. <pub-id pub-id-type="doi">10.1074/mcp.M400129-MCP200</pub-id>
+<pub-id pub-id-type="pmid">15385600</pub-id>
+</mixed-citation></ref><ref id="B77"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Rozenblatt-Rosen</surname><given-names>O.</given-names></name>
+<name name-style="western"><surname>Regev</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Oberdoerffer</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Nawy</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Hupalowska</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Rood</surname><given-names>J. E.</given-names></name>
+<etal />
+</person-group> (<year>2020</year>). <article-title>The human tumor atlas network: charting tumor transitions across space and time at single-cell resolution</article-title>. <source>Cell</source>
+<volume>181</volume> (<issue>2</issue>), <fpage>236</fpage>–<lpage>249</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2020.03.053</pub-id>
+<pub-id pub-id-type="pmid">32302568</pub-id>
+<pub-id pub-id-type="pmcid">PMC7376497</pub-id></mixed-citation></ref><ref id="B78"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Sadeghirad</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Monkman</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Tan</surname><given-names>C. W.</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Yunis</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Donovan</surname><given-names>M. L.</given-names></name>
+<etal />
+</person-group> (<year>2024</year>). <article-title>Spatial dynamics of tertiary lymphoid aggregates in head and neck cancer: insights into immunotherapy response</article-title>. <source>J. Transl. Med.</source>
+<volume>22</volume> (<issue>1</issue>), <fpage>677</fpage>. <pub-id pub-id-type="doi">10.1186/s12967-024-05409-y</pub-id>
+<pub-id pub-id-type="pmid">39049036</pub-id>
+<pub-id pub-id-type="pmcid">PMC11267849</pub-id></mixed-citation></ref><ref id="B79"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Samorodnitsky</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>M. C.</given-names></name>
+</person-group> (<year>2024</year>). <article-title>Statistical analysis of multiple regions-of-interest in multiplexed spatial proteomics data</article-title>. <source>Brief. Bioinform</source>
+<volume>25</volume> (<issue>6</issue>), <fpage>bbae522</fpage>. <pub-id pub-id-type="doi">10.1093/bib/bbae522</pub-id>
+<pub-id pub-id-type="pmid">39428129</pub-id>
+<pub-id pub-id-type="pmcid">PMC11491162</pub-id></mixed-citation></ref><ref id="B80"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Schapiro</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Yapp</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Sokolov</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Reynolds</surname><given-names>S. M.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>Y. A.</given-names></name>
+<name name-style="western"><surname>Sudar</surname><given-names>D.</given-names></name>
+<etal />
+</person-group> (<year>2022</year>). <article-title>MITI minimum information guidelines for highly multiplexed tissue images</article-title>. <source>Nat. Methods</source>
+<volume>19</volume> (<issue>3</issue>), <fpage>262</fpage>–<lpage>267</lpage>. <pub-id pub-id-type="doi">10.1038/s41592-022-01415-4</pub-id>
+<pub-id pub-id-type="pmid">35277708</pub-id>
+<pub-id pub-id-type="pmcid">PMC9009186</pub-id></mixed-citation></ref><ref id="B81"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Schulz</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Zanotelli</surname><given-names>V. R. T.</given-names></name>
+<name name-style="western"><surname>Fischer</surname><given-names>J. R.</given-names></name>
+<name name-style="western"><surname>Schapiro</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Engler</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Lun</surname><given-names>X. K.</given-names></name>
+<etal />
+</person-group> (<year>2018</year>). <article-title>Simultaneous multiplexed imaging of mRNA and proteins with subcellular resolution in breast cancer tissue samples by mass cytometry</article-title>. <source>Cell Syst.</source>
+<volume>6</volume> (<issue>1</issue>), <fpage>25</fpage>–<lpage>36.e25</lpage>. <pub-id pub-id-type="doi">10.1016/j.cels.2017.12.001</pub-id>
+<pub-id pub-id-type="pmid">29289569</pub-id>
+<pub-id pub-id-type="pmcid">PMC5791659</pub-id></mixed-citation></ref><ref id="B82"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Shaban</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Bai</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Qiu</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Mao</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Yeung</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Yeo</surname><given-names>Y. Y.</given-names></name>
+<etal />
+</person-group> (<year>2024</year>). <article-title>MAPS: pathologist-level cell type annotation from tissue images through machine learning</article-title>. <source>Nat. Commun.</source>
+<volume>15</volume> (<issue>1</issue>), <fpage>28</fpage>. <pub-id pub-id-type="doi">10.1038/s41467-023-44188-w</pub-id>
+<pub-id pub-id-type="pmcid">PMC10761896</pub-id><pub-id pub-id-type="pmid">38167832</pub-id></mixed-citation></ref><ref id="B83"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Song</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Xiong</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Jiang</surname><given-names>T.</given-names></name>
+<etal />
+</person-group> (<year>2023</year>). <article-title>Spatial multi-omics revealed the impact of tumor ecosystem heterogeneity on immunotherapy efficacy in patients with advanced non-small cell lung cancer treated with bispecific antibody</article-title>. <source>J. Immunother. Cancer</source>
+<volume>11</volume> (<issue>2</issue>), <fpage>e006234</fpage>. <pub-id pub-id-type="doi">10.1136/jitc-2022-006234</pub-id>
+<pub-id pub-id-type="pmid">36854570</pub-id>
+<pub-id pub-id-type="pmcid">PMC9980352</pub-id></mixed-citation></ref><ref id="B84"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Takáts</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Wiseman</surname><given-names>J. M.</given-names></name>
+<name name-style="western"><surname>Gologan</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Cooks</surname><given-names>R. G.</given-names></name>
+</person-group> (<year>2004</year>). <article-title>Mass spectrometry sampling under ambient conditions with desorption electrospray ionization</article-title>. <source>Science</source>
+<volume>306</volume> (<issue>5695</issue>), <fpage>471</fpage>–<lpage>473</lpage>. <pub-id pub-id-type="doi">10.1126/science.1104404</pub-id>
+<pub-id pub-id-type="pmid">15486296</pub-id>
+</mixed-citation></ref><ref id="B85"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Tarhini</surname><given-names>A. A.</given-names></name>
+<name name-style="western"><surname>El Naqa</surname><given-names>I.</given-names></name>
+</person-group> (<year>2025</year>). <article-title>Artificial intelligence for multiscale spatial analysis in oncology: current applications and future implications</article-title>. <source>Int. J. Mol. Sci.</source>
+<volume>26</volume> (<issue>16</issue>), <fpage>8002</fpage>. <pub-id pub-id-type="doi">10.3390/ijms26168002</pub-id>
+<pub-id pub-id-type="pmid">40869323</pub-id>
+<pub-id pub-id-type="pmcid">PMC12387104</pub-id></mixed-citation></ref><ref id="B86"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Thul</surname><given-names>P. J.</given-names></name>
+<name name-style="western"><surname>Lindskog</surname><given-names>C.</given-names></name>
+</person-group> (<year>2018</year>). <article-title>The human protein atlas: a spatial map of the human proteome</article-title>. <source>Protein Sci.</source>
+<volume>27</volume> (<issue>1</issue>), <fpage>233</fpage>–<lpage>244</lpage>. <pub-id pub-id-type="doi">10.1002/pro.3307</pub-id>
+<pub-id pub-id-type="pmid">28940711</pub-id>
+<pub-id pub-id-type="pmcid">PMC5734309</pub-id></mixed-citation></ref><ref id="B87"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Vickovic</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Lötstedt</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Klughammer</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Mages</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Segerstolpe</surname><given-names>Å.</given-names></name>
+<name name-style="western"><surname>Rozenblatt-Rosen</surname><given-names>O.</given-names></name>
+<etal />
+</person-group> (<year>2022</year>). <article-title>SM-Omics is an automated platform for high-throughput spatial multi-omics</article-title>. <source>Nat. Commun.</source>
+<volume>13</volume> (<issue>1</issue>), <fpage>795</fpage>. <pub-id pub-id-type="doi">10.1038/s41467-022-28445-y</pub-id>
+<pub-id pub-id-type="pmid">35145087</pub-id>
+<pub-id pub-id-type="pmcid">PMC8831571</pub-id></mixed-citation></ref><ref id="B88"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Z. J.</given-names></name>
+<name name-style="western"><surname>Farooq</surname><given-names>A. S.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>Y. J.</given-names></name>
+<name name-style="western"><surname>Bhargava</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>A. M.</given-names></name>
+<name name-style="western"><surname>Thomson</surname><given-names>M. W.</given-names></name>
+</person-group> (<year>2025</year>). <article-title>Identifying perturbations that boost T-cell infiltration into tumours via counterfactual learning of their spatial proteomic profiles</article-title>. <source>Nat. Biomed. Eng.</source>
+<volume>9</volume> (<issue>3</issue>), <fpage>390</fpage>–<lpage>404</lpage>. <pub-id pub-id-type="doi">10.1038/s41551-025-01357-0</pub-id>
+<pub-id pub-id-type="pmid">40044819</pub-id>
+<pub-id pub-id-type="pmcid">PMC11922765</pub-id></mixed-citation></ref><ref id="B89"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Witzke</surname><given-names>K. E.</given-names></name>
+<name name-style="western"><surname>Großerueschkamp</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Jütte</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Horn</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Roghmann</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>von Landenberg</surname><given-names>N.</given-names></name>
+<etal />
+</person-group> (<year>2019</year>). <article-title>Integrated fourier transform infrared imaging and proteomics for identification of a candidate histochemical biomarker in bladder cancer</article-title>. <source>Am. J. Pathol.</source>
+<volume>189</volume> (<issue>3</issue>), <fpage>619</fpage>–<lpage>631</lpage>. <pub-id pub-id-type="doi">10.1016/j.ajpath.2018.11.018</pub-id>
+<pub-id pub-id-type="pmid">30770125</pub-id>
+</mixed-citation></ref><ref id="B90"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Xu</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Mao</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Su</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Mao</surname><given-names>Y.</given-names></name>
+<etal />
+</person-group> (<year>2024</year>). <article-title>Multimodal single cell-resolved spatial proteomics reveal pancreatic tumor heterogeneity</article-title>. <source>Nat. Commun.</source>
+<volume>15</volume> (<issue>1</issue>), <fpage>10100</fpage>. <pub-id pub-id-type="doi">10.1038/s41467-024-54438-0</pub-id>
+<pub-id pub-id-type="pmid">39572534</pub-id>
+<pub-id pub-id-type="pmcid">PMC11582669</pub-id></mixed-citation></ref><ref id="B91"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Deshpande</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Verma</surname><given-names>B. K.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Mi</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Yuan</surname><given-names>L.</given-names></name>
+<etal />
+</person-group> (<year>2024a</year>). <article-title>Integration of clinical trial spatial multiomics analysis and virtual clinical trials enables immunotherapy response prediction and biomarker discovery</article-title>. <source>Cancer Res.</source>
+<volume>84</volume> (<issue>16</issue>), <fpage>2734</fpage>–<lpage>2748</lpage>. <pub-id pub-id-type="doi">10.1158/0008-5472.Can-24-0943</pub-id>
+<pub-id pub-id-type="pmcid">PMC12010747</pub-id><pub-id pub-id-type="pmid">38861365</pub-id></mixed-citation></ref><ref id="B92"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>T. L.</given-names></name>
+<name name-style="western"><surname>Zheng</surname><given-names>B. W.</given-names></name>
+<name name-style="western"><surname>Xia</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>P. F.</given-names></name>
+<name name-style="western"><surname>Zheng</surname><given-names>B. Y.</given-names></name>
+<name name-style="western"><surname>Jiang</surname><given-names>L. X.</given-names></name>
+<etal />
+</person-group> (<year>2024b</year>). <article-title>Hypoxic upregulation of IER2 increases paracrine GMFG signaling of endoplasmic reticulum Stress-CAF to promote chordoma progression via targeting ITGB1</article-title>. <source>Adv. Sci. (Weinh)</source>
+<volume>11</volume> (<issue>40</issue>), <fpage>e2405421</fpage>. <pub-id pub-id-type="doi">10.1002/advs.202405421</pub-id>
+<pub-id pub-id-type="pmcid">PMC11515918</pub-id><pub-id pub-id-type="pmid">39207055</pub-id></mixed-citation></ref><ref id="B93"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zhu</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Dou</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Piehowski</surname><given-names>P. D.</given-names></name>
+<name name-style="western"><surname>Liang</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Chu</surname><given-names>R. K.</given-names></name>
+<etal />
+</person-group> (<year>2018</year>). <article-title>Spatially resolved proteome mapping of laser capture microdissected tissue with automated sample transfer to nanodroplets</article-title>. <source>Mol. Cell Proteomics</source>
+<volume>17</volume> (<issue>9</issue>), <fpage>1864</fpage>–<lpage>1874</lpage>. <pub-id pub-id-type="doi">10.1074/mcp.TIR118.000686</pub-id>
+<pub-id pub-id-type="pmid">29941660</pub-id>
+<pub-id pub-id-type="pmcid">PMC6126383</pub-id></mixed-citation></ref><ref id="B94"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zidane</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Makky</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Bruhns</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Rochwarger</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Babaei</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Claassen</surname><given-names>M.</given-names></name>
+<etal />
+</person-group> (<year>2023</year>). <article-title>A review on deep learning applications in highly multiplexed tissue imaging data analysis</article-title>. <source>Front. Bioinform</source>
+<volume>3</volume>, <fpage>1159381</fpage>. <pub-id pub-id-type="doi">10.3389/fbinf.2023.1159381</pub-id>
+<pub-id pub-id-type="pmid">37564726</pub-id>
+<pub-id pub-id-type="pmcid">PMC10410935</pub-id></mixed-citation></ref></ref-list></back></article>

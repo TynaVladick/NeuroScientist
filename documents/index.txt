@@ -1,0 +1,249 @@
+[1] Force-regulated robotic diffuse reflectance spectroscopy scanning
+PMID: 42852448 | PMCID: PMC13649288 | DOI: 10.1117/1.JBO.31.12.123306
+Journal: Journal of Biomedical Optics | Year: 2026 | Full text: yes
+Files: 42852448_Force-regulated robotic diffuse reflectance spectroscopy scanning_fulltext.xml; 42852448_Force-regulated robotic diffuse reflectance spectroscopy scanning_fulltext.md
+
+[2] Casting wider than U-Nets: evaluating the role of novel machine learning applications in radiation therapy
+PMID: 42852366 | PMCID: PMC13648204 | DOI: 10.1093/bjrai/ubag018
+Journal: BJR Artificial Intelligence | Year: 2026 | Full text: yes
+Files: 42852366_Casting wider than U-Nets evaluating the role of novel machine learning applicat_fulltext.xml; 42852366_Casting wider than U-Nets evaluating the role of novel machine learning applicat_fulltext.md
+
+[3] Application of Artificial Intelligence in the Prediction and Management of Stroke Rehabilitation
+PMID: 42852356 | PMCID: PMC13648198 | DOI: 10.34133/cbsystems.0702
+Journal: Cyborg and Bionic Systems | Year: 2026 | Full text: yes
+Files: 42852356_Application of Artificial Intelligence in the Prediction and Management of Strok_fulltext.xml; 42852356_Application of Artificial Intelligence in the Prediction and Management of Strok_fulltext.md
+
+[4] Chitosan-Coated Oleuropein Nanoliposomes Enable Dose-Sparing Suppression of Serum Inflammatory Markers in a TNF-α-Induced Vascular Inflammation Model
+PMID: 42852293 | PMCID: PMC13647880 | DOI: 10.1021/acsomega.6c06263
+Journal: ACS Omega | Year: 2026 | Full text: yes
+Files: 42852293_Chitosan-Coated Oleuropein Nanoliposomes Enable Dose-Sparing Suppression of Seru_fulltext.xml; 42852293_Chitosan-Coated Oleuropein Nanoliposomes Enable Dose-Sparing Suppression of Seru_fulltext.md
+
+[5] A Box–Behnken-Optimized Phytosomal Strategy for Diosgenin: Enhancing Oral Delivery and Antipsoriatic Efficacy in a Preclinical Model
+PMID: 42852268 | PMCID: PMC13647834 | DOI: 10.1021/acsomega.5c13594
+Journal: ACS Omega | Year: 2026 | Full text: yes
+Files: 42852268_A Box–Behnken-Optimized Phytosomal Strategy for Diosgenin Enhancing Oral Deliver_fulltext.xml; 42852268_A Box–Behnken-Optimized Phytosomal Strategy for Diosgenin Enhancing Oral Deliver_fulltext.md
+
+[6] Development and pilot testing of a risk assessment checklist for children of incarcerated parents in Hong Kong
+PMID: 42852267 | PMCID: PMC13647460 | DOI: 10.3389/fsoc.2026.1936866
+Journal: Frontiers in Sociology | Year: 2026 | Full text: yes
+Files: 42852267_Development and pilot testing of a risk assessment checklist for children of inc_fulltext.xml; 42852267_Development and pilot testing of a risk assessment checklist for children of inc_fulltext.md
+
+[7] Beyond GCP: developing a differentiated competency framework for principal investigators in innovative drug clinical trials in China
+PMID: 42852253 | PMCID: PMC13647746 | DOI: 10.3389/fmed.2026.1933721
+Journal: Frontiers in Medicine | Year: 2026 | Full text: yes
+Files: 42852253_Beyond GCP developing a differentiated competency framework for principal invest_fulltext.xml; 42852253_Beyond GCP developing a differentiated competency framework for principal invest_fulltext.md
+
+[8] AI-assisted systems pharmacology with experimental validation reveal multi-target anticancer mechanisms of Ganoderma lucidum extracts against lung cancer
+PMID: 42852204 | PMCID: PMC13647369 | DOI: 10.1080/21501203.2026.2634522
+Journal: Mycology | Year: 2026 | Full text: yes
+Files: 42852204_AI-assisted systems pharmacology with experimental validation reveal multi-targe_fulltext.xml; 42852204_AI-assisted systems pharmacology with experimental validation reveal multi-targe_fulltext.md
+
+[9] ChatGPT Versus DeepSeek in Resectability Categorization of Chronic Rhinosinusitis: A Comparison Based on EPOS 2020
+PMID: 42852182 | PMCID: PMC13647241 | DOI: 10.1002/wjo2.70180
+Journal: World Journal of Otorhinolaryngology - Head and Neck Surgery | Year: 2026 | Full text: yes
+Files: 42852182_ChatGPT Versus DeepSeek in Resectability Categorization of Chronic Rhinosinusiti_fulltext.xml; 42852182_ChatGPT Versus DeepSeek in Resectability Categorization of Chronic Rhinosinusiti_fulltext.md
+
+[10] Facial Expression-based Pain Detection: Development and Validation in the Post-anesthesia Care Unit
+PMID: 42852162 | PMCID: PMC13647228 | DOI: 10.5812/aapm-171818
+Journal: Anesthesiology and Pain Medicine | Year: 2026 | Full text: yes
+Files: 42852162_Facial Expression-based Pain Detection Development and Validation in the Post-an_fulltext.xml; 42852162_Facial Expression-based Pain Detection Development and Validation in the Post-an_fulltext.md
+
+[11] Bridging bone and muscle: ontology-driven prioritization of candidate genes at the osteoporosis–sarcopenia interface by gene ontology reverse lookup
+PMID: 42852129 | PMCID: PMC13649218 | DOI: 10.3389/fgene.2026.1760184
+Journal: Frontiers in Genetics | Year: 2026 | Full text: yes
+Files: 42852129_Bridging bone and muscle ontology-driven prioritization of candidate genes at th_fulltext.xml; 42852129_Bridging bone and muscle ontology-driven prioritization of candidate genes at th_fulltext.md
+
+[12] The unified front: a multidisciplinary approach in the Era of uniportal thoracic surgery
+PMID: 42852109 | PMCID: PMC13649079 | DOI: 10.3389/fsurg.2026.1878957
+Journal: Frontiers in Surgery | Year: 2026 | Full text: yes
+Files: 42852109_The unified front a multidisciplinary approach in the Era of uniportal thoracic_fulltext.xml; 42852109_The unified front a multidisciplinary approach in the Era of uniportal thoracic_fulltext.md
+
+[13] Implementation of next-generation sequencing to guide care and public health action in settings with high burden of rifampicin-resistant tuberculosis: 32 stakeholder consensus statements generated using Delphi principles
+PMID: 42852055 | PMCID: PMC13647007 | DOI: 10.1136/bmjph-2026-004957
+Journal: BMJ Public Health | Year: 2026 | Full text: yes
+Files: 42852055_Implementation of next-generation sequencing to guide care and public health act_fulltext.xml; 42852055_Implementation of next-generation sequencing to guide care and public health act_fulltext.md
+
+[14] A review on monitoring orthodontic treatment: from traditional approaches to innovative point-of-care tools
+PMID: 42852041 | PMCID: PMC13647070 | DOI: 10.3389/fdmed.2026.1928953
+Journal: Frontiers in Dental Medicine | Year: 2026 | Full text: yes
+Files: 42852041_A review on monitoring orthodontic treatment from traditional approaches to inno_fulltext.xml; 42852041_A review on monitoring orthodontic treatment from traditional approaches to inno_fulltext.md
+
+[15] Electrochemical Detection of Penicillin G Using a Nanomolecularly Imprinted Polymer Sensor Modified with Carbon Nanofibers and Gold Nanowires
+PMID: 42852026 | PMCID: PMC13647934 | DOI: 10.1021/acsomega.6c06165
+Journal: ACS Omega | Year: 2026 | Full text: yes
+Files: 42852026_Electrochemical Detection of Penicillin G Using a Nanomolecularly Imprinted Poly_fulltext.xml; 42852026_Electrochemical Detection of Penicillin G Using a Nanomolecularly Imprinted Poly_fulltext.md
+
+[16] Spatial proteomics: technical evolution and applications in cancer research
+PMID: 42851986 | PMCID: PMC13646910 | DOI: 10.3389/fcell.2026.1914317
+Journal: Frontiers in Cell and Developmental Biology | Year: 2026 | Full text: yes
+Files: 42851986_Spatial proteomics technical evolution and applications in cancer research_fulltext.xml; 42851986_Spatial proteomics technical evolution and applications in cancer research_fulltext.md
+
+[17] Obstetric emergency readiness in rural emergency departments: a cross-sectional survey of birthing and non-birthing hospitals in Montana, USA
+PMID: 42851954 | PMCID: PMC13646923 | DOI: 10.1136/bmjph-2025-004491
+Journal: BMJ Public Health | Year: 2026 | Full text: yes
+Files: 42851954_Obstetric emergency readiness in rural emergency departments a cross-sectional s_fulltext.xml; 42851954_Obstetric emergency readiness in rural emergency departments a cross-sectional s_fulltext.md
+
+[18] Artificial intelligence-driven therapeutics for disease modification in type 1 diabetes: a digital public health and clinical translation framework
+PMID: 42851930 | PMCID: PMC13646721 | DOI: 10.3389/fpubh.2026.1915502
+Journal: Frontiers in Public Health | Year: 2026 | Full text: yes
+Files: 42851930_Artificial intelligence-driven therapeutics for disease modification in type 1 d_fulltext.xml; 42851930_Artificial intelligence-driven therapeutics for disease modification in type 1 d_fulltext.md
+
+[19] Artificial intelligence in the biomechanics of knee osteoarthritis: biomechanical phenotyping, risk stratification, diagnosis, treatment and clinical translation—a narrative review
+PMID: 42851913 | PMCID: PMC13647466 | DOI: 10.3389/fbioe.2026.1937199
+Journal: Frontiers in Bioengineering and Biotechnology | Year: 2026 | Full text: yes
+Files: 42851913_Artificial intelligence in the biomechanics of knee osteoarthritis biomechanical_fulltext.xml; 42851913_Artificial intelligence in the biomechanics of knee osteoarthritis biomechanical_fulltext.md
+
+[20] Beyond efficacy: the treatment lifecycle of incretin and multi-receptor agonists
+PMID: 42851902 | PMCID: PMC13646783 | DOI: 10.3389/fendo.2026.1902185
+Journal: Frontiers in Endocrinology | Year: 2026 | Full text: yes
+Files: 42851902_Beyond efficacy the treatment lifecycle of incretin and multi-receptor agonists_fulltext.xml; 42851902_Beyond efficacy the treatment lifecycle of incretin and multi-receptor agonists_fulltext.md
+
+[21] Risk factors for HR-HPV persistence and residual or recurrent high-grade squamous intraepithelial neoplasia after LEEP
+PMID: 42851843 | PMCID: PMC13647321 | DOI: 10.3389/fmed.2026.1897304
+Journal: Frontiers in Medicine | Year: 2026 | Full text: yes
+Files: 42851843_Risk factors for HR-HPV persistence and residual or recurrent high-grade squamou_fulltext.xml; 42851843_Risk factors for HR-HPV persistence and residual or recurrent high-grade squamou_fulltext.md
+
+[22] Iatrogenic coronary artery dissection: detection, management, and prevention
+PMID: 42851824 | PMCID: PMC13646506 | DOI: 10.3389/fcvm.2026.1910377
+Journal: Frontiers in Cardiovascular Medicine | Year: 2026 | Full text: yes
+Files: 42851824_Iatrogenic coronary artery dissection detection, management, and prevention_fulltext.xml; 42851824_Iatrogenic coronary artery dissection detection, management, and prevention_fulltext.md
+
+[23] Current status, challenges and future development of self-service appointment platforms in hospital radiology departments in China: a narrative review
+PMID: 42851816 | PMCID: PMC13646530 | DOI: 10.3389/fdgth.2026.1940548
+Journal: Frontiers in Digital Health | Year: 2026 | Full text: yes
+Files: 42851816_Current status, challenges and future development of self-service appointment pl_fulltext.xml; 42851816_Current status, challenges and future development of self-service appointment pl_fulltext.md
+
+[24] Advances in the application of gene methylation detection in cervical cancer screening
+PMID: 42851769 | PMCID: PMC13647168 | DOI: 10.3389/fonc.2026.1920299
+Journal: Frontiers in Oncology | Year: 2026 | Full text: yes
+Files: 42851769_Advances in the application of gene methylation detection in cervical cancer scr_fulltext.xml; 42851769_Advances in the application of gene methylation detection in cervical cancer scr_fulltext.md
+
+[25] Crisis management and relational work in Swiss nursing homes during COVID-19: a qualitative multistakeholder study
+PMID: 42851755 | PMCID: PMC13646948 | DOI: 10.1136/bmjph-2026-005130
+Journal: BMJ Public Health | Year: 2026 | Full text: yes
+Files: 42851755_Crisis management and relational work in Swiss nursing homes during COVID-19 a q_fulltext.xml; 42851755_Crisis management and relational work in Swiss nursing homes during COVID-19 a q_fulltext.md
+
+[26] What urban–rural differences exist in cultural norms and maternity care preferences: a cross-sectional study among women receiving antenatal, postnatal, and child under 5 years health services in Bo District, Sierra Leone
+PMID: 42851741 | PMCID: PMC13647014 | DOI: 10.1136/bmjph-2025-004755
+Journal: BMJ Public Health | Year: 2026 | Full text: yes
+Files: 42851741_What urban–rural differences exist in cultural norms and maternity care preferen_fulltext.xml; 42851741_What urban–rural differences exist in cultural norms and maternity care preferen_fulltext.md
+
+[27] When are large language models medical devices? Navigating the MDR and AI Act for healthcare applications
+PMID: 42851737 | PMCID: PMC13646968 | DOI: 10.1136/bmjdh-2026-000003
+Journal: BMJ Digital Health & AI | Year: 2026 | Full text: yes
+Files: 42851737_When are large language models medical devices Navigating the MDR and AI Act for_fulltext.xml; 42851737_When are large language models medical devices Navigating the MDR and AI Act for_fulltext.md
+
+[28] National prioritisation of zoonotic diseases in Rwanda: a One Health modified Delphi consensus study
+PMID: 42851733 | PMCID: PMC13646989 | DOI: 10.1136/bmjph-2025-004446
+Journal: BMJ Public Health | Year: 2026 | Full text: yes
+Files: 42851733_National prioritisation of zoonotic diseases in Rwanda a One Health modified Del_fulltext.xml; 42851733_National prioritisation of zoonotic diseases in Rwanda a One Health modified Del_fulltext.md
+
+[29] Implementing a multi-centre hypoglycaemia management surveillance model through a co-designed approach to develop actionable insights in the UK
+PMID: 42851710 | PMCID: PMC13646156 | DOI: 10.3389/frhs.2026.1862035
+Journal: Frontiers in Health Services | Year: 2026 | Full text: yes
+Files: 42851710_Implementing a multi-centre hypoglycaemia management surveillance model through_fulltext.xml; 42851710_Implementing a multi-centre hypoglycaemia management surveillance model through_fulltext.md
+
+[30] Malignancies in inborn errors of immunity: a retrospective-prospective study on a large Italian cohort of pediatric and adult patients
+PMID: 42851687 | PMCID: PMC13646911 | DOI: 10.3389/fimmu.2026.1948296
+Journal: Frontiers in Immunology | Year: 2026 | Full text: yes
+Files: 42851687_Malignancies in inborn errors of immunity a retrospective-prospective study on a_fulltext.xml; 42851687_Malignancies in inborn errors of immunity a retrospective-prospective study on a_fulltext.md
+
+[31] “My Tears Have Been My Food, Both Day and Night”: Integrating Theology and Psychology on the Nature of Grief
+PMID: 42852453 | PMCID: PMC13649332 | DOI: 10.3390/rel16111353
+Journal: Religions | Year: 2025 | Full text: yes
+Files: 42852453_“My Tears Have Been My Food, Both Day and Night” Integrating Theology and Psycho_fulltext.xml; 42852453_“My Tears Have Been My Food, Both Day and Night” Integrating Theology and Psycho_fulltext.md
+
+[32] N-terminal Pro-B-Type Natriuretic Peptide (NT-proBNP) Versus Artificial Intelligence-Enabled Electrocardiography for the Diagnosis of Acute Heart Failure in Emergency Departments: A Systematic Review
+PMID: 42852442 | PMCID: PMC13649158 | DOI: 10.7759/cureus.115927
+Journal: Cureus | Year: 2026 | Full text: yes
+Files: 42852442_N-terminal Pro-B-Type Natriuretic Peptide (NT-proBNP) Versus Artificial Intellig_fulltext.xml; 42852442_N-terminal Pro-B-Type Natriuretic Peptide (NT-proBNP) Versus Artificial Intellig_fulltext.md
+
+[33] SEFCA-Net: a semantic–edge–frequency cross-attention network for diabetic retinopathy lesion segmentation
+PMID: 42852419 | PMCID: PMC13649286 | DOI: 10.1117/1.JBO.31.10.106002
+Journal: Journal of Biomedical Optics | Year: 2026 | Full text: yes
+Files: 42852419_SEFCA-Net a semantic–edge–frequency cross-attention network for diabetic retinop_fulltext.xml; 42852419_SEFCA-Net a semantic–edge–frequency cross-attention network for diabetic retinop_fulltext.md
+
+[34] Conservative orthodontic re-treatment management of severely proclined upper anterior teeth with root resorption
+PMID: 42852403 | PMCID: PMC13649200 | DOI: 10.4103/jos.jos_83_26
+Journal: Journal of Orthodontic Science | Year: 2026 | Full text: yes
+Files: 42852403_Conservative orthodontic re-treatment management of severely proclined upper ant_fulltext.xml; 42852403_Conservative orthodontic re-treatment management of severely proclined upper ant_fulltext.md
+
+[35] Single-center experience in combined video-assisted thoracic surgery with transbronchial microwave ablation—a novel approach to multifocal lung nodules
+PMID: 42852387 | PMCID: PMC13649078 | DOI: 10.3389/fsurg.2026.1946668
+Journal: Frontiers in Surgery | Year: 2026 | Full text: yes
+Files: 42852387_Single-center experience in combined video-assisted thoracic surgery with transb_fulltext.xml; 42852387_Single-center experience in combined video-assisted thoracic surgery with transb_fulltext.md
+
+[36] Recommended guidelines concerning artificial intelligence and health equity: a scoping review
+PMID: 42852383 | PMCID: PMC13648153 | DOI: 10.1093/haschl/qxag236
+Journal: Health Affairs Scholar | Year: 2026 | Full text: yes
+Files: 42852383_Recommended guidelines concerning artificial intelligence and health equity a sc_fulltext.xml; 42852383_Recommended guidelines concerning artificial intelligence and health equity a sc_fulltext.md
+
+[37] Clinical Feedback as a Relational and Organisational Process: A Qualitative Study of Students’ Experiences in Operating Room Environment
+PMID: 42852379 | PMCID: PMC13648168 | DOI: 10.2147/AMEP.S647862
+Journal: Advances in Medical Education and Practice | Year: 2026 | Full text: yes
+Files: 42852379_Clinical Feedback as a Relational and Organisational Process A Qualitative Study_fulltext.xml; 42852379_Clinical Feedback as a Relational and Organisational Process A Qualitative Study_fulltext.md
+
+[38] Quantification of reaction time in an Arctic population
+PMID: 42852368 | PMCID: PMC13648249 | DOI: 10.3389/fspor.2026.1845818
+Journal: Frontiers in Sports and Active Living | Year: 2026 | Full text: yes
+Files: 42852368_Quantification of reaction time in an Arctic population_fulltext.xml; 42852368_Quantification of reaction time in an Arctic population_fulltext.md
+
+[39] An Immersive Virtual Reality Simulation Program for Dementia Caregivers: A Technical Report and Pilot User Feedback
+PMID: 42852303 | PMCID: PMC13647962 | DOI: 10.7759/cureus.115934
+Journal: Cureus | Year: 2026 | Full text: yes
+Files: 42852303_An Immersive Virtual Reality Simulation Program for Dementia Caregivers A Techni_fulltext.xml; 42852303_An Immersive Virtual Reality Simulation Program for Dementia Caregivers A Techni_fulltext.md
+
+[40] Pediatric hearing loss in the universal newborn hearing screening era: etiologies, risk indicators, and clinical phenotypes
+PMID: 42852302 | PMCID: PMC13647992 | DOI: 10.3389/fpubh.2026.1836340
+Journal: Frontiers in Public Health | Year: 2026 | Full text: yes
+Files: 42852302_Pediatric hearing loss in the universal newborn hearing screening era etiologies_fulltext.xml; 42852302_Pediatric hearing loss in the universal newborn hearing screening era etiologies_fulltext.md
+
+[41] Hydroxyethylcellulose- and Chitosan-Modified 3D-Printed Carbon Electrodes for Indole-3-Acetic Acid and Salicylic Acid Determination
+PMID: 42852279 | PMCID: PMC13647872 | DOI: 10.1021/acsomega.6c07701
+Journal: ACS Omega | Year: 2026 | Full text: yes
+Files: 42852279_Hydroxyethylcellulose- and Chitosan-Modified 3D-Printed Carbon Electrodes for In_fulltext.xml; 42852279_Hydroxyethylcellulose- and Chitosan-Modified 3D-Printed Carbon Electrodes for In_fulltext.md
+
+[42] Culinary memories, perceived barriers, and motivations for home cooking among younger and older adults in Spain: a qualitative cross-sectional study
+PMID: 42852258 | PMCID: PMC13647459 | DOI: 10.3389/fnut.2026.1938313
+Journal: Frontiers in Nutrition | Year: 2026 | Full text: yes
+Files: 42852258_Culinary memories, perceived barriers, and motivations for home cooking among yo_fulltext.xml; 42852258_Culinary memories, perceived barriers, and motivations for home cooking among yo_fulltext.md
+
+[43] Neurorehabilitation for cognitive and motor recovery: mechanisms, interventions, and translational advances
+PMID: 42852247 | PMCID: PMC13647579 | DOI: 10.3389/fneur.2026.1828447
+Journal: Frontiers in Neurology | Year: 2026 | Full text: yes
+Files: 42852247_Neurorehabilitation for cognitive and motor recovery mechanisms, interventions,_fulltext.xml; 42852247_Neurorehabilitation for cognitive and motor recovery mechanisms, interventions,_fulltext.md
+
+[44] Rapid Electrochemical Impedance Detection of the Mia Antigen on Red Blood Cells
+PMID: 42852234 | PMCID: PMC13647402 | DOI: 10.1021/acsomega.6c07090
+Journal: ACS Omega | Year: 2026 | Full text: yes
+Files: 42852234_Rapid Electrochemical Impedance Detection of the Mia Antigen on Red Blood Cells_fulltext.xml; 42852234_Rapid Electrochemical Impedance Detection of the Mia Antigen on Red Blood Cells_fulltext.md
+
+[45] Effects of generative artificial intelligence on students' learning motivation: evidence from a meta-analysis
+PMID: 42852227 | PMCID: PMC13647323 | DOI: 10.3389/fpsyg.2026.1832451
+Journal: Frontiers in Psychology | Year: 2026 | Full text: yes
+Files: 42852227_Effects of generative artificial intelligence on students' learning motivation e_fulltext.xml; 42852227_Effects of generative artificial intelligence on students' learning motivation e_fulltext.md
+
+[46] Microbial adaptation and biological effects in the spaceflight environment
+PMID: 42852186 | PMCID: PMC13647352 | DOI: 10.1080/21501203.2026.2688594
+Journal: Mycology | Year: 2026 | Full text: yes
+Files: 42852186_Microbial adaptation and biological effects in the spaceflight environment_fulltext.xml; 42852186_Microbial adaptation and biological effects in the spaceflight environment_fulltext.md
+
+[47] Advancing Membrane Technologies for Cancer Therapy and Environmental Health: Biomimetic Innovations, Smart Technologies, and Sustainable Translation
+PMID: 42852184 | PMCID: PMC13647364 | DOI: 10.1021/acsomega.6c00527
+Journal: ACS Omega | Year: 2026 | Full text: yes
+Files: 42852184_Advancing Membrane Technologies for Cancer Therapy and Environmental Health Biom_fulltext.xml; 42852184_Advancing Membrane Technologies for Cancer Therapy and Environmental Health Biom_fulltext.md
+
+[48] AI-enabled fungal biomanufacturing: from genome mining to the artificial intelligence virtual cell
+PMID: 42852178 | PMCID: PMC13647374 | DOI: 10.1080/21501203.2026.2716430
+Journal: Mycology | Year: 2026 | Full text: yes
+Files: 42852178_AI-enabled fungal biomanufacturing from genome mining to the artificial intellig_fulltext.xml; 42852178_AI-enabled fungal biomanufacturing from genome mining to the artificial intellig_fulltext.md
+
+[49] Computational Anesthesiology: A New Frontier at the Intersection of Data Science and Perioperative Medicine
+PMID: 42852158 | PMCID: PMC13647226 | DOI: 10.5812/aapm-175132
+Journal: Anesthesiology and Pain Medicine | Year: 2026 | Full text: yes
+Files: 42852158_Computational Anesthesiology A New Frontier at the Intersection of Data Science_fulltext.xml; 42852158_Computational Anesthesiology A New Frontier at the Intersection of Data Science_fulltext.md
+
+[50] Analgesia Administration in Severely Injured Pediatric Trauma Patients: A Comparison of General and Pediatric Emergency Departments
+PMID: 42852145 | PMCID: PMC13649211 | DOI: 10.4103/jets.jets_173_25
+Journal: Journal of Emergencies, Trauma, and Shock | Year: 2026 | Full text: yes
+Files: 42852145_Analgesia Administration in Severely Injured Pediatric Trauma Patients A Compari_fulltext.xml; 42852145_Analgesia Administration in Severely Injured Pediatric Trauma Patients A Compari_fulltext.md

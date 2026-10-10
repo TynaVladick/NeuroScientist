@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:ns0="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" id="wjo270180" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">World J Otorhinolaryngol Head Neck Surg</journal-id><journal-id journal-id-type="iso-abbrev">World J Otorhinolaryngol Head Neck Surg</journal-id><journal-id journal-id-type="pmc-domain-id">3346</journal-id><journal-id journal-id-type="pmc-domain">wjohns</journal-id><journal-id journal-id-type="nlm-id">101690857</journal-id><journal-id journal-id-type="publisher-id">WJO2</journal-id><journal-title-group><journal-title>World Journal of Otorhinolaryngology - Head and Neck Surgery</journal-title></journal-title-group><issn pub-type="ppub">2095-8811</issn><issn pub-type="epub">2589-1081</issn><publisher><publisher-name>Chinese Medical Association</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13647241</article-id><article-id pub-id-type="pmcid-ver">PMC13647241.1</article-id><article-id pub-id-type="pmcaid">13647241</article-id><article-id pub-id-type="pmcaiid">13647241</article-id><article-id pub-id-type="pmid">42852182</article-id><article-id pub-id-type="doi">10.1002/wjo2.70180</article-id><article-id pub-id-type="publisher-id">WJO270180</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Paper</subject></subj-group></article-categories><title-group><article-title>ChatGPT Versus DeepSeek in Resectability Categorization of Chronic Rhinosinusitis: A Comparison Based on EPOS 2020</article-title></title-group><contrib-group><contrib id="wjo270180-cr-0001" contrib-type="author"><name name-style="western"><surname>Lao</surname><given-names initials="JH">Jia‐Hong</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0003-3063-5891</contrib-id><xref rid="wjo270180-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="wjo270180-cr-0002" contrib-type="author"><name name-style="western"><surname>Huang</surname><given-names initials="SY">Shu‐Yi</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0003-8966-8487</contrib-id><xref rid="wjo270180-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="wjo270180-cr-0003" contrib-type="author"><name name-style="western"><surname>Jian</surname><given-names initials="FT">Fei‐Tong</given-names></name><xref rid="wjo270180-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="wjo270180-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="wjo270180-cr-0004" contrib-type="author"><name name-style="western"><surname>Ge</surname><given-names initials="RR">Rong‐Rong</given-names></name><xref rid="wjo270180-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="wjo270180-cr-0005" contrib-type="author"><name name-style="western"><surname>Jiang</surname><given-names initials="Y">Yu</given-names></name><xref rid="wjo270180-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="wjo270180-cr-0006" contrib-type="author"><name name-style="western"><surname>Huang</surname><given-names initials="XK">Xue‐Kun</given-names></name><xref rid="wjo270180-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="wjo270180-cr-0007" contrib-type="author"><name name-style="western"><surname>Shi</surname><given-names initials="ZH">Zhao‐Hui</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3561-1894</contrib-id><xref rid="wjo270180-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="wjo270180-cr-0008" contrib-type="author"><name name-style="western"><surname>Yang</surname><given-names initials="QT">Qin‐Tai</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0006-2532-2323</contrib-id><xref rid="wjo270180-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="wjo270180-cr-0009" contrib-type="author" corresp="yes"><name name-style="western"><surname>Wu</surname><given-names initials="S">Shuo</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5133-1473</contrib-id><xref rid="wjo270180-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="wjo270180-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>wush68@sysu.edu.cn</email></address></contrib></contrib-group><aff id="wjo270180-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Otolaryngology‐Head and Neck Surgery</named-content>
+<institution>The Third Affiliated Hospital of Sun Yat‐sen University</institution>
+<city>Guangzhou</city>
+<country country="CN">China</country>
+</aff><aff id="wjo270180-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Otorhinolaryngology</named-content>
+<institution>Shenzhen Children's Hospital</institution>
+<city>Shenzhen</city>
+<country country="CN">China</country>
+</aff><aff id="wjo270180-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>School of Biomedical Engineering</institution>
+<institution>Sun Yat‐sen University</institution>
+<city>Shenzhen</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Shuo Wu (<email>wush68@sysu.edu.cn</email>)<break />
+</corresp></author-notes><pub-date pub-type="epub"><day>08</day><month>10</month><year>2026</year></pub-date><issue-id pub-id-type="pmc-issue-id">518311</issue-id><elocation-id>10.1002/wjo2.70180</elocation-id><history><date date-type="rev-recd"><day>27</day><month>6</month><year>2026</year></date><date date-type="received"><day>17</day><month>3</month><year>2026</year></date><date date-type="accepted"><day>28</day><month>7</month><year>2026</year></date></history><pub-history><event event-type="pmc-release"><date><day>08</day><month>10</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>09</day><month>10</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-10-09 12:29:11.820"><day>09</day><month>10</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">World Journal of Otorhinolaryngology ‐ Head and Neck Surgery</italic> published by John Wiley &amp; Sons Ltd on behalf of Chinese Medical Association.</copyright-statement><license><ns0:license_ref specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ns0:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pmc-pdf" xlink:href="WJO2-9999-0.pdf" /><self-uri content-type="pdf" xlink:href="file:WJO2-9999-0.pdf" /><abstract><title>ABSTRACT</title><sec id="wjo270180-sec-0010"><title>Objective</title><p>To evaluate and compare the performance of ChatGPT‐5.5 (2026) and DeepSeek‐V3 (2026) in classifying CRS resectability according to the EPOS 2020 guidelines, employing various prompting strategies.</p></sec><sec id="wjo270180-sec-0020"><title>Methods</title><p>In this retrospective study, 150 chronic rhinosinusitis cases were reviewed, and three rhinology experts classified resectability according to the EPOS 2020 criteria. GPT‐5.5 and DeepSeek‐V3 were evaluated using default‐knowledge, in‐context, and chain‐of‐thought (CoT) prompting based on accuracy, sensitivity, specificity, PPV, NPV, and F1 score. Prespecified subgroup analyses were conducted according to nasal polyp status and surgical eligibility to assess the consistency of prompting‐strategy effects. ENT resident performance was compared with and without AI assistance. Statistical analyses included chi‐square or Fisher's exact, Student's <italic toggle="yes">t</italic> or Mann–Whitney <italic toggle="yes">U</italic>, and ANOVA tests.</p></sec><sec id="wjo270180-sec-0030"><title>Results</title><p>DeepSeek‐V3 achieved higher accuracy than GPT‐5.5 under default‐knowledge (81.3% vs. 72.7%, <italic toggle="yes">p</italic> &lt; 0.05) and in‐context prompting (86.7% vs. 78.0%, <italic toggle="yes">p</italic> &lt; 0.01). Notably, CoT prompting significantly improved both models, yielding comparable peak accuracies (95.3% vs. 96.0%, <italic toggle="yes">p</italic> = 1.00). Subgroup analyses revealed consistent effects across GPT‐5.5 subgroups, whereas DeepSeek‐V3 exhibited heterogeneous response patterns. Furthermore, CoT‐assisted ENT residents demonstrated significantly greater accuracy than unassisted peers (GPT‐5.5: 97.3% vs. 72.8%, <italic toggle="yes">p</italic> &lt; 0.001; DeepSeek‐V3: 98.0% vs. 72.8%, <italic toggle="yes">p</italic> &lt; 0.001), alongside a 43.0% reduction in completion time (95% CI: 41.5%–44.4%; <italic toggle="yes">p</italic> &lt; 0.001).</p></sec><sec id="wjo270180-sec-0040"><title>Conclusions</title><p>ChatGPT‐5.5 and DeepSeek‐V3, when using the CoT prompting strategy, achieved similarly high accuracy in resectability categorization. While AI‐generated reports improved surgeons' accuracy and efficiency, these models should be further validated as support tools before widespread clinical implementation.</p></sec></abstract><abstract abstract-type="highlights"><title>Summary</title><p>Significant findings of the study: With chain‐of‐thought prompting, GPT‐5.5 and DeepSeek‐V3 achieved accuracies of 96.0% and 95.3%, respectively. Chain‐of‐thought AI assistance also improved ENT residents' accuracy and reduced completion time by 43.0% compared with no AI assistance.</p><p>What this study adds: This study demonstrates that chain‐of‐thought prompting significantly improves the performance of ChatGPT‐5.5 and DeepSeek‐V3 in CRS resectability classification, enhancing both accuracy and efficiency in clinical decision‐making.</p></abstract><kwd-group><kwd id="wjo270180-kwd-0001">artificial intelligence</kwd><kwd id="wjo270180-kwd-0002">ChatGPT</kwd><kwd id="wjo270180-kwd-0003">chronic rhinosinusitis</kwd><kwd id="wjo270180-kwd-0004">DeepSeek</kwd><kwd id="wjo270180-kwd-0005">large language models</kwd></kwd-group><counts><fig-count count="5" /><table-count count="4" /><page-count count="11" /><word-count count="7028" /></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>edited-state</meta-name><meta-value>corrected-proof</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.8.8 mode:remove_FC converted:08.10.2026</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="wjo270180-cit-0042">
+<string-name name-style="western">
+<given-names>J.‐H.</given-names>
+<surname>Lao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.‐Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.‐T.</given-names>
+<surname>Jian</surname>
+</string-name>, et al., “<article-title>ChatGPT Versus DeepSeek in Resectability Categorization of Chronic Rhinosinusitis: A Comparison Based on EPOS 2020</article-title>,” <source>World Journal of Otorhinolaryngology ‐ Head and Neck Surgery</source>
+<volume>0</volume> (<year>2026</year>): <fpage>1</fpage>‐<lpage>11</lpage>. <pub-id pub-id-type="doi">10.1002/wjo2.70180</pub-id>.</mixed-citation>
+</p><fn-group><fn id="wjo270180-note-0001"><p>Jia‐Hong Lao and Shu‐Yi Huang contributed equally to the completion of this article.</p></fn></fn-group></notes></front><body><sec id="wjo270180-sec-0050"><label>1</label><title>Introduction</title><p>Chronic rhinosinusitis (CRS) is among the most prevalent chronic nasal diseases in otorhinolaryngology, with surgical resection being one of the established treatment modalities [<xref rid="wjo270180-bib-0001" ref-type="bibr">1</xref>, <xref rid="wjo270180-bib-0002" ref-type="bibr">2</xref>, <xref rid="wjo270180-bib-0003" ref-type="bibr">3</xref>]. For CRS, the European Position Paper on Rhinosinusitis and Nasal Polyps 2020 (EPOS 2020) plays a pivotal role in determining eligibility for functional endoscopic sinus surgery (FESS) versus conservative management. However, the high threshold of specialized knowledge and the costly period of training required make it challenging for physicians to rapidly and accurately assess surgical indications in patients with rhinosinusitis in real‐world clinical settings [<xref rid="wjo270180-bib-0004" ref-type="bibr">4</xref>, <xref rid="wjo270180-bib-0005" ref-type="bibr">5</xref>]. Determining CRS resectability in accordance with the EPOS 2020 is inherently complex, and substantial variability persists among clinicians in applying these criteria in routine practice.</p><p>Amid these clinical challenges, the continuous advancement of artificial intelligence (AI) has emerged as a promising means of navigating the growing complexity of medical knowledge and improving healthcare delivery. Large language models (LLMs), a key branch of AI with strong natural language processing capabilities [<xref rid="wjo270180-bib-0006" ref-type="bibr">6</xref>, <xref rid="wjo270180-bib-0007" ref-type="bibr">7</xref>], are rapidly transforming medicine by enabling medical question answering, clinical consultations, decision‐making, and the extraction of relevant information from unstructured electronic health records to support diagnosis and treatment [<xref rid="wjo270180-bib-0008" ref-type="bibr">8</xref>, <xref rid="wjo270180-bib-0009" ref-type="bibr">9</xref>]. Integrating these tools into clinical practice has the potential to alleviate logistical barriers, shorten consultation times, and facilitate more focused, patient‐centered decision‐making [<xref rid="wjo270180-bib-0010" ref-type="bibr">10</xref>, <xref rid="wjo270180-bib-0011" ref-type="bibr">11</xref>, <xref rid="wjo270180-bib-0012" ref-type="bibr">12</xref>].</p><p>Among these, ChatGPT, a proprietary and widely adopted LLM, has demonstrated strengths in licensing examinations [<xref rid="wjo270180-bib-0013" ref-type="bibr">13</xref>, <xref rid="wjo270180-bib-0014" ref-type="bibr">14</xref>, <xref rid="wjo270180-bib-0015" ref-type="bibr">15</xref>], interpretation of clinical guidelines [<xref rid="wjo270180-bib-0016" ref-type="bibr">16</xref>, <xref rid="wjo270180-bib-0017" ref-type="bibr">17</xref>, <xref rid="wjo270180-bib-0018" ref-type="bibr">18</xref>], and decision support tasks in healthcare [<xref rid="wjo270180-bib-0019" ref-type="bibr">19</xref>, <xref rid="wjo270180-bib-0020" ref-type="bibr">20</xref>, <xref rid="wjo270180-bib-0021" ref-type="bibr">21</xref>]. However, proprietary models such as ChatGPT‐4.5 face substantial barriers to clinical adoption, as their inability to be deployed on‐site within healthcare institutions renders them noncompliant with stringent privacy regulations [<xref rid="wjo270180-bib-0006" ref-type="bibr">6</xref>]. Recently, DeepSeek‐V3.2, a recently developed “reasoning model,” addresses complex tasks by simulating human logical reasoning, systematically evaluating multiple possible solutions, and selecting the most appropriate—similar to the approach clinicians use when managing complex cases [<xref rid="wjo270180-bib-0022" ref-type="bibr">22</xref>]. Notably, the DeepSeek open‐source LLMs provide enhanced transparency and can be deployed within institutional IT infrastructures, facilitating the secure and efficient use of local clinical data to support decision‐making in clinical settings [<xref rid="wjo270180-bib-0022" ref-type="bibr">22</xref>]. However, the integration of LLMs into clinical practice is not without challenges, necessitating careful validation and whether they provide benefits in clinical workflows. While individual LLMs, including ChatGPT and DeepSeek, have demonstrated promising potential in various clinical applications in theory [<xref rid="wjo270180-bib-0023" ref-type="bibr">23</xref>, <xref rid="wjo270180-bib-0024" ref-type="bibr">24</xref>, <xref rid="wjo270180-bib-0025" ref-type="bibr">25</xref>, <xref rid="wjo270180-bib-0026" ref-type="bibr">26</xref>], their performance in generating treatment recommendations under real‐world clinical conditions remains largely unverified. Moreover, weaknesses in multistep reasoning continue to hinder the accuracy and clinical utility of LLMs in performing advanced tasks. While chain‐of‐thought prompting has been validated for enhancing multistep reasoning in medical assessments [<xref rid="wjo270180-bib-0027" ref-type="bibr">27</xref>, <xref rid="wjo270180-bib-0028" ref-type="bibr">28</xref>, <xref rid="wjo270180-bib-0029" ref-type="bibr">29</xref>], its effectiveness in advanced otorhinolaryngologic applications has yet to be established.</p><p>This study sought to assess and compare the performance of ChatGPT‐5.5 (2026) and DeepSeek‐V3 (2026) in categorizing CRS resectability in accordance with the EPOS 2020, using multiple prompting strategies. To the best of our knowledge, although the therapeutic capabilities of ChatGPT in CRS have been previously explored, this investigation is the first to directly compare ChatGPT‐5.5 and DeepSeek‐V3 in making treatment decisions for real‐world rhinosinusitis cases based on EPOS 2020.</p></sec><sec sec-type="methods" id="wjo270180-sec-0060"><label>2</label><title>Methods</title><p>This retrospective study was approved by the Medical Ethics Committee of the Third Affiliated Hospital of Sun Yat‐sen University (approval no. PJ‐II2025‐371‐01), as it utilized non‐identifiable patient data.</p><sec id="wjo270180-sec-0070"><label>2.1</label><title>Selection Criteria and Data Collection</title><p>This study included all patients admitted to the Department of Otorhinolaryngology–Head and Neck Surgery at the Third Affiliated Hospital of Sun Yat‐sen University between January 1, 2025, and May 1, 2026, who were diagnosed with CRS according to the EPOS 2020 guidelines. Exclusion criteria were as follows: (1) incomplete disease treatment history; (2) missing Lund–Mackay CT scores; (3) absence of SNOT‐22 scores and CT images following conservative treatment; (4) a history of previous sinus surgery; and (5) presence of fungal rhinosinusitis, cystic fibrosis, inverted papilloma, or other nasal diseases. All original medical records were reviewed, and personal health information and potentially identifiable data were manually removed from each record. Patients who did not meet the inclusion criteria were excluded (Figure <xref rid="wjo270180-fig-0001" ref-type="fig">1</xref>).</p><fig position="float" fig-type="Figure" id="wjo270180-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Study flowchart. Each CRS patient's resectability was determined in accordance with the EPOS 2020 criteria and classified as either resectable or suitable for conservative management. CRS, chronic rhinosinusitis; EPOS 2020, European Position Paper on Rhinosinusitis and Nasal Polyps 2020; SNOT‐22, sino‐nasal outcome test 22.</p></caption><graphic position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="WJO2-9999-0-g005.webp" /></fig><p>Using predefined standardized tables, two of us (J.‐H.L. and R.‐R.G.) independently extracted the following information from the medical records and imaging data of each patient included in the analysis: age, gender, diagnosis, presence of nasal polyps, symptoms, treatment history, SNOT‐22 score, LM score, the ostiomeatal complex score and olfactory scores after conservative treatment, and the presence of significant comorbidities. The collected information was then compiled into reconstructed medical records. The reconstructed medical records underwent thorough examination to ensure accurate data extraction and identify any inaccuracies or omissions. Disagreements were resolved by consensus, with a panel (S.‐Y.H., Y.J., and S.W.) adjudicating disputes.</p></sec><sec id="wjo270180-sec-0080"><label>2.2</label><title>Resectability Categorization</title><p>Resectability for each CRS patient was classified according to the EPOS 2020 guidelines as either resectable or suitable for conservative management. Each case was independently assessed by two senior rhinologists (S.W. and Z.‐H.S., with 18 and 19 years of experience, respectively), who were blinded to each other's assessments. Inter‐reader reliability was evaluated using Cohen's <italic toggle="yes">κ</italic> and percentage agreement. Disagreements were resolved through consensus discussion or, when necessary, adjudication by a third senior rhinologist (Q.‐T.Y., with 15 years of experience).</p></sec><sec id="wjo270180-sec-0090"><label>2.3</label><title>Resectability Categorization With LLMs</title><p>The restructured medical records were submitted to ChatGPT‐5.5 (2026) and DeepSeek‐V3 (2026), accessed between May 19 and June 19, 2026. To maintain the independence of each query, they were entered individually as distinct prompts through the “New Chat” feature.</p><p>To categorize CRS resectability, three different prompting strategies were used (Appendix <xref rid="wjo270180-suppl-0001" ref-type="supplementary-material">S1</xref>). The first strategy (“default knowledge”) involved simply prompting the model to categorize each CRS using EPOS 2020 criteria as resectable or conservative management, relying on the model's pretraining knowledge of criteria. The second strategy (“in‐context knowledge”) explicitly provided the model with EPOS 2020 criteria in the prompt, allowing it to reference the criteria while categorizing CRS. The third strategy (“chain‐of‐thought”) involved breaking down EPOS 2020 criteria more explicitly into manageable pieces, allowing the model to gradually apply the standards and ultimately determine the CRS classification. It prompts the LLM first categorizes the CRS type based on the presence (CRSwNP) or absence (CRSsNP) of nasal polyps. If the LM score is ≥ 1, the LLM evaluates the treatment history: at least 8 weeks of intranasal corticosteroids with a short course of systemic corticosteroids (CRSwNP), or a short course of broad‐spectrum/systemic antibiotics or prolonged low‐dose anti‐inflammatory antibiotics (CRSsNP). If the post‐treatment total SNOT‐22 score is ≥ 20 and either the ostiomeatal complex score or the olfactory score is ≥ 2, ESS may be appropriately considered. All three strategies were applied to each model (ChatGPT‐5.5 and DeepSeek‐V3). Thus, there was a total of six resectability models. The performance of each model in resectability categorization was evaluated by comparing its predictions with the reference standard, using accuracy, sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), and F1 score. Additionally, to assess the consistency of prompting‐strategy effects, subgroup analyses were performed according to nasal polyp status and surgical eligibility.</p><p>The otolaryngology (ENT) surgeons (S.W., Q.‐T.Y., and Z.‐H.S.) were consulted to establish an acceptable accuracy threshold for the AI‐based preliminary resectability tool in clinical practice. The ENT surgeons were informed that the CRS categorization derived from report text would be considered preliminary and should not be used as the sole basis for treatment decisions. They further indicated that, for the tool to be deemed valuable for initial clinical assessment, its accuracy must exceed 90% on average.</p><p>To assess the output stability of GPT‐5.5 and DeepSeek‐V3, we compared the responses generated at baseline and 1 month later. The output consistency was evaluated by calculating Cohen's Kappa (<italic toggle="yes">κ</italic>) and its 95% confidence intervals [<xref rid="wjo270180-bib-0030" ref-type="bibr">30</xref>]. Interpretation of the <italic toggle="yes">κ</italic> coefficient was as follows: 0, less than chance agreement; 0.01–0.20, slight agreement; 0.21–0.40, fair agreement; 0.41–0.60, moderate agreement; 0.61–0.80, substantial agreement; and 0.81–0.99, almost perfect agreement.</p></sec><sec id="wjo270180-sec-0100"><label>2.4</label><title>ENT Residents Evaluation</title><p>A total of nine licensed ENT residents participated in the study. Six residents independently classified all 150 reconstructed cases with AI assistance. For each case, they received the reconstructed medical record together with an AI‐generated description of the decision‐making process from one of the six model‐prompting combinations. These combinations were assigned using a computer‐generated randomization algorithm, with an approximately balanced distribution for each resident to minimize sequence and allocation bias. The remaining three residents independently classified all 150 cases using only the reconstructed medical records, without AI assistance.</p><p>During the review process, the residents were blinded to any <xref rid="wjo270180-suppl-0001" ref-type="supplementary-material">supplementary information</xref>, and throughout the evaluation, they were unaware of the evaluations made by other residents. To minimize learning effects, each resident independently evaluated the cases without exposure to the results of previous cases. The evaluation process was also designed to prevent recall bias.</p><p>Additionally, the time required to review each medical record and submit a response was recorded. After each classification, residents receiving AI assistance rated their overall satisfaction with the AI‐generated content using a single‐item 5‐point Likert rating (1 = very dissatisfied; 5 = very satisfied), allowing preferences to be compared across AI models and prompting strategies.</p></sec><sec id="wjo270180-sec-0110"><label>2.5</label><title>Statistical Analysis</title><p>Continuous variables were reported as the mean ± standard deviation, whereas categorical variables were summarized as percentages. Comparisons between categorical variables were conducted using either the chi‐square test or Fisher's exact test, while differences in continuous variables were evaluated using the Student's <italic toggle="yes">t</italic>‐test or the Mann–Whitney <italic toggle="yes">U</italic> test, as appropriate. For multiple comparisons across different prompting strategies, Bonferroni correction [<xref rid="wjo270180-bib-0031" ref-type="bibr">31</xref>] was applied, with statistical significance defined as <italic toggle="yes">p</italic> &lt; 0.025; otherwise, a threshold of <italic toggle="yes">p</italic> &lt; 0.05 was adopted. We also conducted ANOVA analyses to examine residents' attitudes toward AI‐generated responses produced by different models. All statistical analyses were performed using R software (version 4.5.2; R Project for Statistical Computing).</p></sec></sec><sec sec-type="results" id="wjo270180-sec-0120"><label>3</label><title>Results</title><p>All 150 patients meeting the inclusion criteria were included in the final analysis (Figure <xref rid="wjo270180-fig-0001" ref-type="fig">1</xref>). Among these cases, 43.3% (65/150) were classified as resectable and 56.7% (85/150) as requiring conservative management, according to the EPOS2020 guidelines. Expert assessment showed excellent inter‐rater agreement for treatment decision classification, with concordance in 147 of 150 cases (98.0%) and a Cohen's <italic toggle="yes">κ</italic> of 0.96. Summaries of the clinical cases are provided in Tables <xref rid="wjo270180-suppl-0001" ref-type="supplementary-material">S1</xref> and <xref rid="wjo270180-suppl-0001" ref-type="supplementary-material">S2</xref>, while Figure <xref rid="wjo270180-fig-0002" ref-type="fig">2</xref> illustrates two representative examples highlighting the AI‐generated decision‐making process and corresponding resectability classifications. The performance of the models in categorizing CRS resectability is summarized in Tables <xref rid="wjo270180-tbl-0001" ref-type="table">1</xref> and <xref rid="wjo270180-tbl-0002" ref-type="table">2</xref> and illustrated in Figure <xref rid="wjo270180-fig-0003" ref-type="fig">3</xref>.</p><fig position="float" fig-type="Figure" id="wjo270180-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Two illustrative CRS cases analyzed using restructured medical records and chain‐of‐thought prompting applied to ChatGPT‐5.5 (2026) and DeepSeek‐V3 (2026). The first case (top row) was correctly identified as resectable, and the second (bottom row) as unresectable. This approach deconstructs the EPOS 2020 criteria into individual features and applies a stepwise process to determine CRS resectability. CRS, chronic rhinosinusitis; EPOS 2020, European Position Paper on Rhinosinusitis and Nasal Polyps 2020; LLMs, large language models.</p></caption><graphic position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="WJO2-9999-0-g004.webp" /></fig><table-wrap position="float" id="wjo270180-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Accuracy of models in categorizing CRS resectability according to the EPOS 2020 guidelines.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><thead valign="bottom"><tr valign="bottom"><th rowspan="2" align="left" valign="bottom" colspan="1">Items</th><th colspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Accuracy (%)</th><th align="center" valign="bottom" rowspan="1" colspan="1" /><th colspan="2" style="border-bottom:solid 1px #000000" align="center" valign="bottom" rowspan="1">Specificity (%)</th><th align="center" valign="bottom" rowspan="1" colspan="1" /><th colspan="2" style="border-bottom:solid 1px #000000" align="center" valign="bottom" rowspan="1">Sensitivity (%)</th><th align="center" valign="bottom" rowspan="1" colspan="1" /><th colspan="2" style="border-bottom:solid 1px #000000" align="center" valign="bottom" rowspan="1">PPV</th><th align="center" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">NPV</th><th align="center" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">F1 score</th></tr><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">GPT</th><th align="center" valign="bottom" rowspan="1" colspan="1">DeepSeek</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">GPT</th><th align="center" valign="bottom" rowspan="1" colspan="1">DeepSeek</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">GPT</th><th align="center" valign="bottom" rowspan="1" colspan="1">DeepSeek</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">GPT</th><th align="center" valign="bottom" rowspan="1" colspan="1">DeepSeek</th><th align="center" valign="bottom" rowspan="1" colspan="1">GPT</th><th align="center" valign="bottom" rowspan="1" colspan="1">DeepSeek</th><th align="center" valign="bottom" rowspan="1" colspan="1">GPT</th><th align="center" valign="bottom" rowspan="1" colspan="1">DeepSeek</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Default knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">72.7%</td><td align="center" valign="top" rowspan="1" colspan="1">81.3%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl1-note-0002" ref-type="table-fn">*</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">76.5%</td><td align="center" valign="top" rowspan="1" colspan="1">75.3%</td><td align="center" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">67.7%</td><td align="center" valign="top" rowspan="1" colspan="1">89.2%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl1-note-0002" ref-type="table-fn">*</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">68.8%</td><td align="center" valign="top" rowspan="1" colspan="1">73.4%</td><td align="center" valign="top" rowspan="1" colspan="1">75.6%</td><td align="center" valign="top" rowspan="1" colspan="1">90.1%</td><td align="center" valign="top" rowspan="1" colspan="1">0.68</td><td align="center" valign="top" rowspan="1" colspan="1">0.81</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">In‐context knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">78.0%</td><td align="center" valign="top" rowspan="1" colspan="1">86.7%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl1-note-0002" ref-type="table-fn">*</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">89.4%</td><td align="center" valign="top" rowspan="1" colspan="1">95.3%</td><td align="center" valign="top" rowspan="1" colspan="1">0.125</td><td align="center" valign="top" rowspan="1" colspan="1">63.1%</td><td align="center" valign="top" rowspan="1" colspan="1">75.4%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl1-note-0002" ref-type="table-fn">*</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">82.0%</td><td align="center" valign="top" rowspan="1" colspan="1">92.5%</td><td align="center" valign="top" rowspan="1" colspan="1">76.0%</td><td align="center" valign="top" rowspan="1" colspan="1">83.5%</td><td align="center" valign="top" rowspan="1" colspan="1">0.71</td><td align="center" valign="top" rowspan="1" colspan="1">0.83</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Chain‐of‐thought</td><td align="center" valign="top" rowspan="1" colspan="1">96.0%</td><td align="center" valign="top" rowspan="1" colspan="1">95.3%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td><td align="center" valign="top" rowspan="1" colspan="1">100.0%</td><td align="center" valign="top" rowspan="1" colspan="1">100.0%</td><td align="center" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">90.8%</td><td align="center" valign="top" rowspan="1" colspan="1">89.2%</td><td align="center" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">100.0%</td><td align="center" valign="top" rowspan="1" colspan="1">100.0%</td><td align="center" valign="top" rowspan="1" colspan="1">93.4%</td><td align="center" valign="top" rowspan="1" colspan="1">92.4%</td><td align="center" valign="top" rowspan="1" colspan="1">0.95</td><td align="center" valign="top" rowspan="1" colspan="1">0.94</td></tr></tbody></table><table-wrap-foot><fn id="wjo270180-tbl1-note-0001"><p>Abbreviations: CRS, chronic rhinosinusitis; EPOS 2020, European Position Paper on Rhinosinusitis and Nasal Polyps 2020; NPV, negative predictive value; ns, no significance; PPV, positive predictive value.</p></fn><fn id="wjo270180-tbl1-note-0002"><label>*</label><p>Statistical significance was defined as <italic toggle="yes">p</italic> &lt; 0.025 after Bonferroni correction.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><table-wrap position="float" id="wjo270180-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Subgroup analysis of GPT‐5.5 and DeepSeek‐V3 accuracy in categorizing CRS resectability.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><thead valign="bottom"><tr valign="bottom"><th rowspan="2" align="left" valign="bottom" colspan="1">Items</th><th rowspan="2" align="center" valign="bottom" colspan="1">Subgroup</th><th rowspan="2" align="center" valign="bottom" colspan="1">
+<italic toggle="yes">N</italic>
+</th><th colspan="2" style="border-bottom:solid 1px #000000" align="center" valign="bottom" rowspan="1">Accuracy (%)</th><th align="center" valign="bottom" rowspan="1" colspan="1" /></tr><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">GPT‐5.5</th><th align="center" valign="bottom" rowspan="1" colspan="1">DeepSeek‐V3</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th></tr></thead><tbody valign="top"><tr><td valign="middle" rowspan="4" align="left" colspan="1">Default knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">CRSsNP</td><td align="center" valign="top" rowspan="1" colspan="1">77</td><td align="center" valign="top" rowspan="1" colspan="1">64.9%</td><td align="center" valign="top" rowspan="1" colspan="1">79.2%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl2-note-0002" ref-type="table-fn">*</xref>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">CRSwNP</td><td align="center" valign="top" rowspan="1" colspan="1">73</td><td align="center" valign="top" rowspan="1" colspan="1">80.8%</td><td align="center" valign="top" rowspan="1" colspan="1">83.6%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Conservative management</td><td align="center" valign="top" rowspan="1" colspan="1">85</td><td align="center" valign="top" rowspan="1" colspan="1">76.5%</td><td align="center" valign="top" rowspan="1" colspan="1">75.3%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Resectable</td><td align="center" valign="top" rowspan="1" colspan="1">65</td><td align="center" valign="top" rowspan="1" colspan="1">67.7%</td><td align="center" valign="top" rowspan="1" colspan="1">89.2%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl2-note-0002" ref-type="table-fn">*</xref>
+</td></tr><tr><td valign="middle" rowspan="4" align="left" colspan="1">In‐context knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">CRSsNP</td><td align="center" valign="top" rowspan="1" colspan="1">77</td><td align="center" valign="top" rowspan="1" colspan="1">72.7%</td><td align="center" valign="top" rowspan="1" colspan="1">80.5%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">CRSwNP</td><td align="center" valign="top" rowspan="1" colspan="1">73</td><td align="center" valign="top" rowspan="1" colspan="1">83.6%</td><td align="center" valign="top" rowspan="1" colspan="1">93.2%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl2-note-0002" ref-type="table-fn">*</xref>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Conservative management</td><td align="center" valign="top" rowspan="1" colspan="1">85</td><td align="center" valign="top" rowspan="1" colspan="1">89.4%</td><td align="center" valign="top" rowspan="1" colspan="1">95.3%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Resectable</td><td align="center" valign="top" rowspan="1" colspan="1">65</td><td align="center" valign="top" rowspan="1" colspan="1">63.1%</td><td align="center" valign="top" rowspan="1" colspan="1">75.4%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl2-note-0002" ref-type="table-fn">*</xref>
+</td></tr><tr><td valign="middle" rowspan="4" align="left" colspan="1">Chain‐of‐thought</td><td align="center" valign="top" rowspan="1" colspan="1">CRSsNP</td><td align="center" valign="top" rowspan="1" colspan="1">77</td><td align="center" valign="top" rowspan="1" colspan="1">92.2%</td><td align="center" valign="top" rowspan="1" colspan="1">90.9%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">CRSwNP</td><td align="center" valign="top" rowspan="1" colspan="1">73</td><td align="center" valign="top" rowspan="1" colspan="1">100.0%</td><td align="center" valign="top" rowspan="1" colspan="1">100.0%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Conservative management</td><td align="center" valign="top" rowspan="1" colspan="1">85</td><td align="center" valign="top" rowspan="1" colspan="1">100.0%</td><td align="center" valign="top" rowspan="1" colspan="1">100.0%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Resectable</td><td align="center" valign="top" rowspan="1" colspan="1">65</td><td align="center" valign="top" rowspan="1" colspan="1">90.8%</td><td align="center" valign="top" rowspan="1" colspan="1">89.2%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td></tr></tbody></table><table-wrap-foot><fn id="wjo270180-tbl2-note-0001"><p>Abbreviations: CRS, chronic rhinosinusitis; CRSsNP, chronic rhinosinusitis without nasal polyps; CRSwNP, chronic rhinosinusitis with nasal polyps; ns, no significance.</p></fn><fn id="wjo270180-tbl2-note-0002"><label>*</label><p>Statistical significance was defined as <italic toggle="yes">p</italic> &lt; 0.05 after Bonferroni correction.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><fig position="float" fig-type="Figure" id="wjo270180-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>Bar graphs illustrating the performance of models in categorizing CRS resectability according to EPOS 2020 criteria. CRS, chronic rhinosinusitis; EPOS 2020, European Position Paper on Rhinosinusitis and Nasal Polyps 2020; NPV, negative predictive value; PPV, positive predictive value.</p></caption><graphic position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="WJO2-9999-0-g003.webp" /></fig><sec id="wjo270180-sec-0130"><label>3.1</label><title>GPT vs. DeepSeek Performance</title><p>The classification accuracy was higher for DeepSeek‐V3 than for ChatGPT‐5.5 under the default‐knowledge prompting strategy (81.3% vs. 72.7%, <italic toggle="yes">p</italic> = 0.03; Table <xref rid="wjo270180-tbl-0001" ref-type="table">1</xref> and Figure <xref rid="wjo270180-fig-0003" ref-type="fig">3</xref>). Among the 21 cases misclassified by ChatGPT‐5.5 but correctly classified by DeepSeek‐V3, 16 occurred in patients without nasal polyps and five in patients with nasal polyps. Fifteen were surgical cases, and six were nonsurgical cases. Conversely, among the eight cases correctly classified by ChatGPT‐5.5 but misclassified by DeepSeek‐V3, five occurred in patients without nasal polyps and 3 in patients with nasal polyps. One was a surgical case, and seven were nonsurgical cases. This distribution suggests that the performance advantage of DeepSeek‐V3 over ChatGPT‐5.5 was primarily concentrated among patients without nasal polyps and those requiring surgery. Further subgroup analysis showed that DeepSeek‐V3 achieved significantly higher classification accuracy than ChatGPT‐5.5 among patients without nasal polyps (79.2% vs. 64.9%, <italic toggle="yes">p</italic> = 0.03; Table <xref rid="wjo270180-tbl-0002" ref-type="table">2</xref>). In the surgical subgroup, DeepSeek‐V3 also demonstrated significantly higher classification accuracy, corresponding to higher sensitivity, than ChatGPT‐5.5 (89.2% vs. 67.7%, <italic toggle="yes">p</italic> &lt; 0.001; Table <xref rid="wjo270180-tbl-0002" ref-type="table">2</xref>). Details of overlapping and non‐overlapping misclassified cases are presented in Table <xref rid="wjo270180-suppl-0001" ref-type="supplementary-material">S3</xref>.</p><p>Under the in‐context knowledge prompting strategy, although the classification accuracy of ChatGPT‐5.5 improved compared with the default‐knowledge prompting strategy, DeepSeek‐V3 still achieved significantly higher overall accuracy than ChatGPT‐5.5 (86.7% vs. 78.0%, <italic toggle="yes">p</italic> &lt; 0.01; Table <xref rid="wjo270180-tbl-0001" ref-type="table">1</xref>). Further subgroup analysis showed that the classification performance of the two models was comparable among patients without nasal polyps (DeepSeek‐V3: 80.5% vs. ChatGPT‐5.5: 72.7%, <italic toggle="yes">p</italic> = 0.11; Table <xref rid="wjo270180-tbl-0002" ref-type="table">2</xref>). However, among patients with nasal polyps, DeepSeek‐V3 demonstrated significantly higher classification accuracy than ChatGPT‐5.5 (93.2% vs. 83.6%, <italic toggle="yes">p</italic> = 0.04). DeepSeek‐V3 also maintained superior performance in the surgical subgroup, correctly classifying 49 of 65 surgical cases compared with 41 of 65 by ChatGPT‐5.5, corresponding to significantly higher sensitivity (75.4% vs. 63.1%, <italic toggle="yes">p</italic> = 0.04). Interestingly, under the chain‐of‐thought prompting strategy, both models achieved high and comparable classification accuracy (ChatGPT‐5.5: 96.0% vs. DeepSeek‐V3: 95.3%, <italic toggle="yes">p</italic> = 1.000; Table <xref rid="wjo270180-tbl-0001" ref-type="table">1</xref> and Figure <xref rid="wjo270180-fig-0003" ref-type="fig">3</xref>). Sensitivity was also similar between ChatGPT‐5.5 and DeepSeek‐V3, while both models achieved identical specificity. No significant differences were observed in nasal polyp subgroup analyses, either among patients without nasal polyps or among those with nasal polyps (Table <xref rid="wjo270180-tbl-0002" ref-type="table">2</xref>). These findings suggest that chain‐of‐thought prompting substantially reduced classification errors and minimized inter‐model performance differences.</p><p>Overall, the performance difference between ChatGPT‐5.5 and DeepSeek‐V3 varied across prompting strategies, with DeepSeek‐V3 showing an advantage under the default‐knowledge and in‐context knowledge strategies, whereas both models performed comparably under the chain‐of‐thought strategy.</p></sec><sec id="wjo270180-sec-0140"><label>3.2</label><title>Effect of Prompting Strategies</title><p>For GPT‐5.5, the chain‐of‐thought strategy achieved significantly higher accuracy than the default‐knowledge strategy (96.0% vs. 72.7%, <italic toggle="yes">p</italic> &lt; 0.001; Table <xref rid="wjo270180-tbl-0003" ref-type="table">3</xref> and Figure <xref rid="wjo270180-fig-0003" ref-type="fig">3</xref>), whereas no significant difference was observed between the default‐knowledge and in‐context‐knowledge strategies (72.7% vs. 78.0%, <italic toggle="yes">p</italic> = 0.22; Table <xref rid="wjo270180-tbl-0003" ref-type="table">3</xref> and Figure <xref rid="wjo270180-fig-0003" ref-type="fig">3</xref>). With chain‐of‐thought prompting, GPT‐5.5 achieved an overall accuracy of 96.0% (144/150) and an F1 score of 0.95. To explore whether the effects of prompting strategies were consistent across nasal polyp status and surgical eligibility, separate subgroup analyses were performed (Table <xref rid="wjo270180-tbl-0004" ref-type="table">4</xref>). Regarding nasal polyp status, chain‐of‐thought prompting achieved significantly higher accuracy than default‐knowledge prompting in both the CRSsNP subgroup (92.2% vs. 64.9%, <italic toggle="yes">p</italic> &lt; 0.001) and the CRSwNP subgroup (100.0% vs. 80.8%, <italic toggle="yes">p</italic> &lt; 0.001), whereas in‐context prompting did not significantly differ from default‐knowledge prompting in either subgroup (72.7% vs. 64.9%, <italic toggle="yes">p</italic> = 0.21; 83.6% vs. 80.8%, <italic toggle="yes">p</italic> = 0.80, respectively). Regarding surgical eligibility, chain‐of‐thought prompting also achieved significantly higher accuracy than default‐knowledge prompting in both the conservative‐management subgroup (100.0% vs. 76.5%, <italic toggle="yes">p</italic> &lt; 0.001) and the surgery‐eligible subgroup (90.8% vs. 67.7%, <italic toggle="yes">p</italic> &lt; 0.001). Overall, the pattern of prompting‐strategy effects on GPT‐5.5 accuracy was consistent across the examined subgroups.</p><table-wrap position="float" id="wjo270180-tbl-0003" content-type="Table" orientation="portrait"><label>Table 3</label><caption><p>Accuracy of different strategies in categorizing CRS resectability according to the EPOS 2020 guidelines.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Items</th><th align="center" valign="bottom" rowspan="1" colspan="1">Prompting strategies</th><th align="center" valign="bottom" rowspan="1" colspan="1">GPT‐5.5</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> value</th><th align="center" valign="bottom" rowspan="1" colspan="1">DeepSeek‐V3</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> value</th></tr></thead><tbody valign="top"><tr><td valign="middle" rowspan="3" align="left" colspan="1">Accuracy (%)</td><td align="center" valign="top" rowspan="1" colspan="1">Default knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">72.7%</td><td align="center" valign="top" rowspan="1" colspan="1">Reference</td><td align="center" valign="top" rowspan="1" colspan="1">81.3%</td><td align="center" valign="top" rowspan="1" colspan="1">Reference</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">In‐context knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">78.0%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td><td align="center" valign="top" rowspan="1" colspan="1">86.7%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Chain‐of‐thought</td><td align="center" valign="top" rowspan="1" colspan="1">96.0%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl3-note-0002" ref-type="table-fn">*</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">95.3%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl3-note-0002" ref-type="table-fn">*</xref>
+</td></tr><tr><td valign="middle" rowspan="3" align="left" colspan="1">Specificity (%)</td><td align="center" valign="top" rowspan="1" colspan="1">Default knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">76.5%</td><td align="center" valign="top" rowspan="1" colspan="1">Reference</td><td align="center" valign="top" rowspan="1" colspan="1">75.3%</td><td align="center" valign="top" rowspan="1" colspan="1">Reference</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">In‐context knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">89.4%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td><td align="center" valign="top" rowspan="1" colspan="1">95.3%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl3-note-0002" ref-type="table-fn">*</xref>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Chain‐of‐thought</td><td align="center" valign="top" rowspan="1" colspan="1">100.0%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl3-note-0002" ref-type="table-fn">*</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">100.0%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl3-note-0002" ref-type="table-fn">*</xref>
+</td></tr><tr><td valign="middle" rowspan="3" align="left" colspan="1">Sensitivity (%)</td><td align="center" valign="top" rowspan="1" colspan="1">Default knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">67.7%</td><td align="center" valign="top" rowspan="1" colspan="1">Reference</td><td align="center" valign="top" rowspan="1" colspan="1">89.2%</td><td align="center" valign="top" rowspan="1" colspan="1">Reference</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">In‐context knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">63.1%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td><td align="center" valign="top" rowspan="1" colspan="1">75.4%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl3-note-0002" ref-type="table-fn">*</xref>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Chain‐of‐thought</td><td align="center" valign="top" rowspan="1" colspan="1">90.8%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl3-note-0002" ref-type="table-fn">*</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">89.2%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td></tr><tr><td valign="middle" rowspan="3" align="left" colspan="1">PPV (%)</td><td align="center" valign="top" rowspan="1" colspan="1">Default knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">68.8%</td><td align="center" valign="top" rowspan="1" colspan="1">Reference</td><td align="center" valign="top" rowspan="1" colspan="1">73.4%</td><td align="center" valign="top" rowspan="1" colspan="1">Reference</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">In‐context knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">82.0%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td><td align="center" valign="top" rowspan="1" colspan="1">92.5%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl3-note-0002" ref-type="table-fn">*</xref>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Chain‐of‐thought</td><td align="center" valign="top" rowspan="1" colspan="1">100.0%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl3-note-0002" ref-type="table-fn">*</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">100.0%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl3-note-0002" ref-type="table-fn">*</xref>
+</td></tr><tr><td valign="middle" rowspan="3" align="left" colspan="1">NPV (%)</td><td align="center" valign="top" rowspan="1" colspan="1">Default knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">75.6%</td><td align="center" valign="top" rowspan="1" colspan="1">Reference</td><td align="center" valign="top" rowspan="1" colspan="1">90.1%</td><td align="center" valign="top" rowspan="1" colspan="1">Reference</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">In‐context knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">76.0%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td><td align="center" valign="top" rowspan="1" colspan="1">83.5%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Chain‐of‐thought</td><td align="center" valign="top" rowspan="1" colspan="1">93.4%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl3-note-0002" ref-type="table-fn">*</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">92.4%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td></tr></tbody></table><table-wrap-foot><fn id="wjo270180-tbl3-note-0001"><p>Abbreviations: CRS, chronic rhinosinusitis; EPOS 2020, European Position Paper on Rhinosinusitis and Nasal Polyps 2020; NPV, negative predictive value; ns, no significance; PPV, positive predictive value.</p></fn><fn id="wjo270180-tbl3-note-0002"><label>*</label><p>Statistical significance was defined as <italic toggle="yes">p</italic> &lt; 0.025 after Bonferroni correction.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><table-wrap position="float" id="wjo270180-tbl-0004" content-type="Table" orientation="portrait"><label>Table 4</label><caption><p>Subgroup analysis of the accuracy of different prompting strategies for GPT‐5.5 and DeepSeek‐V3 in categorizing CRS resectability.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" /><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Subgroup</th><th align="center" valign="bottom" rowspan="1" colspan="1">Prompting strategies</th><th align="center" valign="bottom" rowspan="1" colspan="1">GPT‐5.5</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">DeepSeek‐V3</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th></tr></thead><tbody valign="top"><tr><td valign="middle" rowspan="3" align="left" colspan="1">CRSsNP</td><td align="center" valign="top" rowspan="1" colspan="1">Default knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">64.94%</td><td align="center" valign="top" rowspan="1" colspan="1">Reference</td><td align="center" valign="top" rowspan="1" colspan="1">79.22%</td><td align="center" valign="top" rowspan="1" colspan="1">Reference</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">In‐context knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">72.73%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td><td align="center" valign="top" rowspan="1" colspan="1">80.52%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Chain‐of‐thought</td><td align="center" valign="top" rowspan="1" colspan="1">92.21%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl4-note-0002" ref-type="table-fn">*</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">90.91%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td></tr><tr><td valign="middle" rowspan="3" align="left" colspan="1">CRSwNP</td><td align="center" valign="top" rowspan="1" colspan="1">Default knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">80.82%</td><td align="center" valign="top" rowspan="1" colspan="1">Reference</td><td align="center" valign="top" rowspan="1" colspan="1">83.56%</td><td align="center" valign="top" rowspan="1" colspan="1">Reference</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">In‐context knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">83.56%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td><td align="center" valign="top" rowspan="1" colspan="1">93.15%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Chain‐of‐thought</td><td align="center" valign="top" rowspan="1" colspan="1">100.00%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl4-note-0002" ref-type="table-fn">*</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">100.00%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl4-note-0002" ref-type="table-fn">*</xref>
+</td></tr><tr><td valign="middle" rowspan="3" align="left" colspan="1">Conservative management</td><td align="center" valign="top" rowspan="1" colspan="1">Default knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">76.47%</td><td align="center" valign="top" rowspan="1" colspan="1">Reference</td><td align="center" valign="top" rowspan="1" colspan="1">75.29%</td><td align="center" valign="top" rowspan="1" colspan="1">Reference</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">In‐context knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">89.41%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td><td align="center" valign="top" rowspan="1" colspan="1">95.29%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl4-note-0002" ref-type="table-fn">*</xref>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Chain‐of‐thought</td><td align="center" valign="top" rowspan="1" colspan="1">100.00%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl4-note-0002" ref-type="table-fn">*</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">100.00%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl4-note-0002" ref-type="table-fn">*</xref>
+</td></tr><tr><td valign="middle" rowspan="3" align="left" colspan="1">Resectable</td><td align="center" valign="top" rowspan="1" colspan="1">Default knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">67.69%</td><td align="center" valign="top" rowspan="1" colspan="1">Reference</td><td align="center" valign="top" rowspan="1" colspan="1">89.23%</td><td align="center" valign="top" rowspan="1" colspan="1">Reference</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">In‐context knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">63.08%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td><td align="center" valign="top" rowspan="1" colspan="1">75.38%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl4-note-0002" ref-type="table-fn">*</xref>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Chain‐of‐thought</td><td align="center" valign="top" rowspan="1" colspan="1">90.77%</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="wjo270180-tbl4-note-0002" ref-type="table-fn">*</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">89.23%</td><td align="center" valign="top" rowspan="1" colspan="1">ns</td></tr></tbody></table><table-wrap-foot><fn id="wjo270180-tbl4-note-0001"><p>Abbreviations: CRS, chronic rhinosinusitis; CRSsNP, chronic rhinosinusitis without nasal polyps; CRSwNP, chronic rhinosinusitis with nasal polyps; ns, no significance.</p></fn><fn id="wjo270180-tbl4-note-0002"><label>*</label><p>Statistical significance was defined as <italic toggle="yes">p</italic> &lt; 0.025 after Bonferroni correction.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>In parallel, for DeepSeek‐V3, chain‐of‐thought prompting achieved significantly higher accuracy than default‐knowledge prompting (95.3% vs. 81.3%, <italic toggle="yes">p</italic> &lt; 0.001; Table <xref rid="wjo270180-tbl-0003" ref-type="table">3</xref> and Figure <xref rid="wjo270180-fig-0003" ref-type="fig">3</xref>), whereas no significant difference was observed between default‐knowledge and in‐context‐knowledge prompting (81.3% vs. 86.7%, <italic toggle="yes">p</italic> = 0.20; Table <xref rid="wjo270180-tbl-0003" ref-type="table">3</xref> and Figure <xref rid="wjo270180-fig-0003" ref-type="fig">3</xref>). With chain‐of‐thought prompting, DeepSeek‐V3 achieved an overall accuracy of 95.3% (143/150) and an F1 score of 0.94. However, subgroup analyses revealed differences according to nasal polyp status. In the CRSwNP subgroup, chain‐of‐thought prompting significantly improved accuracy compared with default‐knowledge prompting (100.0% vs. 83.6%, <italic toggle="yes">p</italic> &lt; 0.001; Table <xref rid="wjo270180-tbl-0004" ref-type="table">4</xref>), whereas the corresponding difference in the CRSsNP subgroup was not statistically significant (90.9% vs. 79.2%, <italic toggle="yes">p</italic> = 0.05). In‐context prompting did not significantly differ from default‐knowledge prompting in either the CRSsNP subgroup (80.5% vs. 79.2%, <italic toggle="yes">p</italic> = 1.00) or the CRSwNP subgroup (93.2% vs. 83.6%, <italic toggle="yes">p</italic> = 0.07). When stratified by surgical eligibility, in‐context prompting significantly improved accuracy among patients recommended for conservative management (95.3% vs. 75.3%, <italic toggle="yes">p</italic> &lt; 0.001). However, it significantly reduced accuracy among surgery‐eligible patients (75.4% vs. 89.2%, <italic toggle="yes">p</italic> = 0.01). Although chain‐of‐thought prompting improved accuracy in the conservative‐management subgroup (100.0% vs. 75.3%, <italic toggle="yes">p</italic> &lt; 0.001), it did not improve accuracy in the surgery‐eligible subgroup compared with default‐knowledge prompting (89.2% vs. 89.2%, <italic toggle="yes">p</italic> = 1.00). Overall, the benefit of chain‐of‐thought prompting for DeepSeek‐V3 was primarily observed in patients with CRSwNP and those recommended for conservative management, with no additional improvement among surgery‐eligible patients.</p><p>The stability of regenerated outputs from GPT‐5.5 and DeepSeek‐V3 was assessed by comparing responses produced at baseline with those generated 1 month later. For GPT‐5.5, agreement was evaluated across three prompting strategies: default knowledge (<italic toggle="yes">κ</italic> = 0.70; 95% CI: 0.45–0.71), in‐context knowledge (<italic toggle="yes">κ</italic> = 0.67; 95% CI: 0.54–0.79), and chain‐of‐thought reasoning (<italic toggle="yes">κ</italic> = 0.89; 95% CI: 0.81–0.96). Similarly, for DeepSeek‐V3, agreement was examined under the same strategies: default knowledge (<italic toggle="yes">κ</italic> = 0.58; 95% CI: 0.54–0.78), in‐context knowledge (<italic toggle="yes">κ</italic> = 0.65; 95% CI: 0.52–0.77), and chain‐of‐thought reasoning (<italic toggle="yes">κ</italic> = 0.86; 95% CI: 0.77–0.93).</p><p>Prompting strategies narrowed the performance gap between GPT‐5.5 and DeepSeek‐V3, with chain‐of‐thought prompting achieving the highest accuracy in both models. Interestingly, subgroup characteristics had little influence on the effects of prompting strategies for GPT‐5.5, whereas the effects observed for DeepSeek‐V3 varied according to nasal polyp status and surgical eligibility. Notably, only GPT‐5.5 and DeepSeek‐V3 with chain‐of‐thought prompting exceeded the 90% accuracy benchmark established by ENT surgeons.</p></sec><sec id="wjo270180-sec-0150"><label>3.3</label><title>ENT Residents Application</title><p>Our study characterized the distribution of AI assistance types assigned to each resident across 150 medical records and the corresponding classification accuracy (Figures <xref rid="wjo270180-fig-0004" ref-type="fig">4</xref> and <xref rid="wjo270180-fig-0005" ref-type="fig">5</xref>). Responses assisted by GPT‐5.5 achieved accuracies of 75.3% (113/150), 78.0% (117/150), and 97.3% (146/150) under default‐knowledge, in‐context‐knowledge, and chain‐of‐thought prompting, respectively. The corresponding accuracies for DeepSeek‐V3 assistance were 77.3% (116/150), 86.7% (130/150), and 98.0% (147/150). Among the prompting strategies evaluated, chain‐of‐thought assistance produced the highest resident accuracy for both models and significantly outperformed unaided residents (72.8%; both <italic toggle="yes">p</italic> &lt; 0.001).</p><fig position="float" fig-type="Figure" id="wjo270180-fig-0004" orientation="portrait"><label>Figure 4</label><caption><p>AI model assistance percentage. The 100% stacked bar chart shows, for each resident, the percentage breakdown of AI model assistance during 150 clinical case classification tasks.</p></caption><graphic position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="WJO2-9999-0-g002.webp" /></fig><fig position="float" fig-type="Figure" id="wjo270180-fig-0005" orientation="portrait"><label>Figure 5</label><caption><p>Bar graphs comparing the accuracy of residents in categorizing CRS resectability with and without AI assistance, according to EPOS 2020 criteria. CRS, chronic rhinosinusitis; EPOS 2020, European Position Paper on Rhinosinusitis and Nasal Polyps 2020.</p></caption><graphic position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="WJO2-9999-0-g001.webp" /></fig><p>In addition, residents reported no clear preference between GPT‐5.5 and DeepSeek‐V3 responses (<italic toggle="yes">p</italic> = 0.12). However, prompting strategy significantly influenced satisfaction ratings. Residents expressed greater satisfaction with chain‐of‐thought responses than with responses generated using the other prompting strategies (<italic toggle="yes">χ</italic>
+<sup>2</sup> = 130.05, <italic toggle="yes">p</italic> &lt; 0.001). Residents were more efficient in categorizing resectability with chain‐of‐thought AI assistance, completing the task in 57.0% of the time needed without AI assistance, a 43.0% reduction (95% CI: 0.41–0.44; <italic toggle="yes">p</italic> &lt; 0.001).</p></sec></sec><sec sec-type="discussion" id="wjo270180-sec-0160"><label>4</label><title>Discussion</title><p>Recent studies have explored the application of GPT‐4 in CRS for tasks such as diagnosis, pathophysiology, management, and complications [<xref rid="wjo270180-bib-0017" ref-type="bibr">17</xref>, <xref rid="wjo270180-bib-0018" ref-type="bibr">18</xref>, <xref rid="wjo270180-bib-0022" ref-type="bibr">22</xref>, <xref rid="wjo270180-bib-0024" ref-type="bibr">24</xref>, <xref rid="wjo270180-bib-0025" ref-type="bibr">25</xref>]. Yoshiyasu et al. [<xref rid="wjo270180-bib-0017" ref-type="bibr">17</xref>] evaluated GPT‐4 against the ICAR‐RS‐2021 guideline, demonstrating its ability to provide accurate and comprehensive responses on antibiotic use, biologic therapies, and surgical timing in rhinosinusitis, whereas Workman et al. [<xref rid="wjo270180-bib-0018" ref-type="bibr">18</xref>] developed a LangChain‐powered chatbot leveraging ICAR‐RS to deliver more actionable, guideline‐based recommendations. However, more recent research [<xref rid="wjo270180-bib-0022" ref-type="bibr">22</xref>] evaluations of ChatGPT‐4, Bard, and Llama against the AAO‐HNS adult sinusitis guideline showed deficiencies in accuracy and completeness, underscoring the necessity of enhancing AI systems to improve reliability and guideline concordance. Although previous studies [<xref rid="wjo270180-bib-0032" ref-type="bibr">32</xref>, <xref rid="wjo270180-bib-0033" ref-type="bibr">33</xref>] have demonstrated the clinical potential of AI, few have evaluated its performance on real‐world clinical cases. To our knowledge, this investigation represents the first head‐to‐head evaluation of GPT‐5.5 and DeepSeek‐V3 in formulating treatment recommendations for real‐world rhinosinusitis cases in accordance with the EPOS2020 guidelines.</p><p>For CRS, resectability classification based on EPOS 2020 guidelines is pivotal yet complex, with variability in physicians' clinical application. Although GPT‐5.5 and DeepSeek‐V3 demonstrated clinical reasoning capabilities, their performance differed under less structured prompting. With default‐knowledge prompting, DeepSeek‐V3 achieved higher accuracy than GPT‐5.5 (81.3% vs. 72.7%). Subgroup analyses indicated that this difference was primarily related to the models' ability to translate clinical information into guideline‐based treatment decisions rather than to the recognition of nasal polyp status alone. Under default‐knowledge prompting, the largest disadvantage of GPT‐5.5 occurred in the CRSsNP and surgery‐eligible subgroups. In patients without nasal polyps, surgical eligibility requires the integration of multiple clinical criteria in the absence of an obvious phenotypic indicator. GPT‐5.5 may have applied these criteria less consistently, resulting in lower sensitivity than DeepSeek‐V3 (67.7% vs. 89.2%), despite their comparable specificity (76.5% vs. 75.3%). In‐context prompting produced modest improvements in overall accuracy for both models (GPT‐5.5: 78.0%; DeepSeek‐V3: 86.7%) and shifted their predictions toward more conservative treatment decisions, as reflected by increased specificity but decreased sensitivity. Nevertheless, GPT‐5.5 continued to underperform DeepSeek‐V3 among surgery‐eligible patients, and in‐context prompting did not significantly improve its performance in the CRSwNP subgroup. These findings suggest that providing guideline information alone may not ensure that individual criteria are integrated according to the appropriate decision sequence. In contrast, chain‐of‐thought prompting substantially improved accuracy to 96.0% for GPT‐5.5% and 95.3% for DeepSeek‐V3, thereby narrowing the performance difference between the models. Structured reasoning prompts may therefore improve performance by guiding both models through a more systematic and consistent guideline‐based decision process. This observation is consistent with previous studies indicating that chain‐of‐thought prompting can enhance the reasoning performance of LLMs [<xref rid="wjo270180-bib-0027" ref-type="bibr">27</xref>, <xref rid="wjo270180-bib-0034" ref-type="bibr">34</xref>, <xref rid="wjo270180-bib-0035" ref-type="bibr">35</xref>].</p><p>We also assessed differences in output stability between GPT‐5.5 and DeepSeek‐V3 across three prompting strategies. Under the default‐knowledge strategy, GPT‐5.5 achieved a Kappa value of 0.70 (95% CI: 0.58–0.81), indicating substantial agreement. In contrast, DeepSeek‐V3 yielded a lower Kappa value of 0.58 (95% CI: 0.45–0.71), indicating moderate agreement and suggesting comparatively greater variability under this strategy. Under the in‐context‐knowledge strategy, GPT‐5.5 achieved a Kappa value of 0.67 (95% CI: 0.54–0.79), while DeepSeek‐V3 achieved a Kappa value of 0.65 (95% CI: 0.52–0.77), demonstrating substantial but suboptimal stability for both models. These findings suggest that GPT‐5.5 was generally more stable, particularly under default‐knowledge prompting, whereas DeepSeek‐V3 may be more susceptible to variability across repeated generations. Under the chain‐of‐thought reasoning strategy, GPT‐5.5 achieved a Kappa value of 0.89 (95% CI: 0.81–0.96), while DeepSeek‐V3 achieved a Kappa value of 0.86 (95% CI: 0.77–0.94), indicating near‐perfect agreement for both models. This suggests that chain‐of‐thought reasoning enhances model stability and narrows the stability difference between GPT‐5.5 and DeepSeek‐V3. Potential reasons for these findings include the greater consistency of GPT‐5.5 when applying its internal knowledge, whereas DeepSeek‐V3 may be more sensitive to stochastic variation under less structured prompting. By providing clear reasoning steps and internal logic, chain‐of‐thought prompting may promote more reproducible application of clinical decision criteria and reduce fluctuations across repeated outputs.</p><p>For resectability categorization, ENT residents were significantly more accurate when assisted by chain‐of‐thought AI‐generated responses compared with when no AI assistance was provided (GPT‐5.5: 97.3% vs. 72.8%, <italic toggle="yes">p</italic> &lt; 0.001; DeepSeek‐V3: 98.0% vs. 72.8%, <italic toggle="yes">p</italic> &lt; 0.001). Furthermore, the chain‐of‐thought improved efficiency, with residents completing resectability categorization using AI‐generated reports in only 57% of the time required without AI assistance. Residents expressed a strong preference for chain‐of‐thought AI models to assist in CRS resectability categorization, finding them significantly easier to apply for accurate classification (<italic toggle="yes">p</italic> &lt; 0.001). This preference may be attributable to their structured reasoning process and concise extraction of key clinical information, which facilitated interpretation and clinical decision‐making.</p><p>Given that this exceeds our predefined accuracy threshold of 90% for preliminary classification by ENT surgeons, the finding underscores its potential for clinical implementation. Nevertheless, the chain‐of‐thought requires further validation in clinical settings to establish its practical utility. For AI‐generated responses, ENT residents favored the chain‐of‐thought approach over other strategies. Importantly, implementing the chain‐of‐thought significantly enhanced residents' accuracy and efficiency in resectability classification compared with those who received no AI assistance. In clinical practice, these enhancements in accuracy, efficiency, and overall quality may not only strengthen the capabilities of junior ENT residents but also improve clinical decision‐making and patient care. Therefore, clinical implementation in supervised settings, including real‐world decision‐making and board examination preparation, may be considered after further validation to ensure safety and reliability. Additionally, similar strategies could be adapted for other complex otolaryngologic tasks, such as automated diagnostic support and personalized treatment planning, which merits further exploration.</p><p>In parallel, under the default‐ and in‐context‐knowledge conditions, GPT‐5.5 misclassified 27.3% and 22.0% of cases, respectively, whereas DeepSeek‐V3 misclassified 18.7% and 13.3%, respectively. These elevated error rates are particularly worrisome in clinical practice, where the precision of diagnostic decisions has a direct impact on patient quality of life. Although overall accuracy in CRS resectability categorization was similar between GPT‐5.5 and DeepSeek‐V3, the variability observed across prompting strategies suggests that each model may depend on distinct reasoning processes when interpreting complex clinical information. Moreover, the occurrence of non‐overlapping errors underscores the potential advantages of incorporating chain‐of‐thought prompting to further improve AI performance.</p><p>Although GPT‐5.5 and DeepSeek‐V3 demonstrated improved performance in CRS treatment recommendations following chain‐of‐thought adjustments, their interpretations based on default knowledge frequently consisted of generalized procedural descriptions derived from existing literature, lacking the nuanced insights required for high‐stakes clinical decision‐making. This highlights the inherent limitations of these AI models in substituting the expert judgment of experienced clinicians. Therefore, even after refinement through targeted dataset training and validation in rigorous clinical settings, these AI systems should be employed exclusively as adjunctive aids under physician oversight, aligning with the recommendations of prior studies [<xref rid="wjo270180-bib-0017" ref-type="bibr">17</xref>, <xref rid="wjo270180-bib-0018" ref-type="bibr">18</xref>, <xref rid="wjo270180-bib-0036" ref-type="bibr">36</xref>, <xref rid="wjo270180-bib-0037" ref-type="bibr">37</xref>]. Accordingly, ongoing refinement is essential to enable these models to automatically and accurately integrate clinical guidelines, thereby promoting more reliable and clinically meaningful applications in otolaryngology.</p><p>Furthermore, due to persistent concerns regarding patient privacy and data security on public AI platforms, there is a pressing need for secure, locally hosted, and institution‐specific systems [<xref rid="wjo270180-bib-0038" ref-type="bibr">38</xref>]. Within this landscape, open‐weight models like DeepSeek‐V3 provide critical opportunities. They offer key advantages in transparency and customizability [<xref rid="wjo270180-bib-0006" ref-type="bibr">6</xref>], allowing healthcare institutions to retain sensitive data exclusively within hospital‐controlled networks. Recent studies confirm that, with appropriate prompting strategies, such locally deployable models can achieve performance comparable to proprietary systems in diagnosis and classification tasks [<xref rid="wjo270180-bib-0039" ref-type="bibr">39</xref>, <xref rid="wjo270180-bib-0040" ref-type="bibr">40</xref>]. Moving forward, this secure localized infrastructure is poised to streamline clinical workflows by utilizing chain‐of‐thought processing to rapidly transform newly recorded medical histories into preliminary CRS resectability categorizations for review by resident physicians. However, the operational feasibility and deep localization of these models in real‐world clinical settings require further empirical evaluation.</p><p>This study has several limitations that warrant consideration. First, although the chain‐of‐thought prompting strategy achieved high performance, further clinical validation remains necessary. AI systems should be used as adjunctive aids under physician supervision rather than as substitutes for expert clinical judgment. Second, the assessment of AI‐generated outputs relied exclusively on textual information, without integration of multimodal clinical data, including endoscopic imagery or CT scan results. Future studies should include a broader range of complex cases and imaging modalities to enhance the statistical robustness and generalizability of findings. Lastly, although patient‐identifiable information was strictly anonymized prior to AI processing in this study, the reliance on cloud‐based AI models presents inherent data security challenges for routine clinical implementation. Since manual de‐identification limits the scalability of real‐time EMR workflows, future applications should prioritize the local deployment of open‐weight models within hospital intranets.</p></sec><sec sec-type="conclusions" id="wjo270180-sec-0170"><label>5</label><title>Conclusion</title><p>GPT‐5.5 and DeepSeek‐V3 showed substantial potential for classifying CRS resectability based on EPOS 2020 guidelines, particularly when chain‐of‐thought prompting was applied. Structured reasoning improved accuracy, reduced performance differences between the models, and enhanced output stability. Chain‐of‐thought AI assistance also improved the accuracy and efficiency of otolaryngology residents compared with unaided decision‐making. Nevertheless, errors observed under less structured prompting indicate that these models should currently be used as supervised decision‐support tools rather than as substitutes for clinical judgment. Further prospective studies are required to validate their generalizability, safety, and clinical utility in real‐world otolaryngology practice.</p></sec><sec id="wjo270180-sec-0180"><title>Author Contributions</title><p>The authors confirm their contribution to the paper as follows: Study conception and design: Jia‐Hong Lao and Rong‐Rong Ge. Data collection: Jia‐Hong Lao and Shu‐Yi Huang. Analysis and interpretation of results: Shu‐Yi Huang, Yu Jiang, and Shuo Wu. Draft manuscript preparation: Jia‐Hong Lao and Rong‐Rong Ge. All authors reviewed the results and approved the final version of the manuscript.</p></sec><sec id="wjo270180-sec-0200"><title>Funding</title><p>The authors have nothing to report.</p></sec><sec id="wjo270180-sec-0210"><title>Ethics Statement</title><p>The study was conducted in accordance with the Declaration of Helsinki and was approved by the Ethics Committee of the Third Affiliated Hospital of Sun Yat‐sen University on October 10, 2025, with the requirement for written informed consent waived.</p></sec><sec sec-type="COI-statement" id="wjo270180-sec-0220"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="wjo270180-suppl-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+Supporting File
+</p></caption><media xlink:href="WJO2-9999-0-s001.docx" position="float" orientation="portrait" /></supplementary-material></sec></body><back><ack id="wjo270180-sec-0190"><title>Acknowledgments</title><p>The authors have nothing to report.</p></ack><sec sec-type="data-availability" id="wjo270180-sec-0240"><title>Data Availability Statement</title><p>The data generated in this study are available upon request to the corresponding author.</p></sec><ref-list content-type="cited-references" id="wjo270180-bibl-0001"><title>References</title><ref id="wjo270180-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="wjo270180-cit-0001">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Merrill</surname>
+</string-name> and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kanaan</surname>
+</string-name>, “<article-title>Managing Chronic Rhinosinusitis With Nasal Polyps in the Elderly: Challenges and Solutions</article-title>,” <source>Clinical Interventions in Aging</source>
+<volume>17</volume> (<year>2022</year>): <fpage>685</fpage>–<lpage>698</lpage>, <pub-id pub-id-type="doi">10.2147/CIA.S279765</pub-id>.<pub-id pub-id-type="pmcid">PMC9077011</pub-id><pub-id pub-id-type="pmid">35535364</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="wjo270180-cit-0002">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Tsai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. C.</given-names>
+<surname>Shih</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I. T.</given-names>
+<surname>Lee</surname>
+</string-name>, et al., “<article-title>Older Age Is Associated With Better Compliance With Follow‐Up in Taiwan After Functional Endoscopic Sinus Surgery</article-title>,” <source>In Vivo</source>
+<volume>34</volume>, no. <issue>5</issue> (<year>2020</year>): <fpage>2571</fpage>–<lpage>2576</lpage>, <pub-id pub-id-type="doi">10.21873/invivo.12074</pub-id>.<pub-id pub-id-type="pmcid">PMC7652454</pub-id><pub-id pub-id-type="pmid">32871786</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="wjo270180-cit-0003">
+<string-name name-style="western">
+<given-names>R. R. E.</given-names>
+<surname>Uwiera</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Vijayasekaran</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Wallace</surname>
+</string-name>, et al., “<article-title>Fungal Rhinosinusitis Caused by a <italic toggle="yes">Curvularia</italic> sp. Infection in a Female Sumatran Orangutan: A Case Report</article-title>,” <source>Pathogens</source>
+<volume>11</volume>, no. <issue>10</issue> (<year>2022</year>): <elocation-id>1166</elocation-id>, <pub-id pub-id-type="doi">10.3390/pathogens11101166</pub-id>.<pub-id pub-id-type="pmcid">PMC9612030</pub-id><pub-id pub-id-type="pmid">36297223</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="wjo270180-cit-0004">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Mimari</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Radulesco</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Penicaud</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Dessi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Michel</surname>
+</string-name>, “<article-title>Surgical Management of Chronic Rhinosinusitis With Nasal Polyps Under Local Anaesthesia: Indications and Results</article-title>,” <source>Acta Otorhinolaryngologica Italica</source>
+<volume>43</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>42</fpage>–<lpage>48</lpage>, <pub-id pub-id-type="doi">10.14639/0392-100X-N1984</pub-id>.<pub-id pub-id-type="pmcid">PMC9978296</pub-id><pub-id pub-id-type="pmid">36860149</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="wjo270180-cit-0005">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Tzelnick</surname>
+</string-name>, <string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Alkan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Leshno</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Hwang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Soudry</surname>
+</string-name>, “<article-title>Sinonasal Debridement Versus No Debridement for the Postoperative Care of Patients Undergoing Endoscopic Sinus Surgery</article-title>,” <source>Cochrane Database of Systematic Reviews</source>
+<volume>11</volume>, no. <issue>11</issue> (<year>2018</year>): <elocation-id>CD011988</elocation-id>, <pub-id pub-id-type="doi">10.1002/14651858.CD011988.pub2</pub-id>.<pub-id pub-id-type="pmcid">PMC6517168</pub-id><pub-id pub-id-type="pmid">30407624</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="wjo270180-cit-0006">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Sandmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Hegselmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Fujarski</surname>
+</string-name>, et al., “<article-title>Benchmark Evaluation of DeepSeek Large Language Models in Clinical Decision‐Making</article-title>,” <source>Nature Medicine</source>
+<volume>31</volume> (<year>2025</year>): <fpage>2546</fpage>–<lpage>2549</lpage>, <pub-id pub-id-type="doi">10.1038/s41591-025-03727-2</pub-id>.<pub-id pub-id-type="pmcid">PMC12353792</pub-id><pub-id pub-id-type="pmid">40267970</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="wjo270180-cit-0007">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Yang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Shi</surname>
+</string-name>, “<article-title>Evaluating ChatGPT's Performance in Answering Questions About Allergic Rhinitis and Chronic Rhinosinusitis</article-title>,” <source>Otolaryngology–Head and Neck Surgery</source>
+<volume>171</volume>, no. <issue>2</issue> (<year>2024</year>): <fpage>571</fpage>–<lpage>577</lpage>, <pub-id pub-id-type="doi">10.1002/ohn.832</pub-id>.<pub-id pub-id-type="pmid">38796735</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="wjo270180-cit-0008">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Quer</surname>
+</string-name> and <string-name name-style="western">
+<given-names>E. J.</given-names>
+<surname>Topol</surname>
+</string-name>, “<article-title>The Potential for Large Language Models to Transform Cardiovascular Medicine</article-title>,” <source>Lancet Digital Health</source>
+<volume>6</volume>, no. <issue>10</issue> (<year>2024</year>): <fpage>e767</fpage>–<lpage>e771</lpage>, <pub-id pub-id-type="doi">10.1016/S2589-7500(24)00151-1</pub-id>.<pub-id pub-id-type="pmid">39214760</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="wjo270180-cit-0009">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Ahsan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>McInerney</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Kim</surname>
+</string-name>, et al., “<article-title>Retrieving Evidence From EHRs With LLMs: Possibilities and Challenges</article-title>,” <source>Proceedings of Machine Learning Research</source>
+<volume>248</volume> (<year>2024</year>): <fpage>489</fpage>–<lpage>505</lpage>.<pub-id pub-id-type="pmcid">PMC11368037</pub-id><pub-id pub-id-type="pmid">39224857</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="wjo270180-cit-0010">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Berardi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Morgese</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Rinaldi</surname>
+</string-name>, et al., “<article-title>Benefits and Limitations of a Multidisciplinary Approach in Cancer Patient Management</article-title>,” <source>Cancer Management and Research</source>
+<volume>12</volume> (<year>2020</year>): <fpage>9363</fpage>–<lpage>9374</lpage>, <pub-id pub-id-type="doi">10.2147/CMAR.S220976</pub-id>.<pub-id pub-id-type="pmcid">PMC7533227</pub-id><pub-id pub-id-type="pmid">33061625</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="wjo270180-cit-0011">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Thenappan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Halaweish</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. J.</given-names>
+<surname>Mody</surname>
+</string-name>, et al., “<article-title>Review at a Multidisciplinary Tumor Board Impacts Critical Management Decisions of Pediatric Patients With Cancer</article-title>,” <source>Pediatric Blood &amp; Cancer</source>
+<volume>64</volume>, no. <issue>2</issue> (<year>2017</year>): <fpage>254</fpage>–<lpage>258</lpage>, <pub-id pub-id-type="doi">10.1002/pbc.26201</pub-id>.<pub-id pub-id-type="pmid">27578484</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="wjo270180-cit-0012">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Gill</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. P.</given-names>
+<surname>Cetnar</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Prasad</surname>
+</string-name>, “<article-title>A Timeline of Immune Checkpoint Inhibitor Approvals in Small Cell Lung Cancer</article-title>,” <source>Trends in Cancer</source>
+<volume>6</volume>, no. <issue>9</issue> (<year>2020</year>): <fpage>736</fpage>–<lpage>738</lpage>, <pub-id pub-id-type="doi">10.1016/j.trecan.2020.05.014</pub-id>.<pub-id pub-id-type="pmid">32616400</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="wjo270180-cit-0013">
+<string-name name-style="western">
+<given-names>A. P.</given-names>
+<surname>Mahajan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. L.</given-names>
+<surname>Shabet</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. F.</given-names>
+<surname>Rudy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Kupfer</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L. A.</given-names>
+<surname>Bohm</surname>
+</string-name>, “<article-title>Assessment of Artificial Intelligence Performance on the Otolaryngology Residency In‐Service Exam</article-title>,” <source>OTO Open</source>
+<volume>7</volume>, no. <issue>4</issue> (<year>2023</year>): <elocation-id>e98</elocation-id>, <pub-id pub-id-type="doi">10.1002/oto2.98</pub-id>.<pub-id pub-id-type="pmcid">PMC10687376</pub-id><pub-id pub-id-type="pmid">38034065</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="wjo270180-cit-0014">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Long</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Lowe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, et al., “<article-title>A Novel Evaluation Model for Assessing ChatGPT on Otolaryngology‐Head and Neck Surgery Certification Examinations: Performance Study</article-title>,” <source>JMIR Medical Education</source>
+<volume>10</volume> (<year>2024</year>): <elocation-id>e49970</elocation-id>, <pub-id pub-id-type="doi">10.2196/49970</pub-id>.<pub-id pub-id-type="pmcid">PMC10828939</pub-id><pub-id pub-id-type="pmid">38227351</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="wjo270180-cit-0015">
+<string-name name-style="western">
+<given-names>R. C. T.</given-names>
+<surname>Cheong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. P.</given-names>
+<surname>Pang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Unadkat</surname>
+</string-name>, et al., “<article-title>Performance of Artificial Intelligence Chatbots in Sleep Medicine Certification Board Exams: ChatGPT Versus Google Bard</article-title>,” <source>European Archives of Oto‐Rhino‐Laryngology</source>
+<volume>281</volume>, no. <issue>4</issue> (<year>2024</year>): <fpage>2137</fpage>–<lpage>2143</lpage>, <pub-id pub-id-type="doi">10.1007/s00405-023-08381-3</pub-id>.<pub-id pub-id-type="pmid">38117307</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="wjo270180-cit-0016">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Marchi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Bellini</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Iandelli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Sampieri</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Peretti</surname>
+</string-name>, “<article-title>Exploring the Landscape of AI‐Assisted Decision‐Making in Head and Neck Cancer Treatment: A Comparative Analysis of NCCN Guidelines and ChatGPT Responses</article-title>,” <source>European Archives of Oto‐Rhino‐Laryngology</source>
+<volume>281</volume>, no. <issue>4</issue> (<year>2024</year>): <fpage>2123</fpage>–<lpage>2136</lpage>, <pub-id pub-id-type="doi">10.1007/s00405-024-08525-z</pub-id>.<pub-id pub-id-type="pmid">38421392</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="wjo270180-cit-0017">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Yoshiyasu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Dhanda</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Gorelik</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Takashima</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>O. G.</given-names>
+<surname>Ahmed</surname>
+</string-name>, “<article-title>GPT‐4 Accuracy and Completeness Against International Consensus Statement on Allergy and Rhinology: Rhinosinusitis</article-title>,” <source>International Forum of Allergy &amp; Rhinology</source>
+<volume>13</volume>, no. <issue>12</issue> (<year>2023</year>): <fpage>2231</fpage>–<lpage>2234</lpage>, <pub-id pub-id-type="doi">10.1002/alr.23201</pub-id>.<pub-id pub-id-type="pmid">37260081</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="wjo270180-cit-0018">
+<string-name name-style="western">
+<given-names>A. D.</given-names>
+<surname>Workman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V. K.</given-names>
+<surname>Rathi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. K.</given-names>
+<surname>Lerner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. N.</given-names>
+<surname>Palmer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. D.</given-names>
+<surname>Adappa</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N. A.</given-names>
+<surname>Cohen</surname>
+</string-name>, “<article-title>Utility of a LangChain and OpenAI GPT‐Powered Chatbot Based on the International Consensus Statement on Allergy and Rhinology: Rhinosinusitis</article-title>,” <source>International Forum of Allergy &amp; Rhinology</source>
+<volume>14</volume>, no. <issue>6</issue> (<year>2024</year>): <fpage>1101</fpage>–<lpage>1109</lpage>, <pub-id pub-id-type="doi">10.1002/alr.23310</pub-id>.<pub-id pub-id-type="pmid">38109231</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="wjo270180-cit-0019">
+<string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Lechien</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Chiesa‐Estomba</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Baudouin</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Hans</surname>
+</string-name>, “<article-title>Accuracy of ChatGPT in Head and Neck Oncological Board Decisions: Preliminary Findings</article-title>,” <source>European Archives of Oto‐Rhino‐Laryngology</source>
+<volume>281</volume>, no. <issue>4</issue> (<year>2024</year>): <fpage>2105</fpage>–<lpage>2114</lpage>, <pub-id pub-id-type="doi">10.1007/s00405-023-08326-w</pub-id>.<pub-id pub-id-type="pmid">37991498</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="wjo270180-cit-0020">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Radulesco</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Saibene</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Michel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. A.</given-names>
+<surname>Vaira</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Lechien</surname>
+</string-name>, “<article-title>ChatGPT‐4 Performance in Rhinology: A Clinical Case Series</article-title>,” <source>International Forum of Allergy &amp; Rhinology</source>
+<volume>14</volume>, no. <issue>6</issue> (<year>2024</year>): <fpage>1123</fpage>–<lpage>1130</lpage>, <pub-id pub-id-type="doi">10.1002/alr.23323</pub-id>.<pub-id pub-id-type="pmid">38268099</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="wjo270180-cit-0021">
+<string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Lechien</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Maniaci</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Gengler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Hans</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Chiesa‐Estomba</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L. A.</given-names>
+<surname>Vaira</surname>
+</string-name>, “<article-title>Validity and Reliability of an Instrument Evaluating the Performance of Intelligent Chatbot: The Artificial Intelligence Performance Instrument (AIPI)</article-title>,” <source>European Archives of Oto‐Rhino‐Laryngology</source>
+<volume>281</volume>, no. <issue>4</issue> (<year>2024</year>): <fpage>2063</fpage>–<lpage>2079</lpage>, <pub-id pub-id-type="doi">10.1007/s00405-023-08219-y</pub-id>.<pub-id pub-id-type="pmid">37698703</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="wjo270180-cit-0022">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Edalati</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Sharma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Guda</surname>
+</string-name>, et al., “<article-title>Assessing Adult Sinusitis Guidelines: A Comparative Analysis of AAO‐HNS and AI Chatbots</article-title>,” <source>American Journal of Otolaryngology</source>
+<volume>46</volume>, no. <issue>1</issue> (<year>2025</year>): <elocation-id>104563</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.amjoto.2024.104563</pub-id>.<pub-id pub-id-type="pmid">39884919</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="wjo270180-cit-0023">
+<string-name name-style="western">
+<given-names>Ç.</given-names>
+<surname>Becerik</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Yıldız</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Ç.</given-names>
+<surname>Tepe Karaca</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. Z.</given-names>
+<surname>Toros</surname>
+</string-name>, “<article-title>Evaluation of the Usability of ChatGPT‐4 and Google Gemini in Patient Education About Rhinosinusitis</article-title>,” <source>Clinical Otolaryngology</source>
+<volume>50</volume>, no. <issue>3</issue> (<year>2025</year>): <fpage>456</fpage>–<lpage>461</lpage>, <pub-id pub-id-type="doi">10.1111/coa.14273</pub-id>.<pub-id pub-id-type="pmid">39776223</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="wjo270180-cit-0024">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Maniaci</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Saibene</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Calvo‐Henriquez</surname>
+</string-name>, et al., “<article-title>Is Generative Pre‐Trained Transformer Artificial Intelligence (Chat‐GPT) a Reliable Tool for Guidelines Synthesis? A Preliminary Evaluation for Biologic Crswnp Therapy</article-title>,” <source>European Archives of Oto‐Rhino‐Laryngology</source>
+<volume>281</volume>, no. <issue>4</issue> (<year>2024</year>): <fpage>2167</fpage>–<lpage>2173</lpage>, <pub-id pub-id-type="doi">10.1007/s00405-024-08464-9</pub-id>.<pub-id pub-id-type="pmid">38329526</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="wjo270180-cit-0025">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Manzella</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Immordino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Galletti</surname>
+</string-name>, et al., “<article-title>ChatGPT in the Management of Chronic Rhinosinusitis With Nasal Polyps: Promising Support or Digital Illusion? Insights From a Multicenter Observational Study</article-title>,” <source>Journal of Clinical Medicine</source>
+<volume>14</volume>, no. <issue>13</issue> (<year>2025</year>): <elocation-id>4501</elocation-id>, <pub-id pub-id-type="doi">10.3390/jcm14134501</pub-id>.<pub-id pub-id-type="pmcid">PMC12249846</pub-id><pub-id pub-id-type="pmid">40648874</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="wjo270180-cit-0026">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Vural Camalan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Doluoglu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. H.</given-names>
+<surname>Taraf</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Gunay</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ozlugedik</surname>
+</string-name>, “<article-title>ChatGPT Versus DeepSeek in Head and Neck Cancer Staging and Treatment Planning: Guideline‐Based Study</article-title>,” <source>European Archives of Oto‐Rhino‐Laryngology</source>
+<volume>282</volume> (<year>2025</year>): <fpage>4815</fpage>–<lpage>4824</lpage>, <pub-id pub-id-type="doi">10.1007/s00405-025-09524-4</pub-id>.<pub-id pub-id-type="pmcid">PMC12423241</pub-id><pub-id pub-id-type="pmid">40523995</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="wjo270180-cit-0027">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Bhayana</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Nanda</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Dehkharghanian</surname>
+</string-name>, et al., “<article-title>Large Language Models for Automated Synoptic Reports and Resectability Categorization in Pancreatic Cancer</article-title>,” <source>Radiology</source>
+<volume>311</volume>, no. <issue>3</issue> (<year>2024</year>): <elocation-id>e233117</elocation-id>, <pub-id pub-id-type="doi">10.1148/radiol.233117</pub-id>.<pub-id pub-id-type="pmid">38888478</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="wjo270180-cit-0028">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Dai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Liao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Zhao</surname>
+</string-name>, et al., “<article-title>Large Language Model Enhanced Logic Tensor Network for Stance Detection</article-title>,” <source>Neural Networks</source>
+<volume>183</volume> (<year>2025</year>): <elocation-id>106956</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.neunet.2024.106956</pub-id>.<pub-id pub-id-type="pmid">39637822</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="wjo270180-cit-0029">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Liévin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. E.</given-names>
+<surname>Hother</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. G.</given-names>
+<surname>Motzfeldt</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Winther</surname>
+</string-name>, “<article-title>Can Large Language Models Reason About Medical Questions?</article-title>,” <source>Patterns (New York, N.Y.)</source>
+<volume>5</volume>, no. <issue>3</issue> (<year>2024</year>): <elocation-id>100943</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.patter.2024.100943</pub-id>.<pub-id pub-id-type="pmcid">PMC10935498</pub-id><pub-id pub-id-type="pmid">38487804</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="wjo270180-cit-0030">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Xiao</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, “<article-title>Attitudes Toward Posthumous Assisted Reproduction in China: A Multi‐Dimensional Survey</article-title>,” <source>Reproductive Health</source>
+<volume>19</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>122</fpage>, <pub-id pub-id-type="doi">10.1186/s12978-022-01423-9</pub-id>.<pub-id pub-id-type="pmcid">PMC9124412</pub-id><pub-id pub-id-type="pmid">35598020</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="wjo270180-cit-0031">
+<string-name name-style="western">
+<given-names>R. S.</given-names>
+<surname>Myers</surname>
+</string-name> and <string-name name-style="western">
+<given-names>V. N.</given-names>
+<surname>Slee</surname>
+</string-name>, “<article-title>Medical Statistics Tell the Story at a Glance</article-title>,” <source>Modern Hospital</source>
+<volume>93</volume> (<year>1959</year>): <fpage>72</fpage>–<lpage>75</lpage>.<pub-id pub-id-type="pmid">14425614</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="wjo270180-cit-0032">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Brennan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Balakumar</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Bennett</surname>
+</string-name>, “<article-title>The Role of ChatGPT in Enhancing ENT Surgical Training ‐ a Trainees' Perspective</article-title>,” <source>Journal of Laryngology &amp; Otology</source>
+<volume>138</volume>, no. <issue>5</issue> (<year>2024</year>): <fpage>480</fpage>–<lpage>486</lpage>, <pub-id pub-id-type="doi">10.1017/s0022215123001354</pub-id>.<pub-id pub-id-type="pmid">37583313</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="wjo270180-cit-0033">
+<string-name name-style="western">
+<given-names>A. H.</given-names>
+<surname>Duey</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. S.</given-names>
+<surname>Nietsch</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Zaidat</surname>
+</string-name>, et al., “<article-title>Thromboembolic Prophylaxis in Spine Surgery: An Analysis of ChatGPT Recommendations</article-title>,” <source>Spine Journal</source>
+<volume>23</volume>, no. <issue>11</issue> (<year>2023</year>): <fpage>1684</fpage>–<lpage>1691</lpage>, <pub-id pub-id-type="doi">10.1016/j.spinee.2023.07.015</pub-id>.<pub-id pub-id-type="pmid">37499880</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="wjo270180-cit-0034">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Singhal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Gottweis</surname>
+</string-name>, et al., “<article-title>Toward Expert‐Level Medical Question Answering With Large Language Models</article-title>,” <source>Nature Medicine</source>
+<volume>31</volume>, no. <issue>3</issue> (<year>2025</year>): <fpage>943</fpage>–<lpage>950</lpage>, <pub-id pub-id-type="doi">10.1038/s41591-024-03423-7</pub-id>.<pub-id pub-id-type="pmcid">PMC11922739</pub-id><pub-id pub-id-type="pmid">39779926</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="wjo270180-cit-0035">
+<string-name name-style="western">
+<given-names>C. W.</given-names>
+<surname>Tsai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. J.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. U.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. C.</given-names>
+<surname>Tsai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. C.</given-names>
+<surname>Yeh</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C. H.</given-names>
+<surname>Kao</surname>
+</string-name>, “<article-title>Optimizing Patient Education for Radioactive Iodine Therapy and the Role of ChatGPT Incorporating Chain‐of‐Thought Technique: ChatGPT Questionnaire</article-title>,” <source>Digital Health</source>
+<volume>11</volume> (<year>2025</year>): <elocation-id>20552076251357468</elocation-id>, <pub-id pub-id-type="doi">10.1177/20552076251357468</pub-id>.<pub-id pub-id-type="pmcid">PMC12246665</pub-id><pub-id pub-id-type="pmid">40656856</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="wjo270180-cit-0036">
+<string-name name-style="western">
+<given-names>C. R.</given-names>
+<surname>Buhr</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Huppertz</surname>
+</string-name>, et al., “<article-title>ChatGPT Versus Consultants: Blinded Evaluation on Answering Otorhinolaryngology Case‐Based Questions</article-title>,” <source>JMIR Medical Education</source>
+<volume>9</volume> (<year>2023</year>): <elocation-id>e49183</elocation-id>, <pub-id pub-id-type="doi">10.2196/49183</pub-id>.<pub-id pub-id-type="pmcid">PMC10731554</pub-id><pub-id pub-id-type="pmid">38051578</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="wjo270180-cit-0037">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Teixeira‐Marques</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Medeiros</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Nazaré</surname>
+</string-name>, et al., “<article-title>Exploring the Role of ChatGPT in Clinical Decision‐Making in Otorhinolaryngology: A ChatGPT Designed Study</article-title>,” <source>European Archives of Oto‐Rhino‐Laryngology</source>
+<volume>281</volume>, no. <issue>4</issue> (<year>2024</year>): <fpage>2023</fpage>–<lpage>2030</lpage>, <pub-id pub-id-type="doi">10.1007/s00405-024-08498-z</pub-id>.<pub-id pub-id-type="pmid">38345613</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="wjo270180-cit-0038">
+<string-name name-style="western">
+<given-names>C. R.</given-names>
+<surname>Buhr</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. P.</given-names>
+<surname>Ernst</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Blaikie</surname>
+</string-name>, et al., “<article-title>Assessment of Decision‐Making With Locally Run and Web‐Based Large Language Models Versus Human Board Recommendations in Otorhinolaryngology, Head and Neck Surgery</article-title>,” <source>European Archives of Oto‐Rhino‐Laryngology</source>
+<volume>282</volume>, no. <issue>3</issue> (<year>2025</year>): <fpage>1593</fpage>–<lpage>1607</lpage>, <pub-id pub-id-type="doi">10.1007/s00405-024-09153-3</pub-id>.<pub-id pub-id-type="pmcid">PMC11890241</pub-id><pub-id pub-id-type="pmid">39792200</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="wjo270180-cit-0039">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Skrabic</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Viculin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Boban</surname>
+</string-name>, et al., “<article-title>Large Language Models as Second Reviewers for Medical Errors in Real‐World Internal Medicine Reports: A Prospective Comparative Study of Open‐ and Closed‐Source Models</article-title>,” <source>International Journal of Medical Informatics</source>
+<volume>211</volume> (<year>2026</year>): <elocation-id>106316</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.ijmedinf.2026.106316</pub-id>.<pub-id pub-id-type="pmid">41655522</pub-id></mixed-citation></ref><ref id="wjo270180-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="wjo270180-cit-0040">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Tarabanis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Khurshid</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Karamanou</surname>
+</string-name>, et al., “<article-title>Cardiology Knowledge Assessment of Retrieval‐Augmented Open Versus Proprietary Large Language Models</article-title>,” <source>PLOS Digital Health</source>
+<volume>5</volume>, no. <issue>3</issue> (<year>2026</year>): <elocation-id>e0001029</elocation-id>, <pub-id pub-id-type="doi">10.1371/journal.pdig.0001029</pub-id>.<pub-id pub-id-type="pmcid">PMC12981508</pub-id><pub-id pub-id-type="pmid">41818295</pub-id></mixed-citation></ref></ref-list></back></article>
